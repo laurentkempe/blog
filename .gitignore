@@ -1,3 +1,11 @@
+# Hexo
+db.json
+public/
+.deploy*/
+@Backup/
+@Disqus/
+@Images/
+
 # Logs
 logs
 *.log
@@ -59,3 +67,7 @@ typings/
 
 # next.js build output
 .next
+
+# Misc
+.DS_Store
+Thumbs.db
