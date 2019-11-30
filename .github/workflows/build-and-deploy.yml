@@ -21,6 +21,6 @@ jobs:
         npm install
         npm run prod
         cd ../..
-        hexo generate
+        ./hexo generate
            
 
