@@ -16,12 +16,11 @@ jobs:
       run: |
         npm install hexo-cli
         npm i hexo
-        echo 'PATH="$PATH:./node_modules/.bin"' >> ~/.profile
         npm install
         cd ./themes/tranquilpeak/
         npm install
         npm run prod
         cd ../..
-        hexo generate
+        npx hexo generate
            
 
