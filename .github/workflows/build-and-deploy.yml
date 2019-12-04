@@ -14,7 +14,6 @@ jobs:
     - uses: actions/checkout@v1
     - name: Generate
       run: |
-        npm install hexo-cli
         npm i hexo
         npm install
         cd ./themes/tranquilpeak/
