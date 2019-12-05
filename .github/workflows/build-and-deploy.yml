@@ -21,5 +21,15 @@ jobs:
         npm run prod
         cd ../..
         npx hexo generate
-           
-
+    - name: Deploy
+      env:
+         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+         EXTERNAL_REPOSITORY: laurentkempe/laurentkempe.github.io
+         PUBLISH_BRANCH: master
+         PUBLISH_DIR: ./public
+         INPUT_KEEPFILES: false
+         SCRIPT_MODE: true
+      run: |
+        wget https://raw.githubusercontent.com/peaceiris/actions-gh-pages/v2/entrypoint.sh
+        bash ./entrypoint.sh
+        
