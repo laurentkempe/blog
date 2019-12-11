@@ -1,3 +1,4 @@
+---
 title: 'ReSharper Command Line Tools and Git pre-commit hook'
 permalink: ReSharper-Command-Line-Tools-and-Git-pre-commit-hook
 disqusIdentifier: '2017-10-01 07:34:59 <!-- Remove space to have e.g. 20160405174628 -->'

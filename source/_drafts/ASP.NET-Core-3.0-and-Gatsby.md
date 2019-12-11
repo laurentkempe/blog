@@ -1,3 +1,4 @@
+---
 title: 'ASP.NET Core 3.0 and Gatsby'
 permalink: ASP.NET-Core-3.0-and-Gatsby
 disqusIdentifier: '2019-04-22 10:38:01 <!-- Remove space to have e.g. 20160405174628 -->'

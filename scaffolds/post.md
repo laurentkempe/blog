@@ -1,3 +1,4 @@
+---
 title: '{{ title }}'
 permalink: "Moving-to-Cake-CSharp-Make"
 date: {{ date }}
