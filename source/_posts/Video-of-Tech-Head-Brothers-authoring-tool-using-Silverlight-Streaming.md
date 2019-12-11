@@ -1,3 +1,4 @@
+---
 title: "Video of Tech Head Brothers authoring tool using Silverlight Streaming"
 permalink: "Video-of-Tech-Head-Brothers-authoring-tool-using-Silverlight-Streaming"
 date: 8/31/2007 6:59:00 AM

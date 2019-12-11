@@ -1,3 +1,4 @@
+---
 title: "My new Blog"
 permalink: "My-new-Blog"
 date: 4/3/2010 3:16:57 AM

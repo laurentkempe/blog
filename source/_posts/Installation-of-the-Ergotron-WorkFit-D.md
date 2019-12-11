@@ -1,3 +1,4 @@
+---
 title: "Installation and first experience with the Ergotron WorkFit-D"
 permalink: "Installation-of-the-Ergotron-WorkFit-D"
 date: 3/22/2012 5:09:07 AM

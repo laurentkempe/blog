@@ -1,3 +1,4 @@
+---
 title: "Software development industrialization"
 permalink: "Software-development-industrialization"
 date: 12/10/2004 8:44:00 AM

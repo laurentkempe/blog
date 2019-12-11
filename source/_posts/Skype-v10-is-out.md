@@ -1,3 +1,4 @@
+---
 title: "Skype v1.0 is out"
 permalink: "Skype-v10-is-out"
 date: 7/28/2004 6:12:00 AM

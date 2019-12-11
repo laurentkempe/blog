@@ -1,3 +1,4 @@
+---
 title: "ReSharper 3.0.2 is out"
 permalink: "ReSharper-302-is-out"
 date: 8/24/2007 5:24:32 AM

@@ -1,3 +1,4 @@
+---
 title: "Remove .svn folders from your builds"
 permalink: "Remove-svn-folders-from-your-builds"
 date: 11/15/2007 10:31:32 PM

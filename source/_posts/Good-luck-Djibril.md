@@ -1,3 +1,4 @@
+---
 title: "Good luck Djibril"
 permalink: "Good-luck-Djibril"
 date: 6/8/2006 7:30:00 AM

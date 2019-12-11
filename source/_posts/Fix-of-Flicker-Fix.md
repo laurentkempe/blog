@@ -1,3 +1,4 @@
+---
 title: "Fix of Flicker Fix"
 permalink: "Fix-of-Flicker-Fix"
 date: 5/27/2006 6:33:00 PM

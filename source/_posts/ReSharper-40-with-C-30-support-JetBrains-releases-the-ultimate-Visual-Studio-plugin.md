@@ -1,3 +1,4 @@
+---
 title: "ReSharper 4.0 with C# 3.0 support, JetBrains releases the ultimate Visual Studio plugin"
 permalink: "ReSharper-40-with-C-30-support-JetBrains-releases-the-ultimate-Visual-Studio-plugin"
 date: 6/13/2008 5:01:11 PM

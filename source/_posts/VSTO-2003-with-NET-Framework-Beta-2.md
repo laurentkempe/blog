@@ -1,3 +1,4 @@
+---
 title: "VSTO 2003 with .NET Framework Beta 2"
 permalink: "VSTO-2003-with-NET-Framework-Beta-2"
 date: 4/23/2005 4:40:00 AM

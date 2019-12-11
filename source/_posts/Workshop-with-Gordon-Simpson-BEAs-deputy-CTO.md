@@ -1,3 +1,4 @@
+---
 title: "Workshop with Gordon Simpson, BEA's deputy CTO"
 permalink: "Workshop-with-Gordon-Simpson-BEAs-deputy-CTO"
 date: 5/8/2004 10:44:00 PM

@@ -1,3 +1,4 @@
+---
 title: ".NET Managed User Group of Switzerland"
 permalink: "NET-Managed-User-Group-of-Switzerland"
 date: 10/28/2004 11:15:00 PM

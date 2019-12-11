@@ -1,3 +1,4 @@
+---
 title: "Camtasia 5 is released"
 permalink: "Camtasia-5-is-released"
 date: 10/18/2007 7:01:50 AM

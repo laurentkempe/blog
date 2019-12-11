@@ -1,3 +1,4 @@
+---
 title: "Attending the WPF FOR LOB TRAINING TOUR in London"
 permalink: "Attending-the-quot3bWPF-FOR-LOBquot3b-TRAINING-TOUR-in-London"
 date: 4/17/2009 6:29:52 AM

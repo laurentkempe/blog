@@ -1,3 +1,4 @@
+---
 title: "Jobping open source projects updated"
 permalink: "Jobping-open-source-projects-updated"
 date: 10/21/2010 6:18:02 AM

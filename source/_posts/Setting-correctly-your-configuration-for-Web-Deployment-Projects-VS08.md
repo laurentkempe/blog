@@ -1,3 +1,4 @@
+---
 title: "Setting correctly your configuration for Web Deployment Projects VS08"
 permalink: "Setting-correctly-your-configuration-for-Web-Deployment-Projects-VS08"
 date: 12/2/2007 5:50:03 PM

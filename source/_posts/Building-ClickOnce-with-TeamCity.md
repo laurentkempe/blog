@@ -1,3 +1,4 @@
+---
 title: "Building ClickOnce with TeamCity"
 permalink: "Building-ClickOnce-with-TeamCity"
 date: 11/3/2009 7:52:25 AM

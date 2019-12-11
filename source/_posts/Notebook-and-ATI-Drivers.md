@@ -1,3 +1,4 @@
+---
 title: "Notebook and ATI Drivers"
 permalink: "Notebook-and-ATI-Drivers"
 date: 11/5/2006 6:46:34 PM

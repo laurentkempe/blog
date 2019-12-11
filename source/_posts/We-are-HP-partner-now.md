@@ -1,3 +1,4 @@
+---
 title: "We are HP partner now"
 permalink: "We-are-HP-partner-now"
 date: 3/11/2008 11:39:10 PM

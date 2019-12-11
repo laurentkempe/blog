@@ -1,3 +1,4 @@
+---
 title: "Joining JetBrains Academy"
 permalink: "Joining-JetBrains-Academy"
 date: 9/6/2009 5:21:59 PM

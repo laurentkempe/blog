@@ -1,3 +1,4 @@
+---
 title: "Did you know that if you’re an MSDN Subscriber you can get Telerik WPF controls FREE ? : Misfit Geek"
 permalink: "Did-you-know-that-if-youe28099re-an-MSDN-Subscriber-you-can-get-Telerik-WPF-controls-FREE-Misfit-Geek"
 date: 6/9/2009 6:55:34 PM

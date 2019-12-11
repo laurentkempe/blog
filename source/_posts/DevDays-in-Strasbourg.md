@@ -1,3 +1,4 @@
+---
 title: "DevDays in Strasbourg"
 permalink: "DevDays-in-Strasbourg"
 date: 3/18/2004 3:49:00 AM

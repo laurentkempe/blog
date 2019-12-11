@@ -1,3 +1,4 @@
+---
 title: "Run NCover through MSBuild in Team City"
 permalink: "Run-NCover-through-MSBuild-in-Team-City"
 date: 4/30/2008 5:05:10 AM

@@ -1,3 +1,4 @@
+---
 title: "New ASP.NET 2 cool feature : aspx debugging"
 permalink: "New-ASPNET-2-cool-feature-aspx-debugging"
 date: 2/28/2005 7:57:00 AM

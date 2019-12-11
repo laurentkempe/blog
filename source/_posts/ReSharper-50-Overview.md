@@ -1,3 +1,4 @@
+---
 title: "ReSharper 5.0 Overview"
 permalink: "ReSharper-50-Overview"
 date: 10/13/2009 3:29:45 AM

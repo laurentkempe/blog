@@ -1,3 +1,4 @@
+---
 title: "Functional Programming Principles in Scala using JetBrains IntelliJ IDEA"
 permalink: "Functional-Programming-Principles-in-Scala-using-JetBrains-IntelliJ-IDEA"
 date: 9/20/2013 8:43:00 PM

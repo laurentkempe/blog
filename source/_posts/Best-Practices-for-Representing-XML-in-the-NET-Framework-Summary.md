@@ -1,3 +1,4 @@
+---
 title: "Best Practices for Representing XML in the .NET Framework - Summary"
 permalink: "Best-Practices-for-Representing-XML-in-the-NET-Framework-Summary"
 date: 4/2/2004 2:17:00 AM

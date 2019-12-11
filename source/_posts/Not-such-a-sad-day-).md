@@ -1,3 +1,4 @@
+---
 title: "Not such a sad day :-)"
 permalink: "Not-such-a-sad-day-)"
 date: 10/14/2004 4:09:00 AM

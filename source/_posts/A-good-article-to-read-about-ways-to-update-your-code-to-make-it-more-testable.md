@@ -1,3 +1,4 @@
+---
 title: "A good article to read about ways to update your code to make it more testable"
 permalink: "A-good-article-to-read-about-ways-to-update-your-code-to-make-it-more-testable"
 date: 7/14/2004 8:51:00 AM

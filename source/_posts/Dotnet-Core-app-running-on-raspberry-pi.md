@@ -1,3 +1,4 @@
+---
 title: .NET Core console app running on Raspberry Pi
 permalink: Dotnet-Core-app-running-on-raspberry-pi
 date: 2017-04-03 21:40:07

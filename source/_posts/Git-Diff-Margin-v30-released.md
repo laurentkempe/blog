@@ -1,3 +1,4 @@
+---
 title: "Git Diff Margin v3.0 released"
 permalink: "Git-Diff-Margin-v30-released"
 date: 9/24/2014 8:04:39 AM

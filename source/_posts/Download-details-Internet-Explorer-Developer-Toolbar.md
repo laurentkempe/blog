@@ -1,3 +1,4 @@
+---
 title: "Download details: Internet Explorer Developer Toolbar"
 permalink: "Download-details-Internet-Explorer-Developer-Toolbar"
 date: 6/1/2007 10:16:19 PM

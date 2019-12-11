@@ -1,3 +1,4 @@
+---
 title: "Mocking .NET framework SmtpClient class"
 permalink: "Mocking-NET-framework-SmtpClient-class"
 date: 6/1/2008 7:41:20 AM

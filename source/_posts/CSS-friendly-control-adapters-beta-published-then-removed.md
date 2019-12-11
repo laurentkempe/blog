@@ -1,3 +1,4 @@
+---
 title: "CSS friendly control adapters beta published, then removed"
 permalink: "CSS-friendly-control-adapters-beta-published-then-removed"
 date: 4/29/2006 12:40:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Refactoring my publishing tool"
 permalink: "Refactoring-my-publishing-tool"
 date: 5/20/2004 10:49:00 PM

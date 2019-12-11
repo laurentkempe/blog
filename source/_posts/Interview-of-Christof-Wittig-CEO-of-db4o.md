@@ -1,3 +1,4 @@
+---
 title: "Interview of Christof Wittig CEO of db4o"
 permalink: "Interview-of-Christof-Wittig-CEO-of-db4o"
 date: 12/2/2006 6:51:14 PM

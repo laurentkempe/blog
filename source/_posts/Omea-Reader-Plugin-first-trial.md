@@ -1,3 +1,4 @@
+---
 title: "Omea Reader Plugin first trial"
 permalink: "Omea-Reader-Plugin-first-trial"
 date: 2/10/2005 7:35:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Optimization of a Web Site - Using Content Expiration (IIS 6.0)"
 permalink: "Optimization-of-a-Web-Site-Using-Content-Expiration-(IIS-60)"
 date: 7/25/2007 5:54:46 PM

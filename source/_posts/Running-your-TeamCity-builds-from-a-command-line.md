@@ -1,3 +1,4 @@
+---
 title: "Running your TeamCity builds from PowerShell for any Git branch"
 permalink: "Running-your-TeamCity-builds-from-a-command-line"
 date: 2/7/2012 1:09:02 AM

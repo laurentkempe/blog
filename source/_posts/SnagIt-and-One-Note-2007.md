@@ -1,3 +1,4 @@
+---
 title: "SnagIt and One Note 2007"
 permalink: "SnagIt-and-One-Note-2007"
 date: 8/13/2007 10:24:11 PM

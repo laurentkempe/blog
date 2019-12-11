@@ -1,3 +1,4 @@
+---
 title: "Mitsu's blog : WPF Book control"
 permalink: "Mitsus-blog-WPF-Book-control"
 date: 4/19/2007 1:47:28 AM

@@ -1,3 +1,4 @@
+---
 title: "JetBrains ReSharper 4.0 EAP - First Beta Candidate released"
 permalink: "JetBrains-ReSharper-40-EAP-First-Beta-Candidate-released"
 date: 5/20/2008 5:14:11 AM

@@ -1,3 +1,4 @@
+---
 title: "Visibility"
 permalink: "Visibility"
 date: 7/12/2004 5:28:00 AM

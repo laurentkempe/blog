@@ -1,3 +1,4 @@
+---
 title: "ASP.NET MVC 2, MSpec and Watin"
 permalink: "ASPNET-MVC-2-MSpec-and-Watin"
 date: 5/19/2010 5:07:53 PM

@@ -1,3 +1,4 @@
+---
 title: "Note to self - HP Online diagnostic tools"
 permalink: "Note-to-self-HP-Online-diagnostic-tools"
 date: 1/11/2008 9:56:57 PM

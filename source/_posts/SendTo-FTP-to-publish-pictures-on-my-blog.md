@@ -1,3 +1,4 @@
+---
 title: "SendTo FTP to publish pictures on my blog"
 permalink: "SendTo-FTP-to-publish-pictures-on-my-blog"
 date: 6/5/2004 5:17:00 AM

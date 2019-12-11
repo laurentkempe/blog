@@ -1,3 +1,4 @@
+---
 title: "Windows Media Player 11 Beta 2, Xbox 360 and blue room radio"
 permalink: "Windows-Media-Player-11-Beta-2-Xbox-360-and-blue-room-radio"
 date: 9/3/2006 9:44:10 PM

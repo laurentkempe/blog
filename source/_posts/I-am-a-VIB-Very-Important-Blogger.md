@@ -1,3 +1,4 @@
+---
 title: "I am a VIB - Very Important Blogger"
 permalink: "I-am-a-VIB-Very-Important-Blogger"
 date: 6/22/2007 3:40:56 PM

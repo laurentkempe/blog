@@ -1,3 +1,4 @@
+---
 title: "ASP.NET AJAX RC is coming soon"
 permalink: "ASPNET-AJAX-RC-is-coming-soon"
 date: 12/15/2006 7:27:33 AM

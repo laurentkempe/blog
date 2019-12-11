@@ -1,3 +1,4 @@
+---
 title: "Interesting French interview of Niklas Zennström from Skype"
 permalink: "Interesting-French-interview-of-Niklas-Zennstr2463bm-from-Skype"
 date: 12/1/2004 7:10:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Unit Test using test doubles, aka Mock, Stub, Fake, Dummy"
 permalink: "Unit-Test-using-test-doubles-aka-Mock-Stub-Fake-Dummy"
 date: 7/17/2010 12:31:53 AM

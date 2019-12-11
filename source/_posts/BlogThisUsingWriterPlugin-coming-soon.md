@@ -1,3 +1,4 @@
+---
 title: "BlogThisUsingWriterPlugin coming soon"
 permalink: "BlogThisUsingWriterPlugin-coming-soon"
 date: 8/17/2006 9:03:31 AM

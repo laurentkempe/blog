@@ -1,3 +1,4 @@
+---
 title: "First day at Tech Ed 2003"
 permalink: "First-day-at-Tech-Ed-2003"
 date: 7/1/2003 7:23:00 PM

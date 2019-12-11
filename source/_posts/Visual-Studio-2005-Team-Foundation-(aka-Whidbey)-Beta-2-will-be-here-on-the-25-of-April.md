@@ -1,3 +1,4 @@
+---
 title: "Visual Studio 2005, Team Foundation (aka Whidbey) Beta 2 will be here on the 25 of April"
 permalink: "Visual-Studio-2005-Team-Foundation-(aka-Whidbey)-Beta-2-will-be-here-on-the-25-of-April"
 date: 4/9/2005 9:36:00 PM

@@ -1,3 +1,4 @@
+---
 title: "New web application deployment framework for IIS 7"
 permalink: "New-web-application-deployment-framework-for-IIS-7"
 date: 11/30/2007 3:05:13 AM

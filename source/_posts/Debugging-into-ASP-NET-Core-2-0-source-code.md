@@ -1,3 +1,4 @@
+---
 title: Debugging into ASP.NET Core 2.0 source code
 permalink: Debugging-into-ASP.NET-Core-2.0-source-code
 disqusIdentifier: 20170926204411

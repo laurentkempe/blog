@@ -1,3 +1,4 @@
+---
 title: "Great indexing/search tool for Outlook - Lookout"
 permalink: "Great-indexingsearch-tool-for-Outlook-Lookout"
 date: 7/28/2004 5:44:00 AM

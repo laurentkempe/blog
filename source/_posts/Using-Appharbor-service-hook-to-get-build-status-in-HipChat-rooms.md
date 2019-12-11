@@ -1,3 +1,4 @@
+---
 title: "Using Github hubot and Appharbor service hook to get deployment status in Campfire/HipChat rooms"
 permalink: "Using-Appharbor-service-hook-to-get-build-status-in-HipChat-rooms"
 date: 4/30/2012 12:44:00 PM

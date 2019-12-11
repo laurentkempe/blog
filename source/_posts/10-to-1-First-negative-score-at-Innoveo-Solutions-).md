@@ -1,3 +1,4 @@
+---
 title: "10 to -1, First negative score at Innoveo Solutions :-)"
 permalink: "10-to-1-First-negative-score-at-Innoveo-Solutions-)"
 date: 4/24/2008 9:10:12 PM

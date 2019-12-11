@@ -1,3 +1,4 @@
+---
 title: "Devices and Printers empty on Windows 7"
 permalink: "Devices-and-Printers-empty-on-Windows-7"
 date: 9/6/2009 9:16:31 PM

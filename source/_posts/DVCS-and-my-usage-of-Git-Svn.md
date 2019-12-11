@@ -1,3 +1,4 @@
+---
 title: "DVCS and my usage of Git Svn"
 permalink: "DVCS-and-my-usage-of-Git-Svn"
 date: 11/7/2011 11:14:00 PM

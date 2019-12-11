@@ -1,3 +1,4 @@
+---
 title: "Version 3 of Groove, New Tools installation"
 permalink: "Version-3-of-Groove-New-Tools-installation"
 date: 7/14/2004 8:32:00 AM

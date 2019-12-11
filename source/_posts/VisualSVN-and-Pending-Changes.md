@@ -1,3 +1,4 @@
+---
 title: "VisualSVN and Pending Changes"
 permalink: "VisualSVN-and-Pending-Changes"
 date: 11/30/2009 7:09:37 PM

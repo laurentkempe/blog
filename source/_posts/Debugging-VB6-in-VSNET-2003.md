@@ -1,3 +1,4 @@
+---
 title: "Debugging VB6 in VS.NET 2003"
 permalink: "Debugging-VB6-in-VSNET-2003"
 date: 11/10/2004 5:59:00 PM

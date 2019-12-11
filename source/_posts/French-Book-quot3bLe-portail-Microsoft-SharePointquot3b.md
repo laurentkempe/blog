@@ -1,3 +1,4 @@
+---
 title: "French Book: Le portail Microsoft SharePoint"
 permalink: "French-Book-quot3bLe-portail-Microsoft-SharePointquot3b"
 date: 3/18/2004 1:25:00 AM

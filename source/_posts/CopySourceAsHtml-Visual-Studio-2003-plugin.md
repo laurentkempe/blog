@@ -1,3 +1,4 @@
+---
 title: "CopySourceAsHtml - Visual Studio 2003 plugin"
 permalink: "CopySourceAsHtml-Visual-Studio-2003-plugin"
 date: 11/9/2004 6:36:00 AM

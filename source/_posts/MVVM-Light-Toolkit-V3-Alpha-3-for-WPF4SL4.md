@@ -1,3 +1,4 @@
+---
 title: "MVVM Light Toolkit V3 Alpha 3 for WPF4/SL4"
 permalink: "MVVM-Light-Toolkit-V3-Alpha-3-for-WPF4SL4"
 date: 12/1/2009 5:50:19 PM

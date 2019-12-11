@@ -1,3 +1,4 @@
+---
 title: "First publication from Word 2003 on Tech Head Brothers using WSE"
 permalink: "First-publication-from-Word-2003-on-Tech-Head-Brothers-using-WSE"
 date: 12/9/2004 7:15:00 AM

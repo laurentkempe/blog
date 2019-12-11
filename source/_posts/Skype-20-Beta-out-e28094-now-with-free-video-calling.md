@@ -1,3 +1,4 @@
+---
 title: "Skype 2.0 Beta out — now with free video calling"
 permalink: "Skype-20-Beta-out-e28094-now-with-free-video-calling"
 date: 12/1/2005 5:44:00 PM

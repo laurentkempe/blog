@@ -1,3 +1,4 @@
+---
 title: "Trying out Newsgator and .Text Publishing plugin"
 permalink: "Trying-out-Newsgator-and-Text-Publishing-plugin"
 date: 4/16/2004 6:22:00 PM

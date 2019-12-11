@@ -1,3 +1,4 @@
+---
 title: "End of two weeks of hell"
 permalink: "End-of-two-weeks-of-hell"
 date: 5/8/2004 10:37:00 PM

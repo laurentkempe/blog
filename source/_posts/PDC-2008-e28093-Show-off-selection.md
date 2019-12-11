@@ -1,3 +1,4 @@
+---
 title: "[PDC 2008] – Show off selection"
 permalink: "PDC-2008-e28093-Show-off-selection"
 date: 10/27/2008 2:25:21 PM

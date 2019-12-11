@@ -1,3 +1,4 @@
+---
 title: "Tech*Ed Europe: I'll be there!"
 permalink: "TechEd-Europe-Ill-be-there!"
 date: 6/17/2005 5:48:00 AM

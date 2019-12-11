@@ -1,3 +1,4 @@
+---
 title: "Empowering your Attribute’s Names"
 permalink: "Empowering-your-Attributee28099s-Names"
 date: 6/18/2008 8:54:06 PM

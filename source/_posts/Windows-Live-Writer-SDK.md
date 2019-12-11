@@ -1,3 +1,4 @@
+---
 title: "Windows Live Writer SDK"
 permalink: "Windows-Live-Writer-SDK"
 date: 8/16/2006 7:34:53 AM

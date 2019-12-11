@@ -1,3 +1,4 @@
+---
 title: "Visual Studio Team System 2008 Team Suite (x86 and x64 WoW) - DVD (English)"
 permalink: "Visual-Studio-Team-System-2008-Team-Suite-(x86-and-x64-WoW)-DVD-(English)"
 date: 11/19/2007 9:46:16 PM

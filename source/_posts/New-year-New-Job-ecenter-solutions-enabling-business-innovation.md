@@ -1,3 +1,4 @@
+---
 title: "New year, New Job: ecenter solutions - enabling business innovation"
 permalink: "New-year-New-Job-ecenter-solutions-enabling-business-innovation"
 date: 12/24/2005 8:15:00 AM

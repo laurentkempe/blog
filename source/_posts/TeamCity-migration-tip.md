@@ -1,3 +1,4 @@
+---
 title: "TeamCity migration tip"
 permalink: "TeamCity-migration-tip"
 date: 11/3/2009 12:39:27 AM

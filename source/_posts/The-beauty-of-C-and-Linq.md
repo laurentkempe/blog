@@ -1,3 +1,4 @@
+---
 title: "The beauty of C# and Linq"
 permalink: "The-beauty-of-C-and-Linq"
 date: 1/26/2010 5:57:12 AM

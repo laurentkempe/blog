@@ -1,3 +1,4 @@
+---
 title: "[TechDays 2008] - SNCF and their online services"
 permalink: "TechDays-2008-SNCF-and-their-online-services"
 date: 2/10/2008 5:53:26 PM

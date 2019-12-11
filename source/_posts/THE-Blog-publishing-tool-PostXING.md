@@ -1,3 +1,4 @@
+---
 title: "THE Blog publishing tool : PostXING"
 permalink: "THE-Blog-publishing-tool-PostXING"
 date: 1/29/2005 9:42:00 AM

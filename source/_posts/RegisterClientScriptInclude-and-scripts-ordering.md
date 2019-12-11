@@ -1,3 +1,4 @@
+---
 title: "RegisterClientScriptInclude and scripts ordering"
 permalink: "RegisterClientScriptInclude-and-scripts-ordering"
 date: 5/25/2007 8:04:38 AM

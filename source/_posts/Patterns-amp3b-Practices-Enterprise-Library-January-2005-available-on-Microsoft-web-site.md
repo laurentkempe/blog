@@ -1,3 +1,4 @@
+---
 title: "Patterns & Practices Enterprise Library January 2005 available on Microsoft web site"
 permalink: "Patterns-amp3b-Practices-Enterprise-Library-January-2005-available-on-Microsoft-web-site"
 date: 1/29/2005 10:11:00 AM

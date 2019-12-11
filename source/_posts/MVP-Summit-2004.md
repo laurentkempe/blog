@@ -1,3 +1,4 @@
+---
 title: "MVP Summit 2004"
 permalink: "MVP-Summit-2004"
 date: 4/1/2004 6:00:00 AM

@@ -1,3 +1,4 @@
+---
 title: "ReSharper 4 EAP started tonight"
 permalink: "ReSharper-4-EAP-started-tonight"
 date: 2/16/2008 4:48:04 AM

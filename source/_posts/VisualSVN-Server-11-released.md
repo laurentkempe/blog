@@ -1,3 +1,4 @@
+---
 title: "VisualSVN Server 1.1 released"
 permalink: "VisualSVN-Server-11-released"
 date: 3/30/2008 6:37:00 AM

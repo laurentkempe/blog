@@ -1,3 +1,4 @@
+---
 title: "Silverlight 2 Beta 2 - Unable to start debugging!"
 permalink: "Silverlight-2-Beta-2-Unable-to-start-debugging!"
 date: 6/14/2008 2:25:29 AM

@@ -1,3 +1,4 @@
+---
 title: "Export Expression Blend animation to Video, how ?"
 permalink: "quot3bExportquot3b-Expression-Blend-animation-to-Video-how-"
 date: 12/28/2007 4:02:36 AM

@@ -1,3 +1,4 @@
+---
 title: "Automate your Jabbr chat using Github Hubot all running on a Windows machine"
 permalink: "Automate-your-Jabbr-chat-using-Github-Hubot-all-running-on-a-Windows-machine"
 date: 7/17/2012 4:31:48 PM

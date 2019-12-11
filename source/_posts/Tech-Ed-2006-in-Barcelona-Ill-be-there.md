@@ -1,3 +1,4 @@
+---
 title: "Tech Ed 2006 in Barcelona - I'll be there"
 permalink: "Tech-Ed-2006-in-Barcelona-Ill-be-there"
 date: 10/21/2006 6:15:21 AM

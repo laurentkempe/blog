@@ -1,3 +1,4 @@
+---
 title: "Tech Head Brothers new authoring tool, step 8"
 permalink: "Tech-Head-Brothers-new-authoring-tool-step-8"
 date: 8/9/2008 6:26:19 AM

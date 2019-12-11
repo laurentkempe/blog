@@ -1,3 +1,4 @@
+---
 title: "First experience with CSS friendly control adapters beta"
 permalink: "First-experience-with-CSS-friendly-control-adapters-beta"
 date: 4/29/2006 8:41:00 AM

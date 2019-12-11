@@ -1,3 +1,4 @@
+---
 title: "Nice feature of Visual Studio 2005/2008"
 permalink: "Nice-feature-of-Visual-Studio-20052008"
 date: 11/30/2007 7:16:27 AM

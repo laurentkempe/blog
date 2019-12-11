@@ -1,3 +1,4 @@
+---
 title: "Memory leak with WPF resources"
 permalink: "Memory-leak-with-WPF-resources"
 date: 4/17/2009 10:36:49 PM

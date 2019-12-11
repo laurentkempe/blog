@@ -1,3 +1,4 @@
+---
 title: "Trip to Barcelona - Microsoft Connect Event"
 permalink: "Trip-to-Barcelona-Microsoft-Connect-Event"
 date: 10/20/2004 9:04:00 PM

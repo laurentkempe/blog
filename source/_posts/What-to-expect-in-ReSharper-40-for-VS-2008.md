@@ -1,3 +1,4 @@
+---
 title: "What to expect in ReSharper 4.0 for VS 2008"
 permalink: "What-to-expect-in-ReSharper-40-for-VS-2008"
 date: 12/28/2007 4:10:22 AM

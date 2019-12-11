@@ -1,3 +1,4 @@
+---
 title: "AJAX Control Toolkit - ToolkitScriptManager"
 permalink: "AJAX-Control-Toolkit-ToolkitScriptManager"
 date: 6/9/2007 6:24:41 AM

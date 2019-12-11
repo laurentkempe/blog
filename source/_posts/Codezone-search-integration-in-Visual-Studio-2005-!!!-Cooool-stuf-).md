@@ -1,3 +1,4 @@
+---
 title: "Codezone search integration in Visual Studio 2005 !!! Cooool stuf :-)"
 permalink: "Codezone-search-integration-in-Visual-Studio-2005-!!!-Cooool-stuf-)"
 date: 8/18/2005 6:53:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Wowwwwww effect of my new Word 2007 authoring tool"
 permalink: "Wowwwwww-effect-of-my-new-Word-2007-authoring-tool"
 date: 8/22/2008 6:59:58 AM

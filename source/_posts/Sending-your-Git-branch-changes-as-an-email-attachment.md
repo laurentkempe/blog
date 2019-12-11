@@ -1,3 +1,4 @@
+---
 title: "Sending your Git branch changes as an email attachment"
 permalink: "Sending-your-Git-branch-changes-as-an-email-attachment"
 date: 4/13/2012 9:23:11 AM

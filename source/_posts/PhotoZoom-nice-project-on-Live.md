@@ -1,3 +1,4 @@
+---
 title: "PhotoZoom, nice project on Live"
 permalink: "PhotoZoom-nice-project-on-Live"
 date: 3/15/2008 4:43:23 PM

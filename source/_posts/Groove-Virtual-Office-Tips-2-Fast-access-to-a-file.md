@@ -1,3 +1,4 @@
+---
 title: "Groove Virtual Office Tips #2 : Fast access to a file"
 permalink: "Groove-Virtual-Office-Tips-2-Fast-access-to-a-file"
 date: 5/22/2005 10:40:00 PM

@@ -1,3 +1,4 @@
+---
 title: "Power of IntelliJ in video"
 permalink: "Power-of-IntelliJ-in-video"
 date: 6/16/2010 2:02:41 AM

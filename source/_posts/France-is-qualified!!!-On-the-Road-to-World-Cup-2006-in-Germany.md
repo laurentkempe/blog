@@ -1,3 +1,4 @@
+---
 title: "France is qualified!!! On the Road to World Cup 2006 in Germany."
 permalink: "France-is-qualified!!!-On-the-Road-to-World-Cup-2006-in-Germany"
 date: 10/13/2005 6:04:00 AM

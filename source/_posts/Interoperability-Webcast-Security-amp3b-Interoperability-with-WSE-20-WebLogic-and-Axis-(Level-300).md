@@ -1,3 +1,4 @@
+---
 title: "Interoperability Webcast: Security & Interoperability with WSE 2.0, WebLogic and Axis (Level 300)."
 permalink: "Interoperability-Webcast-Security-amp3b-Interoperability-with-WSE-20-WebLogic-and-Axis-(Level-300)"
 date: 1/27/2005 7:36:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Git and GitHub Training"
 permalink: "Git-and-GitHub-Training"
 date: 5/28/2013 6:20:00 AM

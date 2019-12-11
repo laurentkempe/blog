@@ -1,3 +1,4 @@
+---
 title: "Want a job at Innoveo?"
 permalink: "Want-a-job-at-Innoveo"
 date: 9/24/2010 5:27:05 PM

@@ -1,3 +1,4 @@
+---
 title: "Flicker Fix"
 permalink: "Flicker-Fix"
 date: 4/29/2006 8:53:00 AM

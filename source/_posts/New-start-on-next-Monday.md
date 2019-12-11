@@ -1,3 +1,4 @@
+---
 title: "New start on next Monday"
 permalink: "New-start-on-next-Monday"
 date: 9/26/2007 6:46:08 AM

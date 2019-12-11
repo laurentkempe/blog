@@ -1,3 +1,4 @@
+---
 title: "From WPF functional Unit Tests to Specifications using MSpec and White"
 permalink: "From-WPF-functional-Unit-Tests-to-Specifications-using-MSpec-and-White"
 date: 6/11/2010 3:21:22 AM

@@ -1,3 +1,4 @@
+---
 title: "Automated WPF functional tests using White"
 permalink: "Automated-WPF-functional-tests-using-White"
 date: 1/28/2010 4:50:57 AM

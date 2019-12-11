@@ -1,3 +1,4 @@
+---
 title: "IntelliJ 9 and changeset"
 permalink: "IntelliJ-9-and-changeset"
 date: 5/7/2010 3:58:30 AM

@@ -1,3 +1,4 @@
+---
 title: "Making VSTO 2005 and WSE 3.0 playing together again"
 permalink: "Making-VSTO-2005-and-WSE-30-playing-together-again"
 date: 8/13/2006 12:08:00 AM

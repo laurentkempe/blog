@@ -1,3 +1,4 @@
+---
 title: "Nice one"
 permalink: "Nice-one"
 date: 12/10/2005 10:04:00 AM

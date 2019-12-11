@@ -1,3 +1,4 @@
+---
 title: "C# implementation of newMediaObject for the MetaWeblog API"
 permalink: "C-implementation-of-newMediaObject-for-the-MetaWeblog-API"
 date: 8/28/2006 4:46:34 AM

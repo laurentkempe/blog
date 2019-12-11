@@ -1,3 +1,4 @@
+---
 title: 'Deploying Docker containers running ASP.NET Core RC2 to Microsoft Azure Cloud'
 permalink: Deploying-Docker-containers-running-ASPNET-Core-RC2-to-Microsoft-Azure-Cloud
 date: 2016-06-08 13:45:01

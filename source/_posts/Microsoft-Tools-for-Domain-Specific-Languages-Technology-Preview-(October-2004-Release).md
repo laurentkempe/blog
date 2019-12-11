@@ -1,3 +1,4 @@
+---
 title: "Microsoft Tools for Domain Specific Languages Technology Preview (October 2004 Release)"
 permalink: "Microsoft-Tools-for-Domain-Specific-Languages-Technology-Preview-(October-2004-Release)"
 date: 11/7/2004 5:43:00 PM

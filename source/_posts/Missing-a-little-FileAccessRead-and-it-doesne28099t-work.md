@@ -1,3 +1,4 @@
+---
 title: "Missing a little FileAccess.Read and it doesn’t work"
 permalink: "Missing-a-little-FileAccessRead-and-it-doesne28099t-work"
 date: 5/22/2010 1:19:21 AM

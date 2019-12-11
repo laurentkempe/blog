@@ -1,3 +1,4 @@
+---
 title: "Perfect timing"
 permalink: "Perfect-timing"
 date: 11/4/2004 4:30:00 AM

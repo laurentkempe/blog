@@ -1,3 +1,4 @@
+---
 title: "Watch Several TeamCity Servers With Windows Tray Notifier"
 permalink: "Watch-Several-TeamCity-Servers-With-Windows-Tray-Notifier"
 date: 11/5/2009 4:49:39 AM

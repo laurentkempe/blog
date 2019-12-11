@@ -1,3 +1,4 @@
+---
 title: "Free software"
 permalink: "Free-software"
 date: 8/1/2004 7:54:00 AM

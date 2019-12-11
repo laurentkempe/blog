@@ -1,3 +1,4 @@
+---
 title: "Being a ReSharper Guru"
 permalink: "Being-a-ReSharper-Guru"
 date: 5/3/2005 2:32:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Trip in the Atlas - Part 2"
 permalink: "Trip-in-the-Atlas-Part-2"
 date: 6/13/2006 6:38:00 AM

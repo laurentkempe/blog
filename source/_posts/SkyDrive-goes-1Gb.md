@@ -1,3 +1,4 @@
+---
 title: "SkyDrive goes 1Gb"
 permalink: "SkyDrive-goes-1Gb"
 date: 10/12/2007 8:36:05 PM

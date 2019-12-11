@@ -1,3 +1,4 @@
+---
 title: "ComponentArt launches Web.UI Version 2.1"
 permalink: "ComponentArt-launches-WebUI-Version-21"
 date: 1/29/2005 6:33:00 PM

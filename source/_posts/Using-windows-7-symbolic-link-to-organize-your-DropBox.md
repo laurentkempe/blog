@@ -1,3 +1,4 @@
+---
 title: "Using windows 7 symbolic link to organize your DropBox"
 permalink: "Using-windows-7-symbolic-link-to-organize-your-DropBox"
 date: 9/28/2010 3:32:55 AM

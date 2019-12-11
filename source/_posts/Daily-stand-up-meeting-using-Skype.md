@@ -1,3 +1,4 @@
+---
 title: "Daily stand up meeting using Skype"
 permalink: "Daily-stand-up-meeting-using-Skype"
 date: 10/20/2009 5:48:37 PM

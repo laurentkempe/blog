@@ -1,3 +1,4 @@
+---
 title: "Some rules..."
 permalink: "Some-rules"
 date: 11/23/2004 8:13:00 AM

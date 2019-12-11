@@ -1,3 +1,4 @@
+---
 title: "TeamCity 9 project settings versioning in Git"
 permalink: "TeamCity-9-project-settings-versioning-in-Git"
 date: 12/13/2014 3:16:58 AM

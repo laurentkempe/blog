@@ -1,3 +1,4 @@
+---
 title: "ASP.NET AJAX 1.0 RC Released"
 permalink: "ASPNET-AJAX-10-RC-Released"
 date: 12/15/2006 7:52:54 AM

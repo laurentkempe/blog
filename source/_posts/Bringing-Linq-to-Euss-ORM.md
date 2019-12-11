@@ -1,3 +1,4 @@
+---
 title: "Bringing Linq to Euss ORM"
 permalink: "Bringing-Linq-to-Euss-ORM"
 date: 5/16/2008 1:53:12 AM

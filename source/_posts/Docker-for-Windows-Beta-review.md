@@ -1,3 +1,4 @@
+---
 title: Docker for Windows Beta review
 date: 2016-04-30 11:27:50
 tags: ["Docker", "Windows", "Visual Studio"]

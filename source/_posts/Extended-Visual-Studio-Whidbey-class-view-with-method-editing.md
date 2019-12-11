@@ -1,3 +1,4 @@
+---
 title: "Extended Visual Studio Whidbey class view with method editing"
 permalink: "Extended-Visual-Studio-Whidbey-class-view-with-method-editing"
 date: 5/24/2004 8:40:00 PM

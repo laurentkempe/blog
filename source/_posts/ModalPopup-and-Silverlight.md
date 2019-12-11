@@ -1,3 +1,4 @@
+---
 title: "ModalPopup and Silverlight"
 permalink: "ModalPopup-and-Silverlight"
 date: 6/16/2007 6:27:14 AM

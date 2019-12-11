@@ -1,3 +1,4 @@
+---
 title: "What were you developing 10 years ago ?"
 permalink: "What-were-you-developing-10-years-ago-"
 date: 9/15/2007 7:49:34 AM

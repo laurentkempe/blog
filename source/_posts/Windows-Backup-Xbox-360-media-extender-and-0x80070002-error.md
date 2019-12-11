@@ -1,3 +1,4 @@
+---
 title: "Windows Backup, Xbox 360 media extender and 0x80070002 error"
 permalink: "Windows-Backup-Xbox-360-media-extender-and-0x80070002-error"
 date: 11/3/2009 6:57:20 PM

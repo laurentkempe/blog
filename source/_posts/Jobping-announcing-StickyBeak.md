@@ -1,3 +1,4 @@
+---
 title: "Jobping announcing StickyBeak"
 permalink: "Jobping-announcing-StickyBeak"
 date: 6/26/2010 8:25:21 PM

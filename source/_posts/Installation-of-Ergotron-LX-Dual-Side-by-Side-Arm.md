@@ -1,3 +1,4 @@
+---
 title: "Installation of Ergotron LX Dual Side-by-Side Arm"
 permalink: "Installation-of-Ergotron-LX-Dual-Side-by-Side-Arm"
 date: 9/16/2010 8:10:02 AM

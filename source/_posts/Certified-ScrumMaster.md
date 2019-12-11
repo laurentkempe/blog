@@ -1,3 +1,4 @@
+---
 title: "Certified ScrumMaster"
 permalink: "Certified-ScrumMaster"
 date: 5/5/2010 6:15:04 PM

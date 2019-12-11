@@ -1,3 +1,4 @@
+---
 title: "AJAX Control Toolkit updated for ASP.NET AJAX v1.0 Beta"
 permalink: "AJAX-Control-Toolkit-updated-for-ASPNET-AJAX-v10-Beta"
 date: 10/20/2006 9:10:26 PM

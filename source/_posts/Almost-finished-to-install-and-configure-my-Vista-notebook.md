@@ -1,3 +1,4 @@
+---
 title: "Almost finished to install and configure my Vista notebook"
 permalink: "Almost-finished-to-install-and-configure-my-Vista-notebook"
 date: 4/18/2007 4:42:17 AM

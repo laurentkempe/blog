@@ -1,3 +1,4 @@
+---
 title: "End of the first ecenter solutions platform"
 permalink: "End-of-the-first-ecenter-solutions-platform"
 date: 7/1/2006 6:32:00 AM

@@ -1,3 +1,4 @@
+---
 title: Hosting nugets in TeamCity
 date: 2016-04-14 22:04:11
 tags: [".NET Development", "continuous integration"]

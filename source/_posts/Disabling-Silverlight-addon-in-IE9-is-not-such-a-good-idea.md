@@ -1,3 +1,4 @@
+---
 title: "Disabling Silverlight addon in IE9 is not such a good idea"
 permalink: "Disabling-Silverlight-addon-in-IE9-is-not-such-a-good-idea"
 date: 4/9/2011 4:39:00 AM

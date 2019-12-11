@@ -1,3 +1,4 @@
+---
 title: "X-develop Professional 1.0 released"
 permalink: "X-develop-Professional-10-released"
 date: 4/13/2005 7:05:00 AM

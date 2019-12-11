@@ -1,3 +1,4 @@
+---
 title: "Test Driven Development Kata - String Calculator"
 permalink: "Test-Driven-Development-Kata-String-Calculator"
 date: 9/27/2012 5:22:10 PM

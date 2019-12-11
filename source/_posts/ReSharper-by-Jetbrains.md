@@ -1,3 +1,4 @@
+---
 title: "ReSharper by Jetbrains"
 permalink: "ReSharper-by-Jetbrains"
 date: 5/24/2004 7:31:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Migration from WSE 3 to WCF"
 permalink: "Migration-from-WSE-3-to-WCF"
 date: 6/27/2007 4:28:25 PM

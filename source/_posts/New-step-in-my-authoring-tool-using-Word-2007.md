@@ -1,3 +1,4 @@
+---
 title: "New step in my authoring tool using Word 2007"
 permalink: "New-step-in-my-authoring-tool-using-Word-2007"
 date: 9/6/2008 4:15:56 AM

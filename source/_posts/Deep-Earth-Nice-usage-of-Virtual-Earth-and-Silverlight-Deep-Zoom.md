@@ -1,3 +1,4 @@
+---
 title: "Deep Earth - Nice usage of Virtual Earth and Silverlight Deep Zoom"
 permalink: "Deep-Earth-Nice-usage-of-Virtual-Earth-and-Silverlight-Deep-Zoom"
 date: 6/15/2008 5:56:01 PM

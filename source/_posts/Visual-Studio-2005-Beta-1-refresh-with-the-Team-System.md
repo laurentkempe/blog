@@ -1,3 +1,4 @@
+---
 title: "Visual Studio 2005 Beta 1 refresh with the Team System"
 permalink: "Visual-Studio-2005-Beta-1-refresh-with-the-Team-System"
 date: 8/27/2004 5:38:00 AM

@@ -1,3 +1,4 @@
+---
 title: "Nice Resharper 4 feature"
 permalink: "Nice-Resharper-4-feature"
 date: 2/29/2008 10:30:50 PM

@@ -1,3 +1,4 @@
+---
 title: "Building ClickOnce targeting .NET Framework 4 with TeamCity"
 permalink: "Building-ClickOnce-targeting-NET-Framework-4-with-TeamCity"
 date: 10/21/2010 5:54:59 AM

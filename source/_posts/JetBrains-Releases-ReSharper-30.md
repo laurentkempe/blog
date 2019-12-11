@@ -1,3 +1,4 @@
+---
 title: "JetBrains Releases ReSharper 3.0"
 permalink: "JetBrains-Releases-ReSharper-30"
 date: 6/22/2007 1:47:32 AM

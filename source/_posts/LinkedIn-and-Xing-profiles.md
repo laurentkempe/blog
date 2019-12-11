@@ -1,3 +1,4 @@
+---
 title: "LinkedIn and Xing profiles"
 permalink: "LinkedIn-and-Xing-profiles"
 date: 6/1/2007 7:41:15 AM

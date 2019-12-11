@@ -1,3 +1,4 @@
+---
 title: "Jetbrains Resharper 2.5 RTM"
 permalink: "Jetbrains-Resharper-25-RTM"
 date: 12/13/2006 6:41:37 AM

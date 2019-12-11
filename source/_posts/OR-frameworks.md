@@ -1,3 +1,4 @@
+---
 title: "O/R frameworks"
 permalink: "OR-frameworks"
 date: 8/15/2004 8:04:00 AM

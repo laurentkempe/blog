@@ -1,3 +1,4 @@
+---
 title: "Yeah!!! :-) Publications are working."
 permalink: "Yeah!!!-)-Publications-are-working"
 date: 3/18/2006 5:50:00 PM

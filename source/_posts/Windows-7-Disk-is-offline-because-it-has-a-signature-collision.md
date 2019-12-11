@@ -1,3 +1,4 @@
+---
 title: "Windows 7, Disk is offline because it has a signature collision"
 permalink: "Windows-7-Disk-is-offline-because-it-has-a-signature-collision"
 date: 4/3/2010 2:56:31 AM

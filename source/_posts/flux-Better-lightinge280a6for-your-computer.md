@@ -1,3 +1,4 @@
+---
 title: "f.lux Better lighting…for your computer"
 permalink: "flux-Better-lightinge280a6for-your-computer"
 date: 5/21/2010 5:59:54 AM

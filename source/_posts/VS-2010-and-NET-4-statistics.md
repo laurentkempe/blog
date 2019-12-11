@@ -1,3 +1,4 @@
+---
 title: "VS 2010 and .NET 4 statistics"
 permalink: "VS-2010-and-NET-4-statistics"
 date: 4/10/2010 3:01:45 AM

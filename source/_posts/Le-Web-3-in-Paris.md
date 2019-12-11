@@ -1,3 +1,4 @@
+---
 title: "Le Web 3 in Paris"
 permalink: "Le-Web-3-in-Paris"
 date: 11/18/2007 8:21:52 PM

@@ -1,3 +1,4 @@
+---
 title: "Omea Reader and IMHO Instant Blogger"
 permalink: "Omea-Reader-and-IMHO-Instant-Blogger"
 date: 12/6/2004 8:07:00 PM

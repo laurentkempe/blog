@@ -1,3 +1,4 @@
+---
 title: "Optimizing Skye Editor using JetBrains dotTrace"
 permalink: "Optimization-using-JetBrains-dotTrace"
 date: 12/7/2012 1:55:00 PM

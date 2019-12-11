@@ -1,3 +1,4 @@
+---
 title: "Windows 2003 Standard Server rebooting in loop"
 permalink: "Windows-2003-Standard-Server-rebooting-in-loop"
 date: 5/14/2004 4:58:00 AM

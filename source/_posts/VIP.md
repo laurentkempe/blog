@@ -1,3 +1,4 @@
+---
 title: "VIP"
 permalink: "VIP"
 date: 6/3/2004 8:25:00 AM

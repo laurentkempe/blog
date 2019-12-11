@@ -1,3 +1,4 @@
+---
 title: '.NET Core Community online Hackathon'
 permalink: dotnet-core-community-online-hackathon
 disqusIdentifier: 20180606082054

@@ -1,3 +1,4 @@
+---
 title: "Visual Studio Office Tools and Word 2003 using deserialization, nightmare end"
 permalink: "Visual-Studio-Office-Tools-and-Word-2003-using-deserialization-nightmare-end"
 date: 8/28/2004 5:32:00 PM

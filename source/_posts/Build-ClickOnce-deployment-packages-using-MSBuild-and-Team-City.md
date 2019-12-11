@@ -1,3 +1,4 @@
+---
 title: "Build ClickOnce deployment packages using MSBuild and Team City"
 permalink: "Build-ClickOnce-deployment-packages-using-MSBuild-and-Team-City"
 date: 10/27/2009 8:25:26 PM

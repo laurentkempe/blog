@@ -1,3 +1,4 @@
+---
 title: "TeamCity and Gitlab working together with SSH Keys"
 permalink: "TeamCity-and-Gitlab-working-together-with-SSH-Keys"
 date: 8/24/2012 11:44:59 PM

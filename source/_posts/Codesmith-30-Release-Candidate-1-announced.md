@@ -1,3 +1,4 @@
+---
 title: "Codesmith 3.0 Release Candidate 1 announced"
 permalink: "Codesmith-30-Release-Candidate-1-announced"
 date: 5/11/2005 4:27:00 AM

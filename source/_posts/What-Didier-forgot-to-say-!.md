@@ -1,3 +1,4 @@
+---
 title: "What Didier forgot to say !"
 permalink: "What-Didier-forgot-to-say-!"
 date: 8/27/2004 7:05:00 AM

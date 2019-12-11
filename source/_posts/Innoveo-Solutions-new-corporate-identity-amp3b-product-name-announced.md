@@ -1,3 +1,4 @@
+---
 title: "Innoveo Solutions new corporate identity & product name announced"
 permalink: "Innoveo-Solutions-new-corporate-identity-amp3b-product-name-announced"
 date: 7/2/2008 6:28:41 AM

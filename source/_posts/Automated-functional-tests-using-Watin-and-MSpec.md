@@ -1,3 +1,4 @@
+---
 title: "Automated functional tests using Watin and MSpec"
 permalink: "Automated-functional-tests-using-Watin-and-MSpec"
 date: 5/13/2010 9:54:12 AM

@@ -1,3 +1,4 @@
+---
 title: "Fissum 0.5 released - a Team System addon"
 permalink: "Fissum-05-released-a-Team-System-addon"
 date: 8/10/2007 8:56:36 PM

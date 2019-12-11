@@ -1,3 +1,4 @@
+---
 title: "Finally the new CTP April of the Open XML Format SDK is online"
 permalink: "Finally-the-new-CTP-April-of-the-Open-XML-Format-SDK-is-online"
 date: 4/18/2008 7:19:33 AM

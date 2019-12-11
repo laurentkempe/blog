@@ -1,3 +1,4 @@
+---
 title: "Got my popfly alpha invitation today"
 permalink: "Got-my-popfly-alpha-invitation-today"
 date: 6/7/2007 9:50:42 PM

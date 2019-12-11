@@ -1,3 +1,4 @@
+---
 title: "An Introduction to the XML Tools in Visual Studio 2005"
 permalink: "An-Introduction-to-the-XML-Tools-in-Visual-Studio-2005"
 date: 7/29/2004 6:17:00 PM

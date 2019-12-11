@@ -1,3 +1,4 @@
+---
 title: "WCF Add Service Reference issue with Visual Studio 2008 SP1"
 permalink: "WCF-Add-Service-Reference-issue-with-Visual-Studio-2008-SP1"
 date: 9/10/2008 5:00:51 AM

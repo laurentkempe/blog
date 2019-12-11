@@ -1,3 +1,4 @@
+---
 title: "MVP Summit - Day 2"
 permalink: "MVP-Summit-Day-2"
 date: 4/7/2004 4:35:00 PM

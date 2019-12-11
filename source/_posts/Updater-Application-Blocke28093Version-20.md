@@ -1,3 +1,4 @@
+---
 title: "Updater Application Block–Version 2.0"
 permalink: "Updater-Application-Blocke28093Version-20"
 date: 3/16/2005 5:50:00 AM

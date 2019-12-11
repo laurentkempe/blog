@@ -1,3 +1,4 @@
+---
 title: "Sauce Reader 1.6 released"
 permalink: "Sauce-Reader-16-released"
 date: 7/21/2004 5:55:00 AM

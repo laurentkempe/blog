@@ -1,3 +1,4 @@
+---
 title: "Linked files in Visual Studio projects"
 permalink: "Linked-files-in-Visual-Studio-projects"
 date: 11/30/2007 4:10:00 AM

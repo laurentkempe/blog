@@ -1,3 +1,4 @@
+---
 title: "Shortening namespace declarations in XAML files"
 permalink: "Shortening-namespace-declarations-in-XAML-files"
 date: 12/15/2011 2:49:43 AM

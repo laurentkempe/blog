@@ -1,3 +1,4 @@
+---
 title: "Fundamental Laws from David S. Platt on MSDN Magazine"
 permalink: "Fundamental-Laws-from-David-S-Platt-on-MSDN-Magazine"
 date: 5/12/2010 5:15:00 PM

@@ -1,3 +1,4 @@
+---
 title: "ASP.NET Ajax RC and Google Adsense"
 permalink: "ASPNET-Ajax-RC-and-Google-Adsense"
 date: 12/22/2006 7:25:49 PM

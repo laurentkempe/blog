@@ -1,3 +1,4 @@
+---
 title: "IntelliJ 9 CSS editor"
 permalink: "IntelliJ-9-CSS-editor"
 date: 5/6/2010 1:47:49 AM

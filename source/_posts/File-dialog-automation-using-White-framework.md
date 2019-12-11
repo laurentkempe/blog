@@ -1,3 +1,4 @@
+---
 title: "File dialog automation using White framework"
 permalink: "File-dialog-automation-using-White-framework"
 date: 7/16/2010 3:22:07 AM

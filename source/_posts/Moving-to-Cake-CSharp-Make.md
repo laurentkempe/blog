@@ -1,3 +1,4 @@
+---
 title: 'Moving to Cake (C# Make)'
 permalink: "Moving-to-Cake-CSharp-Make"
 date: 2016-04-05 17:46:28

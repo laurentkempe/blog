@@ -1,3 +1,4 @@
+---
 title: "Using NDepend in Team City build management tool"
 permalink: "Using-NDepend-in-Team-City-build-management-tool"
 date: 4/25/2008 6:23:00 PM

@@ -1,3 +1,4 @@
+---
 title: "ASP.NET AJAX v1.0 Beta - Available"
 permalink: "ASPNET-AJAX-v10-Beta-Available"
 date: 10/20/2006 8:32:00 PM

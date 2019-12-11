@@ -1,3 +1,4 @@
+---
 title: "Head hunters, what the hell!?"
 permalink: "Head-hunters-what-the-hell!"
 date: 1/18/2008 7:23:26 AM

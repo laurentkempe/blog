@@ -1,3 +1,4 @@
+---
 title: "Wireless IntelliMouse Explorer with Fingerprint Reader Windows USB"
 permalink: "Wireless-IntelliMouse-Explorer-with-Fingerprint-Reader-Windows-USB"
 date: 8/17/2004 7:36:00 AM

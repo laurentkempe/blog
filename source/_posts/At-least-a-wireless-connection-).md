@@ -1,3 +1,4 @@
+---
 title: "At least a wireless connection :-)"
 permalink: "At-least-a-wireless-connection-)"
 date: 7/2/2003 7:04:00 PM

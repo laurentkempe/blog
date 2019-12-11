@@ -1,3 +1,4 @@
+---
 title: "Starting TeamCity builds from HipChat using Github Hubot"
 permalink: "Starting-TeamCity-builds-from-HipChat-using-Github-Hubot"
 date: 2/7/2012 5:10:52 PM

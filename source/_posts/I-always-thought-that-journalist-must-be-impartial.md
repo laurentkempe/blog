@@ -1,3 +1,4 @@
+---
 title: "I always thought that journalist must be impartial"
 permalink: "I-always-thought-that-journalist-must-be-impartial"
 date: 11/8/2004 7:15:00 AM

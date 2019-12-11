@@ -1,3 +1,4 @@
+---
 title: "MSBuildProjectDirectory issue in Web Deployment Project! Any idea Welcomed!"
 permalink: "MSBuildProjectDirectory-issue-in-Web-Deployment-Project!-Any-idea-Welcomed!"
 date: 4/4/2008 3:31:50 AM

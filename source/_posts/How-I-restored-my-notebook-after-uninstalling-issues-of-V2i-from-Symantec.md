@@ -1,3 +1,4 @@
+---
 title: "How I restored my notebook after uninstalling issues of V2i from Symantec"
 permalink: "How-I-restored-my-notebook-after-uninstalling-issues-of-V2i-from-Symantec"
 date: 7/8/2004 6:43:00 AM

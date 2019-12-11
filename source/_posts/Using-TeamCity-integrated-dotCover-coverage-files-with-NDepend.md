@@ -1,3 +1,4 @@
+---
 title: "Using TeamCity integrated dotCover coverage files with NDepend"
 permalink: "Using-TeamCity-integrated-dotCover-coverage-files-with-NDepend"
 date: 11/29/2013 6:55:49 PM

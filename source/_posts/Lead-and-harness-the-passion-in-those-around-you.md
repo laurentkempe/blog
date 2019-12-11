@@ -1,3 +1,4 @@
+---
 title: "Lead and harness the passion in those around you"
 permalink: "Lead-and-harness-the-passion-in-those-around-you"
 date: 9/27/2006 7:29:31 AM

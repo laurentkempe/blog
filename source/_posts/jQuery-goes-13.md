@@ -1,3 +1,4 @@
+---
 title: "jQuery goes 1.3"
 permalink: "jQuery-goes-13"
 date: 1/14/2009 11:49:40 PM

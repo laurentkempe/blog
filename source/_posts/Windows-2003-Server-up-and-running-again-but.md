@@ -1,3 +1,4 @@
+---
 title: "Windows 2003 Server up and running again but..."
 permalink: "Windows-2003-Server-up-and-running-again-but"
 date: 4/9/2005 9:24:00 PM

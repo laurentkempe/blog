@@ -1,3 +1,4 @@
+---
 title: "Updated my Live Template for NUnit in ReSharper"
 permalink: "Updated-my-Live-Template-for-NUnit-in-ReSharper"
 date: 5/9/2009 4:59:33 PM

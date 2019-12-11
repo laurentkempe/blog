@@ -1,3 +1,4 @@
+---
 title: "Displaying application version on TeamCity home page"
 permalink: "Displaying-application-version-on-TeamCity-home-page"
 date: 11/12/2009 6:00:06 PM

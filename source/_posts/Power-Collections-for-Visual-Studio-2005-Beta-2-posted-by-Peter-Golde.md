@@ -1,3 +1,4 @@
+---
 title: "Power Collections for Visual Studio 2005 Beta 2 posted by Peter Golde"
 permalink: "Power-Collections-for-Visual-Studio-2005-Beta-2-posted-by-Peter-Golde"
 date: 5/11/2005 6:42:00 AM

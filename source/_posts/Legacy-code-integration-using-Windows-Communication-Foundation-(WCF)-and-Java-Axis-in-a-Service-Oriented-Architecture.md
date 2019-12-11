@@ -1,3 +1,4 @@
+---
 title: "Legacy code integration using Windows Communication Foundation (WCF) and Java Axis in a Service Oriented Architecture"
 permalink: "Legacy-code-integration-using-Windows-Communication-Foundation-(WCF)-and-Java-Axis-in-a-Service-Oriented-Architecture"
 date: 6/22/2007 4:17:11 AM

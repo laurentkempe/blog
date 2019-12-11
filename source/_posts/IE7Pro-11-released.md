@@ -1,3 +1,4 @@
+---
 title: "IE7Pro 1.1 released"
 permalink: "IE7Pro-11-released"
 date: 9/12/2007 4:47:57 PM

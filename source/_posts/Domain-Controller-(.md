@@ -1,3 +1,4 @@
+---
 title: "Domain Controller :-("
 permalink: "Domain-Controller-("
 date: 4/24/2004 8:53:00 AM

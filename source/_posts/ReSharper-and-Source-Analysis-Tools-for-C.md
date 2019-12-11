@@ -1,3 +1,4 @@
+---
 title: "ReSharper and Source Analysis Tools for C#"
 permalink: "ReSharper-and-Source-Analysis-Tools-for-C"
 date: 6/25/2008 6:05:33 AM

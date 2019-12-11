@@ -1,3 +1,4 @@
+---
 title: "Introducing Custom Entity Classes"
 permalink: "Introducing-Custom-Entity-Classes"
 date: 3/16/2005 5:44:00 AM

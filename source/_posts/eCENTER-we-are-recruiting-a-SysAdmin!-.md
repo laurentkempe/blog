@@ -1,3 +1,4 @@
+---
 title: "eCENTER: we are recruiting a SysAdmin! "
 permalink: "eCENTER-we-are-recruiting-a-SysAdmin!-"
 date: 7/11/2005 4:47:00 PM

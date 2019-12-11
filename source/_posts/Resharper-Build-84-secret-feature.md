@@ -1,3 +1,4 @@
+---
 title: "Resharper Build 84 secret feature"
 permalink: "Resharper-Build-84-secret-feature"
 date: 6/8/2004 5:57:00 AM

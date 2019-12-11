@@ -1,3 +1,4 @@
+---
 title: "Launch of innoveo solutions blog"
 permalink: "Launch-of-innoveo-solutions-blog"
 date: 12/11/2007 7:25:15 PM

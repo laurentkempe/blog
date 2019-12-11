@@ -1,3 +1,4 @@
+---
 title: "Going to Vista"
 permalink: "Going-to-Vista"
 date: 4/14/2007 10:01:39 PM

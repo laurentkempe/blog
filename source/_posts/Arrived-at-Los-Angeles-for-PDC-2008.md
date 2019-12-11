@@ -1,3 +1,4 @@
+---
 title: "Arrived at Los Angeles for PDC 2008"
 permalink: "Arrived-at-Los-Angeles-for-PDC-2008"
 date: 10/26/2008 10:50:03 PM

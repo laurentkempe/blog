@@ -1,3 +1,4 @@
+---
 title: "Windows Media Player Currently Playing Plugin for Windows Live Writer uploaded to Codeplex"
 permalink: "Windows-Media-Player-Currently-Playing-Plugin-for-Windows-Live-Writer-uploaded-to-Codeplex"
 date: 8/17/2006 7:46:28 AM

@@ -1,3 +1,4 @@
+---
 title: "Follow up on “Reducing ORM Friction” by Rob Conery"
 permalink: "Follow-up-on-e2809cReducing-ORM-Frictione2809d-by-Rob-Conery"
 date: 11/5/2008 7:20:24 AM

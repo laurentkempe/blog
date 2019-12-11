@@ -1,3 +1,4 @@
+---
 title: "TeamCity 5.0 '​Failed to collect changes error' issue"
 permalink: "TeamCity-50-e2808bFailed-to-collect-changes-error-issue"
 date: 12/11/2009 5:49:21 AM

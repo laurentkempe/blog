@@ -1,3 +1,4 @@
+---
 title: "VSTO 2005 and Web Expression CTP"
 permalink: "VSTO-2005-and-Web-Expression-CTP"
 date: 10/5/2006 6:17:08 AM

@@ -1,3 +1,4 @@
+---
 title: "Indexing and searching business entities using Lucene.Net Framework, part 3"
 permalink: "Indexing-and-searching-business-entities-using-LuceneNet-Framework-part-3"
 date: 3/7/2008 7:59:25 PM

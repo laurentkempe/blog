@@ -1,3 +1,4 @@
+---
 title: "Updated my ATI Drivers on my HP nw8440 notebook"
 permalink: "Updated-my-ATI-Drivers-on-my-HP-nw8440-notebook"
 date: 8/25/2007 2:54:05 PM

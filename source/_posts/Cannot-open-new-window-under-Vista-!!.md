@@ -1,3 +1,4 @@
+---
 title: "Cannot open new window under Vista !!"
 permalink: "Cannot-open-new-window-under-Vista-!!"
 date: 5/23/2007 5:27:05 AM

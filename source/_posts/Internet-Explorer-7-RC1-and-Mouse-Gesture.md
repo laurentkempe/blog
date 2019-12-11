@@ -1,3 +1,4 @@
+---
 title: "Internet Explorer 7 RC1 and Mouse Gesture"
 permalink: "Internet-Explorer-7-RC1-and-Mouse-Gesture"
 date: 8/26/2006 10:07:40 PM

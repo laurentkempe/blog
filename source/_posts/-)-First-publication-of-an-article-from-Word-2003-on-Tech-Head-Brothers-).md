@@ -1,3 +1,4 @@
+---
 title: ":-) First publication of an article from Word 2003 on Tech Head Brothers :-)"
 permalink: "-)-First-publication-of-an-article-from-Word-2003-on-Tech-Head-Brothers-)"
 date: 1/26/2005 12:39:00 AM

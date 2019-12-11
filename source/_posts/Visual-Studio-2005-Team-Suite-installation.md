@@ -1,3 +1,4 @@
+---
 title: "Visual Studio 2005 Team Suite installation"
 permalink: "Visual-Studio-2005-Team-Suite-installation"
 date: 12/10/2005 8:59:00 AM

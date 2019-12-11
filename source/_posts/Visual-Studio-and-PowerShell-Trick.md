@@ -1,3 +1,4 @@
+---
 title: "Visual Studio and PowerShell Trick"
 permalink: "Visual-Studio-and-PowerShell-Trick"
 date: 11/30/2007 3:30:45 AM

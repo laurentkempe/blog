@@ -1,3 +1,4 @@
+---
 title: "ecenter solutions blog launched"
 permalink: "ecenter-solutions-blog-launched"
 date: 9/20/2006 5:10:26 AM

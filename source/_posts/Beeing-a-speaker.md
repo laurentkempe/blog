@@ -1,3 +1,4 @@
+---
 title: "Beeing a speaker"
 permalink: "Beeing-a-speaker"
 date: 5/22/2005 10:03:00 PM

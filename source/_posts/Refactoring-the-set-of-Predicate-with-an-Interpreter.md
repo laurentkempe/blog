@@ -1,3 +1,4 @@
+---
 title: "Refactoring the set of Predicate with an Interpreter"
 permalink: "Refactoring-the-set-of-Predicate-with-an-Interpreter"
 date: 3/12/2005 9:09:00 AM

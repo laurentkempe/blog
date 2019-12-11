@@ -1,3 +1,4 @@
+---
 title: "Running Github Hubot on a Windows machine"
 permalink: "Running-Github-Hubot-on-a-Windows-machine"
 date: 4/28/2012 9:15:24 AM

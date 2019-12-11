@@ -1,3 +1,4 @@
+---
 title: "Renominated Microsoft MVP Visual Developer - ASP/ASP.NET :-)"
 permalink: "Renominated-Microsoft-MVP-Visual-Developer-ASPASPNET-)"
 date: 4/2/2005 4:29:00 PM

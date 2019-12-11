@@ -1,3 +1,4 @@
+---
 title: "Easier VPN connections from a Windows desktop - Jon Galloway"
 permalink: "Easier-VPN-connections-from-a-Windows-desktop-Jon-Galloway"
 date: 9/6/2007 3:28:04 PM

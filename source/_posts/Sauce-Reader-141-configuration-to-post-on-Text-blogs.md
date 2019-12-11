@@ -1,3 +1,4 @@
+---
 title: "Sauce Reader 1.4.1 configuration to post on .Text blogs"
 permalink: "Sauce-Reader-141-configuration-to-post-on-Text-blogs"
 date: 5/22/2004 9:49:00 PM

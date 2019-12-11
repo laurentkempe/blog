@@ -1,3 +1,4 @@
+---
 title: "Windows Live Writer Dynamic Template Plugin"
 permalink: "Windows-Live-Writer-Dynamic-Template-Plugin"
 date: 6/14/2008 1:10:32 AM

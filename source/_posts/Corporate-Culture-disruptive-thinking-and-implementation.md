@@ -1,3 +1,4 @@
+---
 title: "Corporate Culture, disruptive thinking and implementation"
 permalink: "Corporate-Culture-disruptive-thinking-and-implementation"
 date: 7/29/2010 5:27:59 PM

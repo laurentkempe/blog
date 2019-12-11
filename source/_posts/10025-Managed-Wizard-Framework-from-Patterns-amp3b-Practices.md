@@ -1,3 +1,4 @@
+---
 title: "100% Managed Wizard Framework from Patterns & Practices"
 permalink: "10025-Managed-Wizard-Framework-from-Patterns-amp3b-Practices"
 date: 7/16/2004 3:30:00 PM

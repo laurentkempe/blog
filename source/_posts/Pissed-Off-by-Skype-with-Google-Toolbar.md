@@ -1,3 +1,4 @@
+---
 title: "Pissed Off by Skype with Google Toolbar"
 permalink: "Pissed-Off-by-Skype-with-Google-Toolbar"
 date: 9/28/2006 5:19:50 AM

@@ -1,3 +1,4 @@
+---
 title: "dotTrace published by JetBrains"
 permalink: "dotTrace-published-by-JetBrains"
 date: 7/29/2005 8:09:00 AM

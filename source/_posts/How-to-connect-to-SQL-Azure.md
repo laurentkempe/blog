@@ -1,3 +1,4 @@
+---
 title: "How to connect to SQL Azure"
 permalink: "How-to-connect-to-SQL-Azure"
 date: 8/21/2009 6:49:16 PM

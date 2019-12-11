@@ -1,3 +1,4 @@
+---
 title: "Tech Ed Richard, not TechHead :)"
 permalink: "Tech-Ed-Richard-not-TechHead-)"
 date: 8/16/2006 7:06:34 AM

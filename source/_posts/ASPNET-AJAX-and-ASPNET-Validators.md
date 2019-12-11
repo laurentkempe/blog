@@ -1,3 +1,4 @@
+---
 title: "ASP.NET AJAX and ASP.NET Validators"
 permalink: "ASPNET-AJAX-and-ASPNET-Validators"
 date: 3/27/2007 6:30:01 AM

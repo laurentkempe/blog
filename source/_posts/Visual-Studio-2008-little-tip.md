@@ -1,3 +1,4 @@
+---
 title: "Visual Studio 2008 little tip"
 permalink: "Visual-Studio-2008-little-tip"
 date: 1/7/2010 7:27:59 AM

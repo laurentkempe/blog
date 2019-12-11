@@ -1,3 +1,4 @@
+---
 title: "Cleaning BlogEngine.NET spam"
 permalink: "Cleaning-BlogEngineNET-spam"
 date: 10/30/2011 8:45:39 PM

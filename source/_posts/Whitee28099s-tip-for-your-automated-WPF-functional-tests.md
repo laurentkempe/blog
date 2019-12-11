@@ -1,3 +1,4 @@
+---
 title: "White’s tip for your automated WPF functional tests"
 permalink: "Whitee28099s-tip-for-your-automated-WPF-functional-tests"
 date: 1/28/2010 5:24:03 AM

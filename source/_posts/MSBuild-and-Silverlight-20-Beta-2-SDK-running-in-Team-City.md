@@ -1,3 +1,4 @@
+---
 title: "MSBuild and Silverlight 2.0 Beta 2 SDK running in Team City"
 permalink: "MSBuild-and-Silverlight-20-Beta-2-SDK-running-in-Team-City"
 date: 6/7/2008 10:57:52 PM

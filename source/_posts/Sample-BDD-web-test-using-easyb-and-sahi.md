@@ -1,3 +1,4 @@
+---
 title: "Sample BDD web test using easyb and sahi"
 permalink: "Sample-BDD-web-test-using-easyb-and-sahi"
 date: 11/9/2010 5:50:39 PM

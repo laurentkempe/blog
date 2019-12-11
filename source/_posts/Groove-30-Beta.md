@@ -1,3 +1,4 @@
+---
 title: "Groove 3.0 Beta"
 permalink: "Groove-30-Beta"
 date: 3/17/2004 6:41:00 AM

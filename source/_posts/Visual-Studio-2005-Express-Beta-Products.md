@@ -1,3 +1,4 @@
+---
 title: "Visual Studio 2005 Express Beta Products"
 permalink: "Visual-Studio-2005-Express-Beta-Products"
 date: 6/30/2004 6:32:00 AM

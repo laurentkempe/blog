@@ -1,3 +1,4 @@
+---
 title: 'Build, ship and run ASP.NET Core on Microsoft Azure using Docker Cloud'
 permalink: Build-ship-and-run-ASP-NET-Core-on-Microsoft-Azure-using-Docker-Cloud
 date: 2016-07-18 19:04:21

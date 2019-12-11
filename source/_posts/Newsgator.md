@@ -1,3 +1,4 @@
+---
 title: "Newsgator"
 permalink: "Newsgator"
 date: 4/19/2004 6:45:00 PM

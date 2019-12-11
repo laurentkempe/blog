@@ -1,3 +1,4 @@
+---
 title: "Silverlight 3 RTM Released"
 permalink: "Silverlight-3-RTM-Released"
 date: 7/10/2009 7:27:09 AM

@@ -1,3 +1,4 @@
+---
 title: "ASP.NET AJAX and URL rewriting issue"
 permalink: "ASPNET-AJAX-and-URL-rewriting-issue"
 date: 8/4/2007 8:29:46 AM

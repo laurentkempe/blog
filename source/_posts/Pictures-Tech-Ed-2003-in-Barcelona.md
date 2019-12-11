@@ -1,3 +1,4 @@
+---
 title: "Pictures Tech Ed 2003 in Barcelona"
 permalink: "Pictures-Tech-Ed-2003-in-Barcelona"
 date: 3/14/2004 5:25:00 PM

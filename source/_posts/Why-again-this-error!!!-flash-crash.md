@@ -1,3 +1,4 @@
+---
 title: "Why again this error!!! flash crash"
 permalink: "Why-again-this-error!!!-flash-crash"
 date: 12/12/2007 11:26:32 PM

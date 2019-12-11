@@ -1,3 +1,4 @@
+---
 title: Rebooting my blog
 permalink: "Rebooting-my-blog"
 date: 2016-03-29 20:18:33

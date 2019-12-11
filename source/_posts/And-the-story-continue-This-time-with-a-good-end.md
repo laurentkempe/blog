@@ -1,3 +1,4 @@
+---
 title: "And the story continue... This time with a good end"
 permalink: "And-the-story-continue-This-time-with-a-good-end"
 date: 5/14/2004 5:36:00 AM

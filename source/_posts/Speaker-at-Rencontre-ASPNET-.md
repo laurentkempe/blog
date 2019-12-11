@@ -1,3 +1,4 @@
+---
 title: "Speaker at 'Rencontre ASP.NET' "
 permalink: "Speaker-at-Rencontre-ASPNET-"
 date: 10/17/2004 9:28:00 PM

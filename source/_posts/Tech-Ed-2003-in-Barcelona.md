@@ -1,3 +1,4 @@
+---
 title: "Tech Ed 2003 in Barcelona"
 permalink: "Tech-Ed-2003-in-Barcelona"
 date: 6/30/2003 2:37:00 AM

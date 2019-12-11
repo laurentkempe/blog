@@ -1,3 +1,4 @@
+---
 title: "The role of the developer today is about adding value to the business"
 permalink: "quot3bThe-role-of-the-developer-today-is-about-adding-value-to-the-businessquot3b"
 date: 6/3/2004 7:47:00 AM

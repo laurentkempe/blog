@@ -1,3 +1,4 @@
+---
 title: "Silverlight and file system loading"
 permalink: "Silverlight-and-file-system-loading"
 date: 9/12/2007 8:04:51 AM

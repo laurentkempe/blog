@@ -1,3 +1,4 @@
+---
 title: "Enterprise Library Configuration application"
 permalink: "Enterprise-Library-Configuration-application"
 date: 1/29/2005 10:22:00 AM

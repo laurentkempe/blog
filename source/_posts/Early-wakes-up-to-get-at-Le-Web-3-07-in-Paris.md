@@ -1,3 +1,4 @@
+---
 title: "Early wakes up to get at Le Web 3 '07 in Paris"
 permalink: "Early-wakes-up-to-get-at-Le-Web-3-07-in-Paris"
 date: 12/11/2007 6:45:41 PM

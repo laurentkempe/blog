@@ -1,3 +1,4 @@
+---
 title: "Jetbrains Resharper 2.0 Early Access Program (EAP) started !!!"
 permalink: "Jetbrains-Resharper-20-Early-Access-Program-(EAP)-started-!!!"
 date: 7/20/2005 6:55:00 AM

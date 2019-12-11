@@ -1,3 +1,4 @@
+---
 title: 'Automating my development machine installation'
 permalink: Automating-development-machine-installation
 disqusIdentifier: 20180601181512

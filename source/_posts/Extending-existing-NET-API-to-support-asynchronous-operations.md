@@ -1,3 +1,4 @@
+---
 title: "Extending existing .NET API to support asynchronous operations"
 permalink: "Extending-existing-NET-API-to-support-asynchronous-operations"
 date: 1/5/2012 7:10:53 AM

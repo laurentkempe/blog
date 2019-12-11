@@ -1,3 +1,4 @@
+---
 title: "Testing your Google AdSense"
 permalink: "Testing-your-Google-AdSense"
 date: 10/12/2007 6:43:44 AM

@@ -1,3 +1,4 @@
+---
 title: "CSS Debugging :-)"
 permalink: "CSS-Debugging-)"
 date: 12/18/2007 5:01:57 AM

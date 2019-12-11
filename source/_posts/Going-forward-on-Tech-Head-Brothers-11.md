@@ -1,3 +1,4 @@
+---
 title: "Going forward on Tech Head Brothers 1.1"
 permalink: "Going-forward-on-Tech-Head-Brothers-11"
 date: 7/29/2003 6:24:00 AM

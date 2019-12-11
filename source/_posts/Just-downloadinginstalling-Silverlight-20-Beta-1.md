@@ -1,3 +1,4 @@
+---
 title: "Just downloading/installing Silverlight 2.0 Beta 1"
 permalink: "Just-downloadinginstalling-Silverlight-20-Beta-1"
 date: 3/6/2008 5:04:32 AM

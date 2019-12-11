@@ -1,3 +1,4 @@
+---
 title: "Report from Redmond - By Rick Ross of Javalobby"
 permalink: "Report-from-Redmond-By-Rick-Ross-of-Javalobby"
 date: 3/28/2005 7:01:00 AM

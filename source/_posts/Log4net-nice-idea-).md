@@ -1,3 +1,4 @@
+---
 title: "Log4net nice idea :-)"
 permalink: "Log4net-nice-idea-)"
 date: 11/5/2004 7:49:00 AM

@@ -1,3 +1,4 @@
+---
 title: "VisualSvn, TortoiseSvn and relocating a working copy"
 permalink: "VisualSvn-TortoiseSvn-and-relocating-a-working-copy"
 date: 1/28/2010 8:04:19 PM

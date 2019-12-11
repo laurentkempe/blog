@@ -1,3 +1,4 @@
+---
 title: "Using Resharper Search with Pattern to protect you from your code"
 permalink: "Using-Resharper-Search-with-Pattern-to-protect-you-from-your-code"
 date: 11/19/2010 12:02:53 AM

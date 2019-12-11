@@ -1,3 +1,4 @@
+---
 title: "ReSharper and Visual Studio 2008"
 permalink: "ReSharper-and-Visual-Studio-2008"
 date: 11/24/2007 4:21:01 AM

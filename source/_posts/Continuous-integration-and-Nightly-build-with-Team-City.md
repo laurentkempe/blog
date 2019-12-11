@@ -1,3 +1,4 @@
+---
 title: "Continuous integration and Nightly build with Team City"
 permalink: "Continuous-integration-and-Nightly-build-with-Team-City"
 date: 4/23/2008 7:16:19 AM

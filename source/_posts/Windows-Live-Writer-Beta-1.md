@@ -1,3 +1,4 @@
+---
 title: "Windows Live Writer Beta 1"
 permalink: "Windows-Live-Writer-Beta-1"
 date: 8/14/2006 11:02:00 PM

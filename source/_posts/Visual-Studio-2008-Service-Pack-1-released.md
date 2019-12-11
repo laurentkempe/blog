@@ -1,3 +1,4 @@
+---
 title: "Visual Studio 2008 Service Pack 1 released"
 permalink: "Visual-Studio-2008-Service-Pack-1-released"
 date: 8/12/2008 1:48:41 AM

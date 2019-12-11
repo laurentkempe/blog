@@ -1,3 +1,4 @@
+---
 title: "Video of Tech Head Brothers new authoring tool based on Word 2007"
 permalink: "Video-of-Tech-Head-Brothers-new-authoring-tool-based-on-Word-2007"
 date: 9/7/2008 8:18:16 PM

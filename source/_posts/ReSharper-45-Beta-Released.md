@@ -1,3 +1,4 @@
+---
 title: "ReSharper 4.5 Beta Released"
 permalink: "ReSharper-45-Beta-Released"
 date: 3/14/2009 12:53:38 AM

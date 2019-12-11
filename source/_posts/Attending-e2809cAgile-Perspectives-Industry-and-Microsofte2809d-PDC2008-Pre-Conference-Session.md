@@ -1,3 +1,4 @@
+---
 title: "Attending “Agile Perspectives, Industry and Microsoft” PDC2008 Pre-Conference Session"
 permalink: "Attending-e2809cAgile-Perspectives-Industry-and-Microsofte2809d-PDC2008-Pre-Conference-Session"
 date: 9/10/2008 5:10:28 AM

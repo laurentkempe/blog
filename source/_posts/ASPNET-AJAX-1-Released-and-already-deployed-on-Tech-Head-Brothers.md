@@ -1,3 +1,4 @@
+---
 title: "ASP.NET AJAX 1 Released and already deployed on Tech Head Brothers"
 permalink: "ASPNET-AJAX-1-Released-and-already-deployed-on-Tech-Head-Brothers"
 date: 1/24/2007 8:28:02 AM

@@ -1,3 +1,4 @@
+---
 title: "You entered my blog!!!"
 permalink: "You-entered-my-blog!!!"
 date: 6/24/2003 5:50:00 AM

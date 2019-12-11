@@ -1,3 +1,4 @@
+---
 title: "Resharper 1.0 released"
 permalink: "Resharper-10-released"
 date: 7/23/2004 6:45:00 AM

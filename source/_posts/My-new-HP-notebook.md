@@ -1,3 +1,4 @@
+---
 title: "My new HP notebook"
 permalink: "My-new-HP-notebook"
 date: 9/9/2003 6:21:00 AM
