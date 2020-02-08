@@ -1,3 +1,4 @@
+layout: lkpage
 title: "About Laurent Kempé"
 permalink: "/about-laurent-kempe"
 updated: 5/30/2018 6:02:02 PM
