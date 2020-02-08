@@ -44,14 +44,6 @@ sidebar:
             title: global.about
             url: /about-laurent-kempe.html
             icon: fa fa-question
-        tags:
-            title: global.tags
-            url: /all-tags
-            icon: fa fa-tags
-        archives:
-            title: global.archives
-            url: /all-archives
-            icon: fa fa-archive
         #search:
         #    title: global.search
         #    url: /#search
@@ -91,6 +83,15 @@ sidebar:
         #    title: global.mail
         #    url: mailto
         #    icon: fa fa-envelope
+    section:
+        tags:
+            title: global.tags
+            url: /all-tags
+            icon: fa fa-tags
+        archives:
+            title: global.archives
+            url: /all-archives
+            icon: fa fa-archive
     rss:
         rss:
             title: global.rss
