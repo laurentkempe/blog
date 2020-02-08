@@ -36,6 +36,14 @@ sidebar:
         #    title: global.categories
         #    url: /all-categories
         #    icon: fa fa-bookmark
+        presentations:
+            title: global.presentations
+            url: /presentations
+            icon: fa fa-file-powerpoint
+        about:
+            title: global.about
+            url: /about-laurent-kempe.html
+            icon: fa fa-question
         tags:
             title: global.tags
             url: /all-tags
@@ -50,10 +58,6 @@ sidebar:
         #    icon: fa fa-search
         #    # `open-algolia-search` classes are used to open algolia search modal
         #    class: open-algolia-search
-        about:
-            title: global.about
-            url: /about-laurent-kempe.html
-            icon: fa fa-question
     author_links:
         github:
             title: global.github
