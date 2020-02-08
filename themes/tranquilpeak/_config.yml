@@ -38,7 +38,7 @@ sidebar:
         #    icon: fa fa-bookmark
         presentations:
             title: global.presentations
-            url: /presentations
+            url: /presentations.html
             icon: fa fa-file-powerpoint
         about:
             title: global.about
