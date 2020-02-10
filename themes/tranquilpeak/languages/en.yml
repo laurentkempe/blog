@@ -3,6 +3,7 @@ date_format: "MMM DD, YYYY"
 
 global:
     home: "Home"
+    presentations: "Presentations"
     categories: "Categories"
     category: "Category"
     tags: "Tags"
