@@ -10,7 +10,7 @@ coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
 coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
 thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
 date: 2020-02-21 17:55:27
-disqusIdentifier: 2020-02-21 17:55:27
+disqusIdentifier: 20200221175527
 ---
 I am using Git for many, many years. I am a big fan of it. How could that be different when you had to use versioning systems like CVS, SVN... I even took influence so that the whole company I work for migrates to it.
 
@@ -137,16 +137,19 @@ cfb = "!f() { featureBranch=$(git fb $1);
             }; f"
 {% endcodeblock %}
 
-# More
-
-You can access all the aliases I use and created and the others which I borrowed from different people like [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) and [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases), on my Github repository [laurentkempe/dotfiles](https://github.com/laurentkempe/dotfiles/blob/master/git/.gitconfig.aliases#L13).
-
-{% githubCard user:laurentkempe repo:dotfiles align:left %}
-
 # Presentation
 
-ADD PRES
+{% reveal https://laurentkempe.com/presentations/Automate%20Dev%20work%20using%20Git%20aliases/index.html#/ 800 600 %}
+
+Press f key to see the presentation full screen, or [navigate to it](https://laurentkempe.com/presentations/Automate%20Dev%20work%20using%20Git%20aliases/index.html#/).
 
 # Video
 
 ADD Video
+
+# More
+
+You can access all the aliases I use and created and the others which I borrowed from different people like [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) and [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases), on my Github repository [laurentkempe/dotfiles](https://github.com/laurentkempe/dotfiles/blob/master/git/.gitconfig.aliases#L13).
+
+<p></p>
+{% githubCard user:laurentkempe repo:dotfiles align:left %}
