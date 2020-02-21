@@ -6,9 +6,9 @@ tags:
   - Git
   - PowerShell
   - Windows
-coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
-coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
-thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
+coverCaption: 'Fleur de Tiaré, Moorea, Polynésie française'
+coverImage: 'https://live.staticflickr.com/4359/35813310943_479293da80_h.jpg'
+thumbnailImage: 'https://live.staticflickr.com/4359/35813310943_375167de07_q.jpg'
 date: 2020-02-21 17:55:27
 disqusIdentifier: 20200221175527
 ---
