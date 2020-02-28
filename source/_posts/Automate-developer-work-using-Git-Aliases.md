@@ -9,8 +9,8 @@ tags:
 coverCaption: 'Fleur de Tiaré, Moorea, Polynésie française'
 coverImage: 'https://live.staticflickr.com/4359/35813310943_479293da80_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4359/35813310943_375167de07_q.jpg'
-date: 2020-02-21 17:55:27
-disqusIdentifier: 20200221175527
+date: 2020-02-28 16:26:27
+disqusIdentifier: 20200228162627
 ---
 I am using Git for many, many years. I am a big fan of it. How could that be different when you had to use versioning systems like CVS, SVN... I even took influence so that the whole company I work for migrates to it.
 
@@ -142,10 +142,6 @@ cfb = "!f() { featureBranch=$(git fb $1);
 {% reveal https://laurentkempe.com/presentations/Automate%20Dev%20work%20using%20Git%20aliases/index.html#/ 800 600 %}
 
 Press f key to see the presentation full screen, or [navigate to it](https://laurentkempe.com/presentations/Automate%20Dev%20work%20using%20Git%20aliases/index.html#/).
-
-# Video
-
-ADD Video
 
 # More
 
