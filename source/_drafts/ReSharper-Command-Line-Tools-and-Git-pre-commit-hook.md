@@ -21,19 +21,26 @@ As we are using Git we have taken advantage of the hooks capabilities to have ou
 
 Each Git repositories has a **.git\hooks** folder which contains a set of hooks samples. The one we are interested in is the pre-commit hook. This hook is, as it names implies, executed before git commit something. We want to use that to run our code cleanup.
 
-The goal is to use PowerShell to write our hook. So we need to start our PowerShell script from the pre-commit shell script. We also want that this PowerShell script is versionned with our code, so that it is maintained for all developers. To achieve that goal we won't place the PowerShell script in the .git\hooks folder but in the root folder of our repository. Developers would still need to have the pre-coomit hook launching the PowerShell script configured.
+The goal is to use PowerShell to write our hook. So we need to start our PowerShell script from the pre-commit shell script. We also want that this PowerShell script is versioned with our code, so that it is maintained for all developers. To achieve that goal we won't place the PowerShell script in the .git\hooks folder but in the root folder of our repository. Developers would still need to have the pre-commit hook launching the PowerShell script configured.
 
 Here is the bash script to run the code cleanup PowerShell script
 
+{% codeblock %}
 #!/bin/sh
 exec powershell -NoProfile -ExecutionPolicy RemoteSigned -File '.\pre-commit.ps1'
+{% endcodeblock %}
 
 So we want that our staged files in Git are cleaned before the commit happens.
 
 To get a list of the files which are added/copied/modified/renamed, you can use the following Git command
 
+{% codeblock %}
 git diff --cached --name-only --diff-filter=ACMR
+{% endcodeblock %}
 
 Out of the results of that command you need to build up the command which will be executed by ReSharper codecleanup.exe command.
 
+{% codeblock %}
 $files -join ';' -replace '/','\'
+{% endcodeblock %}
+
