@@ -7,8 +7,8 @@ updated: 2/8/2020 8:23:02 PM
 # [Git Diff Margin](https://laurentkempe.com/presentations/Git%20Diff%20Margin/index.html#/)
 Apr 22, 2020
 
-Video in French
-{% youtube LoN_G3mva2c&t=1395 %}
+[Git Diff Margin](https://marketplace.visualstudio.com/items?itemName=LaurentKempe.GitDiffMargin) video presentation, in French, during DevApps online meetup, presentation starting at 23:15
+{% youtube LoN_G3mva2c %}
 
 # [Docker introduction](https://laurentkempe.com/presentations/Docker%20introduction/index.html#/)
 Mar 13, 2020
