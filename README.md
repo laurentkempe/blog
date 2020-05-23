@@ -2,15 +2,19 @@
 
 [Laurent Kempé - One of the Tech Head Brothers](https://laurentkempe.com/)
 
+## Prerequisite
+
+nodejs 12.13.1 installed
+
 ## How to write locally
 
-After a fresh clone, with nodejs 12.13.1 installed, use **install.ps1** to install all dependencies.
+    git clone https://github.com/laurentkempe/blog.git
+    cd blog
+    .\start.ps1 "Title of a new page"
 
-Then to start the server use **start.ps1** or
+## How to update Hexo
 
-    hexo server --open --draft 
-
-To update packages.json
+Update packages.json
 
     npm i -g npm-check-updates
     ncu -u
