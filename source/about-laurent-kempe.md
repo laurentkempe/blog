@@ -11,7 +11,7 @@ alias:
 
 I am an experienced **Team Leader & Distinguished Solution Architect** with a passion for shipping high-quality products by empowering development team and culture toward an agile mindset. I bring technical vision and strategy, leading engineering teams to move product, processes and architecture forward.
 
-Currently, employed by [Innoveo](https://www.innoveo.com/ "innoveo ") since 1/2018 as a Team Leader & Senior Solution Architect, I focus on [Innoveo Skye® Business Canvas](https://www.youtube.com/watch?v=5ZmjSN1WAps&t=5s), an application allowing non-business users to create multi-channel innovative insurance products for our web based Innoveo Skye® product. My past work has ranged from software engineering of web applications in different technologies to e-business platform infrastructure architecture.
+Currently, employed by [Innoveo](https://www.innoveo.com/ "innoveo ") since 1/2018 as a Team Leader & Distinguished Solution Architect, I focus on [Innoveo Skye® Business Canvas](https://www.youtube.com/watch?v=5ZmjSN1WAps&t=5s), an application allowing non-business users to create multi-channel innovative insurance products for our web based Innoveo Skye® product. My past work has ranged from software engineering of web applications in different technologies to e-business platform infrastructure architecture.
 
 I enjoy spending some of my free time in [open source projects](https://github.com/laurentkempe/) and personal side projects involving software architecture and engineering.
 Like [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin), which displays live Git changes of the currently edited file on Visual Studio margin and scroll bar.
