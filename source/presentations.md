@@ -4,6 +4,12 @@ permalink: "/presentations"
 updated: 2/8/2020 8:23:02 PM
 ---
 
+# [Github Codespaces](https://laurentkempe.com/presentations/https://laurentkempe.com/presentations/Github%20Codespaces/#/)
+Sep 30, 2020
+
+Video presentation, in French, during DevApps online meetup, [presentation starting at 31:22](https://youtu.be/LmG9eIGuELo?t=1883)
+{% youtube LmG9eIGuELo %}
+
 # [MAUI - .NET Multi-platform app UI](https://laurentkempe.com/presentations/dotNET%20Multi-platform%20App%20UI/#/)
 May 20, 2020
 
