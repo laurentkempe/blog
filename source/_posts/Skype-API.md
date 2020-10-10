@@ -1,6 +1,6 @@
 ---
 title: "Skype API"
-permalink: "Skype-API"
+permalink: /2004/10/24/Skype-API/
 date: 10/24/2004 8:18:00 AM
 updated: 5/7/2010 7:46:44 AM
 disqusIdentifier: 20041024081800

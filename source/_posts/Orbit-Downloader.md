@@ -1,6 +1,6 @@
 ---
 title: "Orbit Downloader"
-permalink: "Orbit-Downloader"
+permalink: /2007/07/28/Orbit-Downloader/
 date: 7/28/2007 5:52:53 PM
 updated: 7/28/2007 5:52:53 PM
 disqusIdentifier: 20070728055253

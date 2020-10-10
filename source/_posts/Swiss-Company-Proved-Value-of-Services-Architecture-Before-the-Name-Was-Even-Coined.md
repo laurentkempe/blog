@@ -1,6 +1,6 @@
 ---
 title: "Swiss Company Proved Value of Services Architecture Before the Name Was Even Coined"
-permalink: "Swiss-Company-Proved-Value-of-Services-Architecture-Before-the-Name-Was-Even-Coined"
+permalink: /2006/02/01/Swiss-Company-Proved-Value-of-Services-Architecture-Before-the-Name-Was-Even-Coined/
 date: 2/1/2006 6:49:00 AM
 updated: 2/1/2006 6:49:00 AM
 disqusIdentifier: 20060201064900

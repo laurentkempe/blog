@@ -1,6 +1,6 @@
 ---
 title: "Book review - ASP.NET MVC 1.0 Quickly"
-permalink: "Book-review-ASPNET-MVC-10-Quickly"
+permalink: /2009/07/03/Book-review-ASPNET-MVC-10-Quickly/
 date: 7/3/2009 5:39:42 AM
 updated: 7/3/2009 5:39:42 AM
 disqusIdentifier: 20090703053942

@@ -1,6 +1,6 @@
 ---
 title: "Using Resharper Search with Pattern to protect you from your code"
-permalink: "Using-Resharper-Search-with-Pattern-to-protect-you-from-your-code"
+permalink: /2010/11/19/Using-Resharper-Search-with-Pattern-to-protect-you-from-your-code/
 date: 11/19/2010 12:02:53 AM
 updated: 11/19/2010 12:02:53 AM
 disqusIdentifier: 20101119120253

@@ -1,6 +1,6 @@
 ---
 title: "AJAX Control Toolkit updated"
-permalink: "AJAX-Control-Toolkit-updated"
+permalink: /2008/03/01/AJAX-Control-Toolkit-updated/
 date: 3/1/2008 4:25:22 PM
 updated: 3/1/2008 4:25:22 PM
 disqusIdentifier: 20080301042522

@@ -1,6 +1,6 @@
 ---
 title: "Arrived at Los Angeles for PDC 2008"
-permalink: "Arrived-at-Los-Angeles-for-PDC-2008"
+permalink: /2008/10/26/Arrived-at-Los-Angeles-for-PDC-2008/
 date: 10/26/2008 10:50:03 PM
 updated: 10/26/2008 10:50:03 PM
 disqusIdentifier: 20081026105003

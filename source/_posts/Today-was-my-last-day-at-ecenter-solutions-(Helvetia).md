@@ -1,6 +1,6 @@
 ---
 title: "Today was my last day at ecenter solutions (Helvetia)"
-permalink: "Today-was-my-last-day-at-ecenter-solutions-(Helvetia)"
+permalink: /2007/09/29/Today-was-my-last-day-at-ecenter-solutions-(Helvetia)/
 date: 9/29/2007 6:45:46 AM
 updated: 9/29/2007 6:45:46 AM
 disqusIdentifier: 20070929064546

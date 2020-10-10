@@ -1,6 +1,6 @@
 ---
 title: "When journalist doesn't do they work correctly"
-permalink: "When-journalist-doesnt-do-they-work-correctly"
+permalink: /2004/12/23/When-journalist-doesnt-do-they-work-correctly/
 date: 12/23/2004 6:10:00 PM
 updated: 12/23/2004 6:10:00 PM
 disqusIdentifier: 20041223061000

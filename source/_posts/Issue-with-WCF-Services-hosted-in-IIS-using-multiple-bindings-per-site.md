@@ -1,6 +1,6 @@
 ---
 title: "Issue with WCF Services hosted in IIS using multiple bindings per site"
-permalink: "Issue-with-WCF-Services-hosted-in-IIS-using-multiple-bindings-per-site"
+permalink: /2007/08/02/Issue-with-WCF-Services-hosted-in-IIS-using-multiple-bindings-per-site/
 date: 8/2/2007 2:26:24 AM
 updated: 8/2/2007 2:26:24 AM
 disqusIdentifier: 20070802022624

@@ -3,7 +3,7 @@ title: Upload files to DropBox from PowerShell
 tags:
   - PowerShell
   - continuous integration
-permalink: Upload-files-to-DropBox-from-PowerShell
+permalink: /2016/04/07/Upload-files-to-DropBox-from-PowerShell/
 disqusIdentifier: 20160407214132
 coverSize: partial
 coverCaption: 'Le rocher du diamant depuis le morne larcher, Martinique'

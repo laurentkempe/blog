@@ -1,6 +1,6 @@
 ---
 title: "Starting TeamCity builds from HipChat using Github Hubot"
-permalink: "Starting-TeamCity-builds-from-HipChat-using-Github-Hubot"
+permalink: /2012/02/07/Starting-TeamCity-builds-from-HipChat-using-Github-Hubot/
 date: 2/7/2012 5:10:52 PM
 updated: 2/8/2012 5:44:04 AM
 disqusIdentifier: 20120207051052

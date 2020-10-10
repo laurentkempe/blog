@@ -1,6 +1,6 @@
 ---
 title: "Video of Tech Head Brothers authoring tool using Silverlight Streaming"
-permalink: "Video-of-Tech-Head-Brothers-authoring-tool-using-Silverlight-Streaming"
+permalink: /2007/08/31/Video-of-Tech-Head-Brothers-authoring-tool-using-Silverlight-Streaming/
 date: 8/31/2007 6:59:00 AM
 updated: 8/31/2007 6:59:00 AM
 disqusIdentifier: 20070831065900

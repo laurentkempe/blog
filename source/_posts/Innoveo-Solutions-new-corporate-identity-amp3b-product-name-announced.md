@@ -1,6 +1,6 @@
 ---
 title: "Innoveo Solutions new corporate identity & product name announced"
-permalink: "Innoveo-Solutions-new-corporate-identity-amp3b-product-name-announced"
+permalink: /2008/07/02/Innoveo-Solutions-new-corporate-identity-amp3b-product-name-announced/
 date: 7/2/2008 6:28:41 AM
 updated: 7/2/2008 6:28:41 AM
 disqusIdentifier: 20080702062841

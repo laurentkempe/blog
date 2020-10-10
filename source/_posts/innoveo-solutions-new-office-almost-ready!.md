@@ -1,6 +1,6 @@
 ---
 title: "innoveo solutions new office almost ready!"
-permalink: "innoveo-solutions-new-office-almost-ready!"
+permalink: /2007/11/18/innoveo-solutions-new-office-almost-ready!/
 date: 11/18/2007 8:32:39 PM
 updated: 11/18/2007 8:32:39 PM
 disqusIdentifier: 20071118083239

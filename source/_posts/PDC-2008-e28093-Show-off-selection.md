@@ -1,6 +1,6 @@
 ---
 title: "[PDC 2008] – Show off selection"
-permalink: "PDC-2008-e28093-Show-off-selection"
+permalink: /2008/10/27/PDC-2008-e28093-Show-off-selection/
 date: 10/27/2008 2:25:21 PM
 updated: 10/27/2008 2:25:21 PM
 disqusIdentifier: 20081027022521

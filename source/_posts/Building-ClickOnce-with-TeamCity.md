@@ -1,6 +1,6 @@
 ---
 title: "Building ClickOnce with TeamCity"
-permalink: "Building-ClickOnce-with-TeamCity"
+permalink: /2009/11/03/Building-ClickOnce-with-TeamCity/
 date: 11/3/2009 7:52:25 AM
 updated: 11/3/2009 7:52:25 AM
 disqusIdentifier: 20091103075225

@@ -1,6 +1,6 @@
 ---
 title: "Great indexing/search tool for Outlook - Lookout"
-permalink: "Great-indexingsearch-tool-for-Outlook-Lookout"
+permalink: /2004/07/28/Great-indexingsearch-tool-for-Outlook-Lookout/
 date: 7/28/2004 5:44:00 AM
 updated: 7/28/2004 5:44:00 AM
 disqusIdentifier: 20040728054400

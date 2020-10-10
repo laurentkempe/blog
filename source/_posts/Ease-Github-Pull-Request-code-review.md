@@ -2,7 +2,7 @@
 title: Ease Github Pull Request code review
 date: 2016-04-18 15:21:47
 tags: ["Git", "GitHub", "Visual Studio"]
-permalink: Ease-Github-Pull-Request-code-review
+permalink: /2016/04/18/Ease-Github-Pull-Request-code-review/
 disqusIdentifier: 20160418152147
 coverSize: partial
 coverCaption: 'Cascade trou du diable, Corse'

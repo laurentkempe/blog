@@ -1,6 +1,6 @@
 ---
 title: "White’s tip for your automated WPF functional tests"
-permalink: "Whitee28099s-tip-for-your-automated-WPF-functional-tests"
+permalink: /2010/01/28/Whitee28099s-tip-for-your-automated-WPF-functional-tests/
 date: 1/28/2010 5:24:03 AM
 updated: 1/28/2010 5:24:03 AM
 disqusIdentifier: 20100128052403

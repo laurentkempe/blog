@@ -1,6 +1,6 @@
 ---
 title: "Nice ReSharper feature"
-permalink: "Nice-ReSharper-feature"
+permalink: /2007/11/01/Nice-ReSharper-feature/
 date: 11/1/2007 7:59:12 PM
 updated: 11/1/2007 7:59:12 PM
 disqusIdentifier: 20071101075912

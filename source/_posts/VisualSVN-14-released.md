@@ -1,6 +1,6 @@
 ---
 title: "VisualSVN 1.4 released"
-permalink: "VisualSVN-14-released"
+permalink: /2008/04/22/VisualSVN-14-released/
 date: 4/22/2008 5:57:31 AM
 updated: 4/22/2008 5:57:31 AM
 disqusIdentifier: 20080422055731

@@ -1,6 +1,6 @@
 ---
 title: "Got my popfly alpha invitation today"
-permalink: "Got-my-popfly-alpha-invitation-today"
+permalink: /2007/06/07/Got-my-popfly-alpha-invitation-today/
 date: 6/7/2007 9:50:42 PM
 updated: 5/7/2010 7:46:48 AM
 disqusIdentifier: 20070607095042

@@ -1,6 +1,6 @@
 ---
 title: ":D Hilarious reading :D"
-permalink: "D-Hilarious-reading-D"
+permalink: /2007/05/30/D-Hilarious-reading-D/
 date: 5/30/2007 4:23:51 AM
 updated: 5/30/2007 4:23:51 AM
 disqusIdentifier: 20070530042351

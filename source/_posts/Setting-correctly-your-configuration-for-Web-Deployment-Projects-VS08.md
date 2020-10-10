@@ -1,6 +1,6 @@
 ---
 title: "Setting correctly your configuration for Web Deployment Projects VS08"
-permalink: "Setting-correctly-your-configuration-for-Web-Deployment-Projects-VS08"
+permalink: /2007/12/02/Setting-correctly-your-configuration-for-Web-Deployment-Projects-VS08/
 date: 12/2/2007 5:50:03 PM
 updated: 12/2/2007 5:50:03 PM
 disqusIdentifier: 20071202055003

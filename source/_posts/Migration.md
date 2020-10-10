@@ -1,6 +1,6 @@
 ---
 title: "Migration"
-permalink: "Migration"
+permalink: /2003/10/17/Migration/
 date: 10/17/2003 9:39:00 PM
 updated: 10/17/2003 9:39:00 PM
 disqusIdentifier: 20031017093900

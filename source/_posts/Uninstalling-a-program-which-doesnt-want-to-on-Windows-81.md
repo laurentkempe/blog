@@ -1,6 +1,6 @@
 ---
 title: "Uninstalling a program which doesn't want to on Windows 8.1"
-permalink: "Uninstalling-a-program-which-doesnt-want-to-on-Windows-81"
+permalink: /2013/09/19/Uninstalling-a-program-which-doesnt-want-to-on-Windows-81/
 date: 9/19/2013 7:37:00 PM
 updated: 9/19/2013 7:40:02 PM
 disqusIdentifier: 20130919073700

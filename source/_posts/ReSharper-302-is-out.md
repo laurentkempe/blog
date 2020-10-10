@@ -1,6 +1,6 @@
 ---
 title: "ReSharper 3.0.2 is out"
-permalink: "ReSharper-302-is-out"
+permalink: /2007/08/24/ReSharper-302-is-out/
 date: 8/24/2007 5:24:32 AM
 updated: 8/24/2007 5:24:32 AM
 disqusIdentifier: 20070824052432

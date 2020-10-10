@@ -1,6 +1,6 @@
 ---
 title: "ReSharper 5.0 Overview"
-permalink: "ReSharper-50-Overview"
+permalink: /2009/10/13/ReSharper-50-Overview/
 date: 10/13/2009 3:29:45 AM
 updated: 10/13/2009 3:29:45 AM
 disqusIdentifier: 20091013032945

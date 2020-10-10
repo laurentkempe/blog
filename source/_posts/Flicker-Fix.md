@@ -1,6 +1,6 @@
 ---
 title: "Flicker Fix"
-permalink: "Flicker-Fix"
+permalink: /2006/04/29/Flicker-Fix/
 date: 4/29/2006 8:53:00 AM
 updated: 4/29/2006 8:53:00 AM
 disqusIdentifier: 20060429085300

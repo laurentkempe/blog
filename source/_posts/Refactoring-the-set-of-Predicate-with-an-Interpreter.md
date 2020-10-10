@@ -1,6 +1,6 @@
 ---
 title: "Refactoring the set of Predicate with an Interpreter"
-permalink: "Refactoring-the-set-of-Predicate-with-an-Interpreter"
+permalink: /2005/03/12/Refactoring-the-set-of-Predicate-with-an-Interpreter/
 date: 3/12/2005 9:09:00 AM
 updated: 3/12/2005 9:09:00 AM
 disqusIdentifier: 20050312090900

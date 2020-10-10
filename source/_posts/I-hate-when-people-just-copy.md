@@ -1,6 +1,6 @@
 ---
 title: "I hate when people just copy"
-permalink: "I-hate-when-people-just-copy"
+permalink: /2007/08/21/I-hate-when-people-just-copy/
 date: 8/21/2007 5:24:28 AM
 updated: 8/21/2007 5:24:28 AM
 disqusIdentifier: 20070821052428

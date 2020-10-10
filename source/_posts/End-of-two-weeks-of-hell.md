@@ -1,6 +1,6 @@
 ---
 title: "End of two weeks of hell"
-permalink: "End-of-two-weeks-of-hell"
+permalink: /2004/05/08/End-of-two-weeks-of-hell/
 date: 5/8/2004 10:37:00 PM
 updated: 5/8/2004 10:37:00 PM
 disqusIdentifier: 20040508103700

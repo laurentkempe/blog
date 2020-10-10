@@ -1,6 +1,6 @@
 ---
 title: "What Didier forgot to say !"
-permalink: "What-Didier-forgot-to-say-!"
+permalink: /2004/08/27/What-Didier-forgot-to-say-!/
 date: 8/27/2004 7:05:00 AM
 updated: 8/27/2004 7:05:00 AM
 disqusIdentifier: 20040827070500

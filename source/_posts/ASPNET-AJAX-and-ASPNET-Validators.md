@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET AJAX and ASP.NET Validators"
-permalink: "ASPNET-AJAX-and-ASPNET-Validators"
+permalink: /2007/03/27/ASPNET-AJAX-and-ASPNET-Validators/
 date: 3/27/2007 6:30:01 AM
 updated: 3/27/2007 6:30:01 AM
 disqusIdentifier: 20070327063001

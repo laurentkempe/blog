@@ -1,6 +1,6 @@
 ---
 title: "Migration from WSE 3 to WCF"
-permalink: "Migration-from-WSE-3-to-WCF"
+permalink: /2007/06/27/Migration-from-WSE-3-to-WCF/
 date: 6/27/2007 4:28:25 PM
 updated: 6/27/2007 4:28:25 PM
 disqusIdentifier: 20070627042825

@@ -1,6 +1,6 @@
 ---
 title: "Sauce Reader 1.6 released"
-permalink: "Sauce-Reader-16-released"
+permalink: /2004/07/21/Sauce-Reader-16-released/
 date: 7/21/2004 5:55:00 AM
 updated: 5/7/2010 7:46:51 AM
 disqusIdentifier: 20040721055500

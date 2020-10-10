@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers 1.1 is online"
-permalink: "Tech-Head-Brothers-11-is-online"
+permalink: /2003/08/09/Tech-Head-Brothers-11-is-online/
 date: 8/9/2003 11:30:00 PM
 updated: 8/9/2003 11:30:00 PM
 disqusIdentifier: 20030809113000

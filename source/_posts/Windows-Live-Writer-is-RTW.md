@@ -1,6 +1,6 @@
 ---
 title: "Windows Live Writer is RTW"
-permalink: "Windows-Live-Writer-is-RTW"
+permalink: /2007/11/07/Windows-Live-Writer-is-RTW/
 date: 11/7/2007 6:16:26 PM
 updated: 11/7/2007 6:16:26 PM
 disqusIdentifier: 20071107061626

@@ -1,6 +1,6 @@
 ---
 title: "O/R frameworks"
-permalink: "OR-frameworks"
+permalink: /2004/08/15/OR-frameworks/
 date: 8/15/2004 8:04:00 AM
 updated: 8/15/2004 8:04:00 AM
 disqusIdentifier: 20040815080400

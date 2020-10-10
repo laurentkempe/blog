@@ -1,6 +1,6 @@
 ---
 title: "Testing your Google AdSense"
-permalink: "Testing-your-Google-AdSense"
+permalink: /2007/10/12/Testing-your-Google-AdSense/
 date: 10/12/2007 6:43:44 AM
 updated: 10/12/2007 6:43:44 AM
 disqusIdentifier: 20071012064344

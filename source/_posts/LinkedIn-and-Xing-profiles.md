@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn and Xing profiles"
-permalink: "LinkedIn-and-Xing-profiles"
+permalink: /2007/06/01/LinkedIn-and-Xing-profiles/
 date: 6/1/2007 7:41:15 AM
 updated: 6/1/2007 7:41:15 AM
 disqusIdentifier: 20070601074115

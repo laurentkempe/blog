@@ -1,6 +1,6 @@
 ---
 title: "NoteToSelf: aspnet_merge.exe, Team City and Web Deployment for Visual Studio 2008"
-permalink: "NoteToSelf-aspnet_mergeexe-Team-City-and-Web-Deployment-for-Visual-Studio-2008"
+permalink: /2008/03/01/NoteToSelf-aspnet_mergeexe-Team-City-and-Web-Deployment-for-Visual-Studio-2008/
 date: 3/1/2008 2:50:20 AM
 updated: 5/10/2010 7:50:39 PM
 disqusIdentifier: 20080301025020

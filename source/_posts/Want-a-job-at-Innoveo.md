@@ -1,6 +1,6 @@
 ---
 title: "Want a job at Innoveo?"
-permalink: "Want-a-job-at-Innoveo"
+permalink: /2010/09/24/Want-a-job-at-Innoveo/
 date: 9/24/2010 5:27:05 PM
 updated: 9/24/2010 5:27:05 PM
 disqusIdentifier: 20100924052705

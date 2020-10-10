@@ -1,6 +1,6 @@
 ---
 title: "ReSharper 4.5 Beta Released"
-permalink: "ReSharper-45-Beta-Released"
+permalink: /2009/03/14/ReSharper-45-Beta-Released/
 date: 3/14/2009 12:53:38 AM
 updated: 3/14/2009 12:53:38 AM
 disqusIdentifier: 20090314125338

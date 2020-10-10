@@ -1,6 +1,6 @@
 ---
 title: "Visibility"
-permalink: "Visibility"
+permalink: /2004/07/12/Visibility/
 date: 7/12/2004 5:28:00 AM
 updated: 7/12/2004 5:28:00 AM
 disqusIdentifier: 20040712052800

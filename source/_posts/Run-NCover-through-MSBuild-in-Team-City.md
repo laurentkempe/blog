@@ -1,6 +1,6 @@
 ---
 title: "Run NCover through MSBuild in Team City"
-permalink: "Run-NCover-through-MSBuild-in-Team-City"
+permalink: /2008/04/30/Run-NCover-through-MSBuild-in-Team-City/
 date: 4/30/2008 5:05:10 AM
 updated: 5/7/2010 7:45:42 AM
 disqusIdentifier: 20080430050510

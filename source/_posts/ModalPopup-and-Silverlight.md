@@ -1,6 +1,6 @@
 ---
 title: "ModalPopup and Silverlight"
-permalink: "ModalPopup-and-Silverlight"
+permalink: /2007/06/16/ModalPopup-and-Silverlight/
 date: 6/16/2007 6:27:14 AM
 updated: 6/16/2007 6:27:14 AM
 disqusIdentifier: 20070616062714

@@ -1,6 +1,6 @@
 ---
 title: "JetBrains Releases ReSharper 3.0"
-permalink: "JetBrains-Releases-ReSharper-30"
+permalink: /2007/06/22/JetBrains-Releases-ReSharper-30/
 date: 6/22/2007 1:47:32 AM
 updated: 6/22/2007 1:47:32 AM
 disqusIdentifier: 20070622014732

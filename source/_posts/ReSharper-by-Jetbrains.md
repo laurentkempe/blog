@@ -1,6 +1,6 @@
 ---
 title: "ReSharper by Jetbrains"
-permalink: "ReSharper-by-Jetbrains"
+permalink: /2004/05/24/ReSharper-by-Jetbrains/
 date: 5/24/2004 7:31:00 AM
 updated: 5/24/2004 7:31:00 AM
 disqusIdentifier: 20040524073100

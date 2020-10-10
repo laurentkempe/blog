@@ -1,6 +1,6 @@
 ---
 title: "Nice Resharper 4 feature"
-permalink: "Nice-Resharper-4-feature"
+permalink: /2008/02/29/Nice-Resharper-4-feature/
 date: 2/29/2008 10:30:50 PM
 updated: 5/7/2010 7:46:49 AM
 disqusIdentifier: 20080229103050

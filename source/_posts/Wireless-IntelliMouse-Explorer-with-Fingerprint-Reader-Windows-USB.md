@@ -1,6 +1,6 @@
 ---
 title: "Wireless IntelliMouse Explorer with Fingerprint Reader Windows USB"
-permalink: "Wireless-IntelliMouse-Explorer-with-Fingerprint-Reader-Windows-USB"
+permalink: /2004/08/17/Wireless-IntelliMouse-Explorer-with-Fingerprint-Reader-Windows-USB/
 date: 8/17/2004 7:36:00 AM
 updated: 5/7/2010 7:45:47 AM
 disqusIdentifier: 20040817073600

@@ -1,6 +1,6 @@
 ---
 title: "Optimization of a Web Site - Using Content Expiration (IIS 6.0)"
-permalink: "Optimization-of-a-Web-Site-Using-Content-Expiration-(IIS-60)"
+permalink: /2007/07/25/Optimization-of-a-Web-Site-Using-Content-Expiration-(IIS-60)/
 date: 7/25/2007 5:54:46 PM
 updated: 5/7/2010 7:53:14 AM
 disqusIdentifier: 20070725055446

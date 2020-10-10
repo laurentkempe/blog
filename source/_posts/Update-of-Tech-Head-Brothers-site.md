@@ -1,6 +1,6 @@
 ---
 title: "Update of Tech Head Brothers site"
-permalink: "Update-of-Tech-Head-Brothers-site"
+permalink: /2004/06/05/Update-of-Tech-Head-Brothers-site/
 date: 6/5/2004 8:23:00 AM
 updated: 6/5/2004 8:23:00 AM
 disqusIdentifier: 20040605082300

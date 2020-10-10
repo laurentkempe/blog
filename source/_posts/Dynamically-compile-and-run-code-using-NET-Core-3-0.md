@@ -1,6 +1,6 @@
 ---
 title: 'Dynamically compile and run code using .NET Core 3.0'
-permalink: dynamically-compile-and-run-code-using-dotNET-Core-3.0
+permalink: /2019/02/18/dynamically-compile-and-run-code-using-dotNET-Core-3.0/
 disqusIdentifier: '20190218193012'
 coverSize: partial
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "New milestone reached in the development of the authoring tool for Tech Head Brothers French portal"
-permalink: "New-milestone-reached-in-the-development-of-the-authoring-tool-for-Tech-Head-Brothers-French-portal"
+permalink: /2004/08/24/New-milestone-reached-in-the-development-of-the-authoring-tool-for-Tech-Head-Brothers-French-portal/
 date: 8/24/2004 6:41:00 AM
 updated: 8/24/2004 6:41:00 AM
 disqusIdentifier: 20040824064100

@@ -1,6 +1,6 @@
 ---
 title: "Atlas is now part of the new Tech Head Brothers site"
-permalink: "Atlas-is-now-part-of-the-new-Tech-Head-Brothers-site"
+permalink: /2006/04/15/Atlas-is-now-part-of-the-new-Tech-Head-Brothers-site/
 date: 4/15/2006 7:27:00 PM
 updated: 4/15/2006 7:27:00 PM
 disqusIdentifier: 20060415072700

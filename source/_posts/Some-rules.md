@@ -1,6 +1,6 @@
 ---
 title: "Some rules..."
-permalink: "Some-rules"
+permalink: /2004/11/23/Some-rules/
 date: 11/23/2004 8:13:00 AM
 updated: 5/7/2010 7:46:51 AM
 disqusIdentifier: 20041123081300

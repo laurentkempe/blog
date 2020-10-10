@@ -1,6 +1,6 @@
 ---
 title: "Yeah!!! :-) Publications are working."
-permalink: "Yeah!!!-)-Publications-are-working"
+permalink: /2006/03/18/Yeah!!!-)-Publications-are-working/
 date: 3/18/2006 5:50:00 PM
 updated: 3/18/2006 5:50:00 PM
 disqusIdentifier: 20060318055000

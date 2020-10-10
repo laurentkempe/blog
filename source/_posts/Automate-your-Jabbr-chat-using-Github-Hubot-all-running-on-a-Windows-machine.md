@@ -1,6 +1,6 @@
 ---
 title: "Automate your Jabbr chat using Github Hubot all running on a Windows machine"
-permalink: "Automate-your-Jabbr-chat-using-Github-Hubot-all-running-on-a-Windows-machine"
+permalink: /2012/07/17/Automate-your-Jabbr-chat-using-Github-Hubot-all-running-on-a-Windows-machine/
 date: 7/17/2012 4:31:48 PM
 updated: 8/11/2013 9:14:53 AM
 disqusIdentifier: 20120717043148

@@ -1,6 +1,6 @@
 ---
 title: "SendTo FTP to publish pictures on my blog"
-permalink: "SendTo-FTP-to-publish-pictures-on-my-blog"
+permalink: /2004/06/05/SendTo-FTP-to-publish-pictures-on-my-blog/
 date: 6/5/2004 5:17:00 AM
 updated: 6/5/2004 5:17:00 AM
 disqusIdentifier: 20040605051700

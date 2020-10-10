@@ -1,6 +1,6 @@
 ---
 title: "C# implementation of newMediaObject for the MetaWeblog API"
-permalink: "C-implementation-of-newMediaObject-for-the-MetaWeblog-API"
+permalink: /2006/08/28/C-implementation-of-newMediaObject-for-the-MetaWeblog-API/
 date: 8/28/2006 4:46:34 AM
 updated: 8/28/2006 4:46:34 AM
 disqusIdentifier: 20060828044634

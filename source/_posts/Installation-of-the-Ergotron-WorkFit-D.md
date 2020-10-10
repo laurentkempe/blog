@@ -1,6 +1,6 @@
 ---
 title: "Installation and first experience with the Ergotron WorkFit-D"
-permalink: "Installation-of-the-Ergotron-WorkFit-D"
+permalink: /2012/03/22/Installation-of-the-Ergotron-WorkFit-D/
 date: 3/22/2012 5:09:07 AM
 updated: 3/22/2012 6:47:01 AM
 disqusIdentifier: 20120322050907

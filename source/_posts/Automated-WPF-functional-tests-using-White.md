@@ -1,6 +1,6 @@
 ---
 title: "Automated WPF functional tests using White"
-permalink: "Automated-WPF-functional-tests-using-White"
+permalink: /2010/01/28/Automated-WPF-functional-tests-using-White/
 date: 1/28/2010 4:50:57 AM
 updated: 5/7/2010 7:53:18 AM
 disqusIdentifier: 20100128045057

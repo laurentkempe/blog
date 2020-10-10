@@ -1,6 +1,6 @@
 ---
 title: "ATI Drivers installation on my HP notebook"
-permalink: "ATI-Drivers-installation-on-my-HP-notebook"
+permalink: /2009/02/22/ATI-Drivers-installation-on-my-HP-notebook/
 date: 2/22/2009 10:04:46 PM
 updated: 2/22/2009 10:04:46 PM
 disqusIdentifier: 20090222100446

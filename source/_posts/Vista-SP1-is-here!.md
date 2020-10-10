@@ -1,6 +1,6 @@
 ---
 title: "Vista SP1 is here!"
-permalink: "Vista-SP1-is-here!"
+permalink: /2008/02/15/Vista-SP1-is-here!/
 date: 2/15/2008 7:39:21 AM
 updated: 2/15/2008 7:39:21 AM
 disqusIdentifier: 20080215073921

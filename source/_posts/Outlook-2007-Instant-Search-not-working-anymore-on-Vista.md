@@ -1,6 +1,6 @@
 ---
 title: "Outlook 2007 Instant Search not working anymore on Vista"
-permalink: "Outlook-2007-Instant-Search-not-working-anymore-on-Vista"
+permalink: /2007/07/07/Outlook-2007-Instant-Search-not-working-anymore-on-Vista/
 date: 7/7/2007 8:24:13 AM
 updated: 7/7/2007 8:24:13 AM
 disqusIdentifier: 20070707082413

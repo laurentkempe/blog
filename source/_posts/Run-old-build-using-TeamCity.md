@@ -1,6 +1,6 @@
 ---
 title: "Run old build using TeamCity"
-permalink: "Run-old-build-using-TeamCity"
+permalink: /2010/07/10/Run-old-build-using-TeamCity/
 date: 7/10/2010 12:59:35 AM
 updated: 9/17/2010 9:56:52 PM
 disqusIdentifier: 20100710125935

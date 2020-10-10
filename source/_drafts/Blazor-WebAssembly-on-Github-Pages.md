@@ -1,6 +1,6 @@
 ---
 title: 'Blazor WebAssembly on Github Pages'
-permalink: Blazor-WebAssembly-on-Github-Pages
+permalink: 2020/10/16/Blazor-WebAssembly-on-Github-Pages
 coverSize: partial
 tags:
   - Blazor

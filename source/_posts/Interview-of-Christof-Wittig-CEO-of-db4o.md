@@ -1,6 +1,6 @@
 ---
 title: "Interview of Christof Wittig CEO of db4o"
-permalink: "Interview-of-Christof-Wittig-CEO-of-db4o"
+permalink: /2006/12/02/Interview-of-Christof-Wittig-CEO-of-db4o/
 date: 12/2/2006 6:51:14 PM
 updated: 12/2/2006 6:51:14 PM
 disqusIdentifier: 20061202065114

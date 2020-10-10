@@ -1,6 +1,6 @@
 ---
 title: "ReSharper 4.0 Roadmap"
-permalink: "ReSharper-40-Roadmap"
+permalink: /2008/01/09/ReSharper-40-Roadmap/
 date: 1/9/2008 6:39:37 AM
 updated: 5/7/2010 7:46:44 AM
 disqusIdentifier: 20080109063937

@@ -1,6 +1,6 @@
 ---
 title: "Discovery Channel switches to Silverlight in a flash: News - Software - ZDNet Australia"
-permalink: "Discovery-Channel-switches-to-Silverlight-in-a-flash-News-Software-ZDNet-Australia"
+permalink: /2007/06/28/Discovery-Channel-switches-to-Silverlight-in-a-flash-News-Software-ZDNet-Australia/
 date: 6/28/2007 4:01:25 PM
 updated: 6/28/2007 4:01:25 PM
 disqusIdentifier: 20070628040125

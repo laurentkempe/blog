@@ -1,6 +1,6 @@
 ---
 title: "Web Deployment Projects for VS08 released as CTP & Migration tips"
-permalink: "Web-Deployment-Projects-for-VS08-released-as-CTP-amp3b-Migration-tips"
+permalink: /2007/12/02/Web-Deployment-Projects-for-VS08-released-as-CTP-amp3b-Migration-tips/
 date: 12/2/2007 4:59:02 PM
 updated: 12/2/2007 4:59:02 PM
 disqusIdentifier: 20071202045902

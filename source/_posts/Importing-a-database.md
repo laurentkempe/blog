@@ -1,6 +1,6 @@
 ---
 title: "Importing a database"
-permalink: "Importing-a-database"
+permalink: /2004/07/12/Importing-a-database/
 date: 7/12/2004 5:30:00 AM
 updated: 7/12/2004 5:30:00 AM
 disqusIdentifier: 20040712053000

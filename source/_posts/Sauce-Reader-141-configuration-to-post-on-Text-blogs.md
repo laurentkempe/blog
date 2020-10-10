@@ -1,6 +1,6 @@
 ---
 title: "Sauce Reader 1.4.1 configuration to post on .Text blogs"
-permalink: "Sauce-Reader-141-configuration-to-post-on-Text-blogs"
+permalink: /2004/05/22/Sauce-Reader-141-configuration-to-post-on-Text-blogs/
 date: 5/22/2004 9:49:00 PM
 updated: 5/22/2004 9:49:00 PM
 disqusIdentifier: 20040522094900

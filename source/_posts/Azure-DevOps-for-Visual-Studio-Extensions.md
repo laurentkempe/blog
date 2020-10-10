@@ -1,6 +1,6 @@
 ---
 title: "Azure DevOps for Visual Studio Extensions"
-permalink: Azure-DevOps-for-Visual-Studio-Extensions
+permalink: /2019/03/05/Azure-DevOps-for-Visual-Studio-Extensions/
 disqusIdentifier: 20190305221442
 coverSize: partial
 tags:

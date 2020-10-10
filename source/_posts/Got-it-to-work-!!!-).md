@@ -1,6 +1,6 @@
 ---
 title: "Got it to work !!! :-)"
-permalink: "Got-it-to-work-!!!-)"
+permalink: /2003/07/04/Got-it-to-work-!!!-)/
 date: 7/4/2003 12:03:00 AM
 updated: 5/7/2010 7:46:45 AM
 disqusIdentifier: 20030704120300

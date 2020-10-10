@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio 2005 Express Beta Products"
-permalink: "Visual-Studio-2005-Express-Beta-Products"
+permalink: /2004/06/30/Visual-Studio-2005-Express-Beta-Products/
 date: 6/30/2004 6:32:00 AM
 updated: 6/30/2004 6:32:00 AM
 disqusIdentifier: 20040630063200

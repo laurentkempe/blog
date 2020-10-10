@@ -1,6 +1,6 @@
 ---
 title: "Export Expression Blend animation to Video, how ?"
-permalink: "quot3bExportquot3b-Expression-Blend-animation-to-Video-how-"
+permalink: /2007/12/28/quot3bExportquot3b-Expression-Blend-animation-to-Video-how-/
 date: 12/28/2007 4:02:36 AM
 updated: 12/28/2007 4:02:36 AM
 disqusIdentifier: 20071228040236

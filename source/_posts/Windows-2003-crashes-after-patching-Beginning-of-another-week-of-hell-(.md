@@ -1,6 +1,6 @@
 ---
 title: "Windows 2003 crashes after patching - Beginning of another week of hell :-("
-permalink: "Windows-2003-crashes-after-patching-Beginning-of-another-week-of-hell-("
+permalink: /2004/05/12/Windows-2003-crashes-after-patching-Beginning-of-another-week-of-hell-(/
 date: 5/12/2004 1:59:00 AM
 updated: 5/12/2004 1:59:00 AM
 disqusIdentifier: 20040512015900

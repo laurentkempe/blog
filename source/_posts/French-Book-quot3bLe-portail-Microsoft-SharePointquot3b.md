@@ -1,6 +1,6 @@
 ---
 title: "French Book: Le portail Microsoft SharePoint"
-permalink: "French-Book-quot3bLe-portail-Microsoft-SharePointquot3b"
+permalink: /2004/03/18/French-Book-quot3bLe-portail-Microsoft-SharePointquot3b/
 date: 3/18/2004 1:25:00 AM
 updated: 3/18/2004 1:25:00 AM
 disqusIdentifier: 20040318012500

@@ -1,6 +1,6 @@
 ---
 title: "Upload Video to Silverlight Streaming using WebDav"
-permalink: "Upload-Video-to-Silverlight-Streaming-using-WebDav"
+permalink: /2008/06/21/Upload-Video-to-Silverlight-Streaming-using-WebDav/
 date: 6/21/2008 11:50:02 PM
 updated: 6/21/2008 11:50:02 PM
 disqusIdentifier: 20080621115002

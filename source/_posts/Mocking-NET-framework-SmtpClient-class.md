@@ -1,6 +1,6 @@
 ---
 title: "Mocking .NET framework SmtpClient class"
-permalink: "Mocking-NET-framework-SmtpClient-class"
+permalink: /2008/06/01/Mocking-NET-framework-SmtpClient-class/
 date: 6/1/2008 7:41:20 AM
 updated: 5/7/2010 7:52:14 AM
 disqusIdentifier: 20080601074120

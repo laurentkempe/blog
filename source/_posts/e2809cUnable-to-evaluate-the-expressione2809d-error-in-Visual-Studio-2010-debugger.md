@@ -1,6 +1,6 @@
 ---
 title: "“Unable to evaluate the expression” error in Visual Studio 2010 debugger"
-permalink: "e2809cUnable-to-evaluate-the-expressione2809d-error-in-Visual-Studio-2010-debugger"
+permalink: /2010/11/23/e2809cUnable-to-evaluate-the-expressione2809d-error-in-Visual-Studio-2010-debugger/
 date: 11/23/2010 8:04:46 PM
 updated: 11/23/2010 8:04:46 PM
 disqusIdentifier: 20101123080446

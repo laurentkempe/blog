@@ -1,6 +1,6 @@
 ---
 title: "Technologies used on the new version of Tech Head Brothers"
-permalink: "Technologies-used-on-the-new-version-of-Tech-Head-Brothers"
+permalink: /2006/04/22/Technologies-used-on-the-new-version-of-Tech-Head-Brothers/
 date: 4/22/2006 6:48:00 AM
 updated: 4/22/2006 6:48:00 AM
 disqusIdentifier: 20060422064800

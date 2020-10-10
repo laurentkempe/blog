@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET AJAX 1.0 RC Released"
-permalink: "ASPNET-AJAX-10-RC-Released"
+permalink: /2006/12/15/ASPNET-AJAX-10-RC-Released/
 date: 12/15/2006 7:52:54 AM
 updated: 12/15/2006 7:52:54 AM
 disqusIdentifier: 20061215075254

@@ -1,6 +1,6 @@
 ---
 title: "Free software"
-permalink: "Free-software"
+permalink: /2004/08/01/Free-software/
 date: 8/1/2004 7:54:00 AM
 updated: 8/1/2004 7:54:00 AM
 disqusIdentifier: 20040801075400

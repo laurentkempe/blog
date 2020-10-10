@@ -1,6 +1,6 @@
 ---
 title: "New start on next Monday"
-permalink: "New-start-on-next-Monday"
+permalink: /2007/09/26/New-start-on-next-Monday/
 date: 9/26/2007 6:46:08 AM
 updated: 9/26/2007 6:46:08 AM
 disqusIdentifier: 20070926064608

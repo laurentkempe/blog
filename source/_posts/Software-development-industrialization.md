@@ -1,6 +1,6 @@
 ---
 title: "Software development industrialization"
-permalink: "Software-development-industrialization"
+permalink: /2004/12/10/Software-development-industrialization/
 date: 12/10/2004 8:44:00 AM
 updated: 12/10/2004 8:44:00 AM
 disqusIdentifier: 20041210084400

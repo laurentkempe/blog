@@ -1,6 +1,6 @@
 ---
 title: "Le Web 3 in Paris"
-permalink: "Le-Web-3-in-Paris"
+permalink: /2007/11/18/Le-Web-3-in-Paris/
 date: 11/18/2007 8:21:52 PM
 updated: 11/18/2007 8:21:52 PM
 disqusIdentifier: 20071118082152

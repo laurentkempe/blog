@@ -1,6 +1,6 @@
 ---
 title: "AJAX Control Toolkit - ToolkitScriptManager"
-permalink: "AJAX-Control-Toolkit-ToolkitScriptManager"
+permalink: /2007/06/09/AJAX-Control-Toolkit-ToolkitScriptManager/
 date: 6/9/2007 6:24:41 AM
 updated: 6/9/2007 6:24:41 AM
 disqusIdentifier: 20070609062441

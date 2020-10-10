@@ -1,6 +1,6 @@
 ---
 title: "Watch Several TeamCity Servers With Windows Tray Notifier"
-permalink: "Watch-Several-TeamCity-Servers-With-Windows-Tray-Notifier"
+permalink: /2009/11/05/Watch-Several-TeamCity-Servers-With-Windows-Tray-Notifier/
 date: 11/5/2009 4:49:39 AM
 updated: 11/5/2009 4:49:39 AM
 disqusIdentifier: 20091105044939

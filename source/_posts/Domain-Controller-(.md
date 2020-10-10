@@ -1,6 +1,6 @@
 ---
 title: "Domain Controller :-("
-permalink: "Domain-Controller-("
+permalink: /2004/04/24/Domain-Controller-(/
 date: 4/24/2004 8:53:00 AM
 updated: 4/24/2004 8:53:00 AM
 disqusIdentifier: 20040424085300

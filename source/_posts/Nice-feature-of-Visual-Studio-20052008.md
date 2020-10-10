@@ -1,6 +1,6 @@
 ---
 title: "Nice feature of Visual Studio 2005/2008"
-permalink: "Nice-feature-of-Visual-Studio-20052008"
+permalink: /2007/11/30/Nice-feature-of-Visual-Studio-20052008/
 date: 11/30/2007 7:16:27 AM
 updated: 11/30/2007 7:16:27 AM
 disqusIdentifier: 20071130071627

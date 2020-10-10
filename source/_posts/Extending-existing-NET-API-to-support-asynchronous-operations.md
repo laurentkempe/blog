@@ -1,6 +1,6 @@
 ---
 title: "Extending existing .NET API to support asynchronous operations"
-permalink: "Extending-existing-NET-API-to-support-asynchronous-operations"
+permalink: /2012/01/05/Extending-existing-NET-API-to-support-asynchronous-operations/
 date: 1/5/2012 7:10:53 AM
 updated: 11/13/2012 11:05:11 AM
 disqusIdentifier: 20120105071053

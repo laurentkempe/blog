@@ -1,6 +1,6 @@
 ---
 title: "A good article to read about ways to update your code to make it more testable"
-permalink: "A-good-article-to-read-about-ways-to-update-your-code-to-make-it-more-testable"
+permalink: /2004/07/14/A-good-article-to-read-about-ways-to-update-your-code-to-make-it-more-testable/
 date: 7/14/2004 8:51:00 AM
 updated: 7/14/2004 8:51:00 AM
 disqusIdentifier: 20040714085100

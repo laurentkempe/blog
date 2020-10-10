@@ -1,6 +1,6 @@
 ---
 title: "ReSharper 4.5 released"
-permalink: "ReSharper-45-released"
+permalink: /2009/04/10/ReSharper-45-released/
 date: 4/10/2009 5:08:49 PM
 updated: 4/10/2009 5:08:49 PM
 disqusIdentifier: 20090410050849

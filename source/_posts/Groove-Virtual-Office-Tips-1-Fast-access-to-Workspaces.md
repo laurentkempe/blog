@@ -1,6 +1,6 @@
 ---
 title: "Groove Virtual Office Tips #1 : Fast access to Workspaces"
-permalink: "Groove-Virtual-Office-Tips-1-Fast-access-to-Workspaces"
+permalink: /2005/05/21/Groove-Virtual-Office-Tips-1-Fast-access-to-Workspaces/
 date: 5/21/2005 7:07:00 PM
 updated: 5/21/2005 7:07:00 PM
 disqusIdentifier: 20050521070700

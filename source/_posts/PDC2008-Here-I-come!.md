@@ -1,6 +1,6 @@
 ---
 title: "PDC2008 Here I come!"
-permalink: "PDC2008-Here-I-come!"
+permalink: /2008/10/23/PDC2008-Here-I-come!/
 date: 10/23/2008 4:01:23 AM
 updated: 10/23/2008 4:01:23 AM
 disqusIdentifier: 20081023040123

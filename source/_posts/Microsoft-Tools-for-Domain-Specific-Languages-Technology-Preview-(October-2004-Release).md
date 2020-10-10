@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Tools for Domain Specific Languages Technology Preview (October 2004 Release)"
-permalink: "Microsoft-Tools-for-Domain-Specific-Languages-Technology-Preview-(October-2004-Release)"
+permalink: /2004/11/07/Microsoft-Tools-for-Domain-Specific-Languages-Technology-Preview-(October-2004-Release)/
 date: 11/7/2004 5:43:00 PM
 updated: 11/7/2004 5:43:00 PM
 disqusIdentifier: 20041107054300

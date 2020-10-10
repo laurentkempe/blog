@@ -1,6 +1,6 @@
 ---
 title: "Pong game using WinForms designmode"
-permalink: "Pong-game-using-WinForms-designmode"
+permalink: /2009/02/21/Pong-game-using-WinForms-designmode/
 date: 2/21/2009 10:42:43 PM
 updated: 2/21/2009 10:42:43 PM
 disqusIdentifier: 20090221104243

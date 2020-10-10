@@ -1,6 +1,6 @@
 ---
 title: "Missing a little FileAccess.Read and it doesn’t work"
-permalink: "Missing-a-little-FileAccessRead-and-it-doesne28099t-work"
+permalink: /2010/05/22/Missing-a-little-FileAccessRead-and-it-doesne28099t-work/
 date: 5/22/2010 1:19:21 AM
 updated: 5/22/2010 1:19:21 AM
 disqusIdentifier: 20100522011921

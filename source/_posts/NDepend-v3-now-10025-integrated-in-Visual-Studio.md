@@ -1,6 +1,6 @@
 ---
 title: "NDepend v3 - now 100% integrated in Visual Studio"
-permalink: "NDepend-v3-now-10025-integrated-in-Visual-Studio"
+permalink: /2010/01/28/NDepend-v3-now-10025-integrated-in-Visual-Studio/
 date: 1/28/2010 7:01:47 PM
 updated: 1/28/2010 7:01:47 PM
 disqusIdentifier: 20100128070147

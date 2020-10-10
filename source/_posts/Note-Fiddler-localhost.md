@@ -1,6 +1,6 @@
 ---
 title: "[Note] - Fiddler localhost"
-permalink: "Note-Fiddler-localhost"
+permalink: /2007/06/05/Note-Fiddler-localhost/
 date: 6/5/2007 6:21:49 PM
 updated: 5/7/2010 7:45:48 AM
 disqusIdentifier: 20070605062149

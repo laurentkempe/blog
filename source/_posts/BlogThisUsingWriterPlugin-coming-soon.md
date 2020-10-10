@@ -1,6 +1,6 @@
 ---
 title: "BlogThisUsingWriterPlugin coming soon"
-permalink: "BlogThisUsingWriterPlugin-coming-soon"
+permalink: /2006/08/17/BlogThisUsingWriterPlugin-coming-soon/
 date: 8/17/2006 9:03:31 AM
 updated: 8/17/2006 9:03:31 AM
 disqusIdentifier: 20060817090331

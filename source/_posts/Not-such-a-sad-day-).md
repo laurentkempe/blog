@@ -1,6 +1,6 @@
 ---
 title: "Not such a sad day :-)"
-permalink: "Not-such-a-sad-day-)"
+permalink: /2004/10/14/Not-such-a-sad-day-)/
 date: 10/14/2004 4:09:00 AM
 updated: 10/14/2004 4:09:00 AM
 disqusIdentifier: 20041014040900

@@ -1,6 +1,6 @@
 ---
 title: "Groove Networks news"
-permalink: "Groove-Networks-news"
+permalink: /2005/04/09/Groove-Networks-news/
 date: 4/9/2005 9:30:00 PM
 updated: 4/9/2005 9:30:00 PM
 disqusIdentifier: 20050409093000

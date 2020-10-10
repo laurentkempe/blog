@@ -1,6 +1,6 @@
 ---
 title: "Coding Horror: Remember, This Stuff Is Supposed To Be Fun"
-permalink: "Coding-Horror-Remember-This-Stuff-Is-Supposed-To-Be-Fun"
+permalink: /2007/10/17/Coding-Horror-Remember-This-Stuff-Is-Supposed-To-Be-Fun/
 date: 10/17/2007 6:05:37 AM
 updated: 10/17/2007 6:05:37 AM
 disqusIdentifier: 20071017060537

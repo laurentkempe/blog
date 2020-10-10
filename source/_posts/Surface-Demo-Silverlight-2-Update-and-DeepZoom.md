@@ -1,6 +1,6 @@
 ---
 title: "Surface Demo - Silverlight 2 Update and DeepZoom"
-permalink: "Surface-Demo-Silverlight-2-Update-and-DeepZoom"
+permalink: /2008/03/19/Surface-Demo-Silverlight-2-Update-and-DeepZoom/
 date: 3/19/2008 10:22:37 PM
 updated: 3/19/2008 10:22:37 PM
 disqusIdentifier: 20080319102237

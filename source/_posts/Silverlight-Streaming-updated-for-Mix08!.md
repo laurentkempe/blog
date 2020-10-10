@@ -1,6 +1,6 @@
 ---
 title: "Silverlight Streaming updated for Mix'08!"
-permalink: "Silverlight-Streaming-updated-for-Mix08!"
+permalink: /2008/02/29/Silverlight-Streaming-updated-for-Mix08!/
 date: 2/29/2008 8:11:46 PM
 updated: 2/29/2008 8:11:46 PM
 disqusIdentifier: 20080229081146

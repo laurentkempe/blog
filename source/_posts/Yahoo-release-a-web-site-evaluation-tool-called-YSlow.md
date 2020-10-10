@@ -1,6 +1,6 @@
 ---
 title: "Yahoo release a web site evaluation tool called YSlow"
-permalink: "Yahoo-release-a-web-site-evaluation-tool-called-YSlow"
+permalink: /2007/08/19/Yahoo-release-a-web-site-evaluation-tool-called-YSlow/
 date: 8/19/2007 11:07:30 PM
 updated: 8/19/2007 11:07:30 PM
 disqusIdentifier: 20070819110730

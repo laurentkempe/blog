@@ -1,6 +1,6 @@
 ---
 title: "Giving more memory to Web Performance 3.4 while load testing"
-permalink: "Giving-more-memory-to-Web-Performance-34-while-load-testing"
+permalink: /2008/09/08/Giving-more-memory-to-Web-Performance-34-while-load-testing/
 date: 9/8/2008 10:33:28 PM
 updated: 5/7/2010 7:45:41 AM
 disqusIdentifier: 20080908103328

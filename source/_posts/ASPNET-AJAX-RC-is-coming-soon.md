@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET AJAX RC is coming soon"
-permalink: "ASPNET-AJAX-RC-is-coming-soon"
+permalink: /2006/12/15/ASPNET-AJAX-RC-is-coming-soon/
 date: 12/15/2006 7:27:33 AM
 updated: 12/15/2006 7:27:33 AM
 disqusIdentifier: 20061215072733

@@ -1,6 +1,6 @@
 ---
 title: "Unit Tests without leaving the keyboard"
-permalink: "Unit-Tests-without-leaving-the-keyboard"
+permalink: /2009/10/08/Unit-Tests-without-leaving-the-keyboard/
 date: 10/8/2009 4:24:54 PM
 updated: 5/7/2010 7:46:47 AM
 disqusIdentifier: 20091008042454

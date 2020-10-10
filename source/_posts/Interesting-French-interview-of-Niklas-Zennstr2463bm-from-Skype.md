@@ -1,6 +1,6 @@
 ---
 title: "Interesting French interview of Niklas Zennström from Skype"
-permalink: "Interesting-French-interview-of-Niklas-Zennstr2463bm-from-Skype"
+permalink: /2004/12/01/Interesting-French-interview-of-Niklas-Zennstr2463bm-from-Skype/
 date: 12/1/2004 7:10:00 AM
 updated: 5/7/2010 7:45:45 AM
 disqusIdentifier: 20041201071000

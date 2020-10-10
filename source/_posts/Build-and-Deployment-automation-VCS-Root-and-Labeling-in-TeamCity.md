@@ -1,6 +1,6 @@
 ---
 title: "Build and Deployment automation, VCS Root and Labeling in TeamCity"
-permalink: "Build-and-Deployment-automation-VCS-Root-and-Labeling-in-TeamCity"
+permalink: /2010/06/03/Build-and-Deployment-automation-VCS-Root-and-Labeling-in-TeamCity/
 date: 6/3/2010 3:11:49 AM
 updated: 6/3/2010 3:11:49 AM
 disqusIdentifier: 20100603031149

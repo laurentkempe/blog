@@ -1,6 +1,6 @@
 ---
 title: "Integration of VisualSVN (TortoiseSVN) and JIRA"
-permalink: "Integration-of-VisualSVN-(TortoiseSVN)-and-JIRA"
+permalink: /2008/03/27/Integration-of-VisualSVN-(TortoiseSVN)-and-JIRA/
 date: 3/27/2008 1:08:13 AM
 updated: 3/27/2008 1:08:13 AM
 disqusIdentifier: 20080327010813

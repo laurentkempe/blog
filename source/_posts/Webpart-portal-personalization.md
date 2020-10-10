@@ -1,6 +1,6 @@
 ---
 title: "Webpart portal personalization"
-permalink: "Webpart-portal-personalization"
+permalink: /2004/08/04/Webpart-portal-personalization/
 date: 8/4/2004 7:52:00 AM
 updated: 8/4/2004 7:52:00 AM
 disqusIdentifier: 20040804075200

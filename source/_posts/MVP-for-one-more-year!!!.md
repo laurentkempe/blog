@@ -1,6 +1,6 @@
 ---
 title: "MVP for one more year!!!"
-permalink: "MVP-for-one-more-year!!!"
+permalink: /2006/04/05/MVP-for-one-more-year!!!/
 date: 4/5/2006 7:23:00 AM
 updated: 4/5/2006 7:23:00 AM
 disqusIdentifier: 20060405072300

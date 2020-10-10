@@ -1,6 +1,6 @@
 ---
 title: "How to connect to SQL Azure"
-permalink: "How-to-connect-to-SQL-Azure"
+permalink: /2009/08/21/How-to-connect-to-SQL-Azure/
 date: 8/21/2009 6:49:16 PM
 updated: 8/21/2009 6:49:16 PM
 disqusIdentifier: 20090821064916

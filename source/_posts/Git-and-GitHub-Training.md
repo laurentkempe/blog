@@ -1,6 +1,6 @@
 ---
 title: "Git and GitHub Training"
-permalink: "Git-and-GitHub-Training"
+permalink: /2013/05/28/Git-and-GitHub-Training/
 date: 5/28/2013 6:20:00 AM
 updated: 5/28/2013 4:16:36 PM
 disqusIdentifier: 20130528062000

@@ -1,6 +1,6 @@
 ---
 title: "Jetbrains Resharper 2.5 RTM"
-permalink: "Jetbrains-Resharper-25-RTM"
+permalink: /2006/12/13/Jetbrains-Resharper-25-RTM/
 date: 12/13/2006 6:41:37 AM
 updated: 12/13/2006 6:41:37 AM
 disqusIdentifier: 20061213064137

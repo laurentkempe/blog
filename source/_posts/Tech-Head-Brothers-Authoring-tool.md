@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers Authoring tool"
-permalink: "Tech-Head-Brothers-Authoring-tool"
+permalink: /2007/08/31/Tech-Head-Brothers-Authoring-tool/
 date: 8/31/2007 6:42:19 AM
 updated: 8/31/2007 6:42:19 AM
 disqusIdentifier: 20070831064219

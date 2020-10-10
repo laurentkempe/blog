@@ -1,6 +1,6 @@
 ---
 title: "CSS Adapters issues with Login controls"
-permalink: "CSS-Adapters-issues-with-Login-controls"
+permalink: /2007/05/05/CSS-Adapters-issues-with-Login-controls/
 date: 5/5/2007 6:45:12 AM
 updated: 5/5/2007 6:45:12 AM
 disqusIdentifier: 20070505064512

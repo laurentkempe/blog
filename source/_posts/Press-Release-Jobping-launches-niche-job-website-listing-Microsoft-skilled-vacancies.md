@@ -1,6 +1,6 @@
 ---
 title: "Press Release - Jobping launches niche job website listing Microsoft skilled vacancies"
-permalink: "Press-Release-Jobping-launches-niche-job-website-listing-Microsoft-skilled-vacancies"
+permalink: /2010/04/27/Press-Release-Jobping-launches-niche-job-website-listing-Microsoft-skilled-vacancies/
 date: 4/27/2010 5:03:57 PM
 updated: 4/27/2010 7:27:31 PM
 disqusIdentifier: 20100427050357

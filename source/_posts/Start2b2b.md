@@ -1,6 +1,6 @@
 ---
 title: "Start++"
-permalink: "Start2b2b"
+permalink: /2007/04/15/Start2b2b/
 date: 4/15/2007 5:38:06 AM
 updated: 4/15/2007 5:38:06 AM
 disqusIdentifier: 20070415053806

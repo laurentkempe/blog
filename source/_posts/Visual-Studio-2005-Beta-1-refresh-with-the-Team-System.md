@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio 2005 Beta 1 refresh with the Team System"
-permalink: "Visual-Studio-2005-Beta-1-refresh-with-the-Team-System"
+permalink: /2004/08/27/Visual-Studio-2005-Beta-1-refresh-with-the-Team-System/
 date: 8/27/2004 5:38:00 AM
 updated: 8/27/2004 5:38:00 AM
 disqusIdentifier: 20040827053800

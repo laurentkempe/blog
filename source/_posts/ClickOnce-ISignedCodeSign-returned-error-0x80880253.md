@@ -1,6 +1,6 @@
 ---
 title: "ClickOnce ISignedCode::Sign returned error: 0x80880253"
-permalink: "ClickOnce-ISignedCodeSign-returned-error-0x80880253"
+permalink: /2010/01/12/ClickOnce-ISignedCodeSign-returned-error-0x80880253/
 date: 1/12/2010 6:08:53 AM
 updated: 1/12/2010 6:08:53 AM
 disqusIdentifier: 20100112060853

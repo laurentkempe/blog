@@ -1,6 +1,6 @@
 ---
 title: "Fissum 0.5 released - a Team System addon"
-permalink: "Fissum-05-released-a-Team-System-addon"
+permalink: /2007/08/10/Fissum-05-released-a-Team-System-addon/
 date: 8/10/2007 8:56:36 PM
 updated: 8/10/2007 8:56:36 PM
 disqusIdentifier: 20070810085636

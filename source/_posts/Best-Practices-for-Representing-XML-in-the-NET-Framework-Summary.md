@@ -1,6 +1,6 @@
 ---
 title: "Best Practices for Representing XML in the .NET Framework - Summary"
-permalink: "Best-Practices-for-Representing-XML-in-the-NET-Framework-Summary"
+permalink: /2004/04/02/Best-Practices-for-Representing-XML-in-the-NET-Framework-Summary/
 date: 4/2/2004 2:17:00 AM
 updated: 4/2/2004 2:17:00 AM
 disqusIdentifier: 20040402021700

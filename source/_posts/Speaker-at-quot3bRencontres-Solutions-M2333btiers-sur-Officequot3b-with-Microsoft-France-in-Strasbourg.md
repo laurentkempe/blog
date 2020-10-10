@@ -1,6 +1,6 @@
 ---
 title: "Speaker at Rencontres Solutions Métiers sur Office with Microsoft France in Strasbourg"
-permalink: "Speaker-at-quot3bRencontres-Solutions-M2333btiers-sur-Officequot3b-with-Microsoft-France-in-Strasbourg"
+permalink: /2005/04/23/Speaker-at-quot3bRencontres-Solutions-M2333btiers-sur-Officequot3b-with-Microsoft-France-in-Strasbourg/
 date: 4/23/2005 5:17:00 AM
 updated: 4/23/2005 5:17:00 AM
 disqusIdentifier: 20050423051700

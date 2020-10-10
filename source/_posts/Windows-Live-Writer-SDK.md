@@ -1,6 +1,6 @@
 ---
 title: "Windows Live Writer SDK"
-permalink: "Windows-Live-Writer-SDK"
+permalink: /2006/08/16/Windows-Live-Writer-SDK/
 date: 8/16/2006 7:34:53 AM
 updated: 8/16/2006 7:34:53 AM
 disqusIdentifier: 20060816073453

@@ -1,6 +1,6 @@
 ---
 title: "Groove 3.0 update"
-permalink: "Groove-30-update"
+permalink: /2004/07/27/Groove-30-update/
 date: 7/27/2004 6:33:00 AM
 updated: 7/27/2004 6:33:00 AM
 disqusIdentifier: 20040727063300

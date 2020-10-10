@@ -1,6 +1,6 @@
 ---
 title: "Nice to see the bug you reported fixed :)"
-permalink: "Nice-to-see-the-bug-you-reported-fixed-)"
+permalink: /2008/03/01/Nice-to-see-the-bug-you-reported-fixed-)/
 date: 3/1/2008 10:26:48 PM
 updated: 3/1/2008 10:26:48 PM
 disqusIdentifier: 20080301102648

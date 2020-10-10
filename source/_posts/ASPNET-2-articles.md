@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET 2 articles"
-permalink: "ASPNET-2-articles"
+permalink: /2004/07/18/ASPNET-2-articles/
 date: 7/18/2004 10:19:00 PM
 updated: 7/18/2004 10:19:00 PM
 disqusIdentifier: 20040718101900

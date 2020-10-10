@@ -1,6 +1,6 @@
 ---
 title: "Silverlight 2 3D"
-permalink: "Silverlight-2-3D"
+permalink: /2008/03/12/Silverlight-2-3D/
 date: 3/12/2008 2:38:44 PM
 updated: 5/7/2010 7:46:49 AM
 disqusIdentifier: 20080312023844

@@ -1,6 +1,6 @@
 ---
 title: "THE Blog publishing tool : PostXING"
-permalink: "THE-Blog-publishing-tool-PostXING"
+permalink: /2005/01/29/THE-Blog-publishing-tool-PostXING/
 date: 1/29/2005 9:42:00 AM
 updated: 1/29/2005 9:42:00 AM
 disqusIdentifier: 20050129094200

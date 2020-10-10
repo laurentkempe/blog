@@ -1,6 +1,6 @@
 ---
 title: "Trip to Barcelona - Microsoft Connect Event"
-permalink: "Trip-to-Barcelona-Microsoft-Connect-Event"
+permalink: /2004/10/20/Trip-to-Barcelona-Microsoft-Connect-Event/
 date: 10/20/2004 9:04:00 PM
 updated: 10/20/2004 9:04:00 PM
 disqusIdentifier: 20041020090400

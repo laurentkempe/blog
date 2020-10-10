@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET AJAX v1.0 Beta - Available"
-permalink: "ASPNET-AJAX-v10-Beta-Available"
+permalink: /2006/10/20/ASPNET-AJAX-v10-Beta-Available/
 date: 10/20/2006 8:32:00 PM
 updated: 10/20/2006 8:32:00 PM
 disqusIdentifier: 20061020083200

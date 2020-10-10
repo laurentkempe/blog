@@ -1,6 +1,6 @@
 ---
 title: "Version 3 of Groove, New Tools installation"
-permalink: "Version-3-of-Groove-New-Tools-installation"
+permalink: /2004/07/14/Version-3-of-Groove-New-Tools-installation/
 date: 7/14/2004 8:32:00 AM
 updated: 5/7/2010 7:45:42 AM
 disqusIdentifier: 20040714083200

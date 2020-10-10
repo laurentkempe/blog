@@ -1,6 +1,6 @@
 ---
 title: "DVCS and my usage of Git Svn"
-permalink: "DVCS-and-my-usage-of-Git-Svn"
+permalink: /2011/11/07/DVCS-and-my-usage-of-Git-Svn/
 date: 11/7/2011 11:14:00 PM
 updated: 11/12/2011 10:44:36 PM
 disqusIdentifier: 20111107111400

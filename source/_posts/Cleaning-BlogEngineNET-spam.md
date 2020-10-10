@@ -1,6 +1,6 @@
 ---
 title: "Cleaning BlogEngine.NET spam"
-permalink: "Cleaning-BlogEngineNET-spam"
+permalink: /2011/10/30/Cleaning-BlogEngineNET-spam/
 date: 10/30/2011 8:45:39 PM
 updated: 11/6/2011 12:28:19 AM
 disqusIdentifier: 20111030084539

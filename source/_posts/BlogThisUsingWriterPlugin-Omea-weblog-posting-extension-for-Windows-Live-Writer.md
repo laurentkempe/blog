@@ -1,6 +1,6 @@
 ---
 title: "BlogThisUsingWriterPlugin - Omea weblog posting extension for Windows Live Writer"
-permalink: "BlogThisUsingWriterPlugin-Omea-weblog-posting-extension-for-Windows-Live-Writer"
+permalink: /2006/08/16/BlogThisUsingWriterPlugin-Omea-weblog-posting-extension-for-Windows-Live-Writer/
 date: 8/16/2006 9:07:43 AM
 updated: 8/16/2006 9:07:43 AM
 disqusIdentifier: 20060816090743

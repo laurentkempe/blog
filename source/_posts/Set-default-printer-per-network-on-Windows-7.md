@@ -1,6 +1,6 @@
 ---
 title: "Set default printer per network on Windows 7"
-permalink: "Set-default-printer-per-network-on-Windows-7"
+permalink: /2009/08/25/Set-default-printer-per-network-on-Windows-7/
 date: 8/25/2009 6:09:54 AM
 updated: 5/7/2010 7:52:04 AM
 disqusIdentifier: 20090825060954

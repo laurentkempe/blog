@@ -1,6 +1,6 @@
 ---
 title: "Certified ScrumMaster"
-permalink: "Certified-ScrumMaster"
+permalink: /2010/05/05/Certified-ScrumMaster/
 date: 5/5/2010 6:15:04 PM
 updated: 5/5/2010 6:15:04 PM
 disqusIdentifier: 20100505061504

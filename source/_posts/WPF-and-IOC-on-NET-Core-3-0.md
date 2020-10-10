@@ -1,6 +1,6 @@
 ---
 title: 'WPF and IOC on .NET Core 3.0'
-permalink: WPF-and-IOC-on-NET-Core-3-0
+permalink: /2019/04/18/WPF-and-IOC-on-NET-Core-3-0/
 disqusIdentifier: 20190418105756
 coverSize: partial
 tags:

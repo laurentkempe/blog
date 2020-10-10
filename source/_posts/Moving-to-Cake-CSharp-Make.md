@@ -1,6 +1,6 @@
 ---
 title: 'Moving to Cake (C# Make)'
-permalink: "Moving-to-Cake-CSharp-Make"
+permalink: /2016/04/05/Moving-to-Cake-CSharp-Make/
 date: 2016-04-05 17:46:28
 disqusIdentifier: 20160405174628
 coverImage: https://farm2.staticflickr.com/1527/25703873226_8f2eea0426_h.jpg

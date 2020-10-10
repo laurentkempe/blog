@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats"
-permalink: "Microsoft-Office-Compatibility-Pack-for-Word-Excel-and-PowerPoint-2007-File-Formats"
+permalink: /2006/12/10/Microsoft-Office-Compatibility-Pack-for-Word-Excel-and-PowerPoint-2007-File-Formats/
 date: 12/10/2006 9:18:30 PM
 updated: 12/10/2006 9:18:30 PM
 disqusIdentifier: 20061210091830

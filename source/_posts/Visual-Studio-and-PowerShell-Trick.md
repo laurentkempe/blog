@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio and PowerShell Trick"
-permalink: "Visual-Studio-and-PowerShell-Trick"
+permalink: /2007/11/30/Visual-Studio-and-PowerShell-Trick/
 date: 11/30/2007 3:30:45 AM
 updated: 11/30/2007 3:30:45 AM
 disqusIdentifier: 20071130033045

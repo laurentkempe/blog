@@ -1,6 +1,6 @@
 ---
 title: "Running Github Hubot on a Windows machine"
-permalink: "Running-Github-Hubot-on-a-Windows-machine"
+permalink: /2012/04/28/Running-Github-Hubot-on-a-Windows-machine/
 date: 4/28/2012 9:15:24 AM
 updated: 9/26/2012 2:48:36 PM
 disqusIdentifier: 20120428091524

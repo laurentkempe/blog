@@ -1,6 +1,6 @@
 ---
 title: "Error interface not registered 0x80040155 in Team Explorer"
-permalink: "Error-interface-not-registered-0x80040155-in-Team-Explorer"
+permalink: /2006/10/11/Error-interface-not-registered-0x80040155-in-Team-Explorer/
 date: 10/11/2006 3:14:50 AM
 updated: 10/11/2006 3:14:50 AM
 disqusIdentifier: 20061011031450

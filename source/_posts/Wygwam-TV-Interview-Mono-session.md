@@ -1,6 +1,6 @@
 ---
 title: "Wygwam TV Interview - Mono session"
-permalink: "Wygwam-TV-Interview-Mono-session"
+permalink: /2006/11/11/Wygwam-TV-Interview-Mono-session/
 date: 11/11/2006 10:55:33 PM
 updated: 11/11/2006 10:55:33 PM
 disqusIdentifier: 20061111105533

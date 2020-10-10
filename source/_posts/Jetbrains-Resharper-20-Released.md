@@ -1,6 +1,6 @@
 ---
 title: "Jetbrains Resharper 2.0 Released"
-permalink: "Jetbrains-Resharper-20-Released"
+permalink: /2006/05/24/Jetbrains-Resharper-20-Released/
 date: 5/24/2006 7:40:00 AM
 updated: 5/24/2006 7:40:00 AM
 disqusIdentifier: 20060524074000

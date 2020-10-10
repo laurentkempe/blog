@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET Pageflow"
-permalink: "ASPNET-Pageflow"
+permalink: /2007/06/08/ASPNET-Pageflow/
 date: 6/8/2007 9:15:25 PM
 updated: 6/8/2007 9:15:25 PM
 disqusIdentifier: 20070608091525

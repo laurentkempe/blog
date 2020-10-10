@@ -2,7 +2,7 @@
 title: Hosting nugets in TeamCity
 date: 2016-04-14 22:04:11
 tags: [".NET Development", "continuous integration"]
-permalink: Hosting-nugets-in-TeamCity
+permalink: /2016/04/14/Hosting-nugets-in-TeamCity/
 disqusIdentifier: 20160414220411
 coverSize: partial
 coverCaption: 'Îlet Chevalier, Sainte-Anne, Martinique'

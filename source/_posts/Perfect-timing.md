@@ -1,6 +1,6 @@
 ---
 title: "Perfect timing"
-permalink: "Perfect-timing"
+permalink: /2004/11/04/Perfect-timing/
 date: 11/4/2004 4:30:00 AM
 updated: 11/4/2004 4:30:00 AM
 disqusIdentifier: 20041104043000

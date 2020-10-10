@@ -1,6 +1,6 @@
 ---
 title: "Windows Live Writer Beta 2 released"
-permalink: "Windows-Live-Writer-Beta-2-released"
+permalink: /2007/06/01/Windows-Live-Writer-Beta-2-released/
 date: 6/1/2007 3:21:03 AM
 updated: 6/1/2007 3:21:03 AM
 disqusIdentifier: 20070601032103

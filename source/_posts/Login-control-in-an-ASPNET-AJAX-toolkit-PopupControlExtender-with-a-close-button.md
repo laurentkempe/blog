@@ -1,6 +1,6 @@
 ---
 title: "Login control in an ASP.NET AJAX toolkit PopupControlExtender with a close button"
-permalink: "Login-control-in-an-ASPNET-AJAX-toolkit-PopupControlExtender-with-a-close-button"
+permalink: /2007/01/28/Login-control-in-an-ASPNET-AJAX-toolkit-PopupControlExtender-with-a-close-button/
 date: 1/28/2007 8:27:58 AM
 updated: 5/7/2010 7:51:53 AM
 disqusIdentifier: 20070128082758

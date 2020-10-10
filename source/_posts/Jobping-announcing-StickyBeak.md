@@ -1,6 +1,6 @@
 ---
 title: "Jobping announcing StickyBeak"
-permalink: "Jobping-announcing-StickyBeak"
+permalink: /2010/06/26/Jobping-announcing-StickyBeak/
 date: 6/26/2010 8:25:21 PM
 updated: 6/26/2010 8:25:21 PM
 disqusIdentifier: 20100626082521

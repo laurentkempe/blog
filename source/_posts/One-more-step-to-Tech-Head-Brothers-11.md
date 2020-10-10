@@ -1,6 +1,6 @@
 ---
 title: "One more step to Tech Head Brothers 1.1"
-permalink: "One-more-step-to-Tech-Head-Brothers-11"
+permalink: /2003/08/03/One-more-step-to-Tech-Head-Brothers-11/
 date: 8/3/2003 11:54:00 PM
 updated: 8/3/2003 11:54:00 PM
 disqusIdentifier: 20030803115400

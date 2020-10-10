@@ -1,6 +1,6 @@
 ---
 title: "Back to correct speed"
-permalink: "Back-to-correct-speed"
+permalink: /2004/11/16/Back-to-correct-speed/
 date: 11/16/2004 6:02:00 AM
 updated: 11/16/2004 6:02:00 AM
 disqusIdentifier: 20041116060200

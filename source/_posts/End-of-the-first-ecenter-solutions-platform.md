@@ -1,6 +1,6 @@
 ---
 title: "End of the first ecenter solutions platform"
-permalink: "End-of-the-first-ecenter-solutions-platform"
+permalink: /2006/07/01/End-of-the-first-ecenter-solutions-platform/
 date: 7/1/2006 6:32:00 AM
 updated: 7/1/2006 6:32:00 AM
 disqusIdentifier: 20060701063200

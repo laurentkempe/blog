@@ -1,6 +1,6 @@
 ---
 title: "Start++ 0.5 and 0.6 released"
-permalink: "Start2b2b-05-and-06-released"
+permalink: /2007/05/23/Start2b2b-05-and-06-released/
 date: 5/23/2007 4:45:38 AM
 updated: 5/23/2007 4:45:38 AM
 disqusIdentifier: 20070523044538

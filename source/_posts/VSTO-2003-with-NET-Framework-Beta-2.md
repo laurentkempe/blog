@@ -1,6 +1,6 @@
 ---
 title: "VSTO 2003 with .NET Framework Beta 2"
-permalink: "VSTO-2003-with-NET-Framework-Beta-2"
+permalink: /2005/04/23/VSTO-2003-with-NET-Framework-Beta-2/
 date: 4/23/2005 4:40:00 AM
 updated: 4/23/2005 4:40:00 AM
 disqusIdentifier: 20050423044000

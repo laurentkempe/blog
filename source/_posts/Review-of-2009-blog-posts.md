@@ -1,6 +1,6 @@
 ---
 title: "Review of 2009 blog posts"
-permalink: "Review-of-2009-blog-posts"
+permalink: /2010/01/09/Review-of-2009-blog-posts/
 date: 1/9/2010 7:12:20 PM
 updated: 1/9/2010 7:12:20 PM
 disqusIdentifier: 20100109071220

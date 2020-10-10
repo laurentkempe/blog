@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio for Office and Web Service using DIME"
-permalink: "Visual-Studio-for-Office-and-Web-Service-using-DIME"
+permalink: /2004/04/29/Visual-Studio-for-Office-and-Web-Service-using-DIME/
 date: 4/29/2004 12:00:00 AM
 updated: 4/29/2004 12:00:00 AM
 disqusIdentifier: 20040429120000

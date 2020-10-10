@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers new authoring tool, step 3"
-permalink: "Tech-Head-Brothers-new-authoring-tool-step-3"
+permalink: /2008/02/17/Tech-Head-Brothers-new-authoring-tool-step-3/
 date: 2/17/2008 4:40:32 PM
 updated: 2/17/2008 4:40:32 PM
 disqusIdentifier: 20080217044032

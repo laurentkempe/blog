@@ -1,6 +1,6 @@
 ---
 title: "What to expect in ReSharper 4.0 for VS 2008"
-permalink: "What-to-expect-in-ReSharper-40-for-VS-2008"
+permalink: /2007/12/28/What-to-expect-in-ReSharper-40-for-VS-2008/
 date: 12/28/2007 4:10:22 AM
 updated: 12/28/2007 4:10:22 AM
 disqusIdentifier: 20071228041022

@@ -1,6 +1,6 @@
 ---
 title: "MUSIC: Mercedes Mixed Tape 10"
-permalink: "MUSIC-Mercedes-Mixed-Tape-10"
+permalink: /2005/12/27/MUSIC-Mercedes-Mixed-Tape-10/
 date: 12/27/2005 11:57:00 PM
 updated: 12/27/2005 11:57:00 PM
 disqusIdentifier: 20051227115700

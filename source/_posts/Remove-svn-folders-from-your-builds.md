@@ -1,6 +1,6 @@
 ---
 title: "Remove .svn folders from your builds"
-permalink: "Remove-svn-folders-from-your-builds"
+permalink: /2007/11/15/Remove-svn-folders-from-your-builds/
 date: 11/15/2007 10:31:32 PM
 updated: 11/15/2007 10:31:32 PM
 disqusIdentifier: 20071115103132

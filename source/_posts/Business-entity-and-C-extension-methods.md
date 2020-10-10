@@ -1,6 +1,6 @@
 ---
 title: "Business entity and C# extension methods"
-permalink: "Business-entity-and-C-extension-methods"
+permalink: /2007/11/01/Business-entity-and-C-extension-methods/
 date: 11/1/2007 12:56:23 AM
 updated: 11/1/2007 12:56:23 AM
 disqusIdentifier: 20071101125623

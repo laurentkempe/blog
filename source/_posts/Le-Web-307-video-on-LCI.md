@@ -1,6 +1,6 @@
 ---
 title: "Le Web 3'07 video on LCI"
-permalink: "Le-Web-307-video-on-LCI"
+permalink: /2007/12/19/Le-Web-307-video-on-LCI/
 date: 12/19/2007 5:51:26 PM
 updated: 12/19/2007 5:51:26 PM
 disqusIdentifier: 20071219055126

@@ -1,6 +1,6 @@
 ---
 title: "MSBuildProjectDirectory issue in Web Deployment Project! Any idea Welcomed!"
-permalink: "MSBuildProjectDirectory-issue-in-Web-Deployment-Project!-Any-idea-Welcomed!"
+permalink: /2008/04/04/MSBuildProjectDirectory-issue-in-Web-Deployment-Project!-Any-idea-Welcomed!/
 date: 4/4/2008 3:31:50 AM
 updated: 4/4/2008 3:31:50 AM
 disqusIdentifier: 20080404033150

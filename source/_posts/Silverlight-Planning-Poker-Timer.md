@@ -1,6 +1,6 @@
 ---
 title: "Silverlight Planning Poker Timer"
-permalink: "Silverlight-Planning-Poker-Timer"
+permalink: /2008/06/15/Silverlight-Planning-Poker-Timer/
 date: 6/15/2008 7:07:47 PM
 updated: 6/15/2008 7:07:47 PM
 disqusIdentifier: 20080615070747

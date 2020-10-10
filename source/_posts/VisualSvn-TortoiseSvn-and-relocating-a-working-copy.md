@@ -1,6 +1,6 @@
 ---
 title: "VisualSvn, TortoiseSvn and relocating a working copy"
-permalink: "VisualSvn-TortoiseSvn-and-relocating-a-working-copy"
+permalink: /2010/01/28/VisualSvn-TortoiseSvn-and-relocating-a-working-copy/
 date: 1/28/2010 8:04:19 PM
 updated: 5/7/2010 7:53:27 AM
 disqusIdentifier: 20100128080419

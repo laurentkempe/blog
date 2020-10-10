@@ -1,6 +1,6 @@
 ---
 title: "CSS friendly control adapters beta published, then removed"
-permalink: "CSS-friendly-control-adapters-beta-published-then-removed"
+permalink: /2006/04/29/CSS-friendly-control-adapters-beta-published-then-removed/
 date: 4/29/2006 12:40:00 AM
 updated: 4/29/2006 12:40:00 AM
 disqusIdentifier: 20060429124000

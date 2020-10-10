@@ -1,6 +1,6 @@
 ---
 title: "New year, New Job: ecenter solutions - enabling business innovation"
-permalink: "New-year-New-Job-ecenter-solutions-enabling-business-innovation"
+permalink: /2005/12/24/New-year-New-Job-ecenter-solutions-enabling-business-innovation/
 date: 12/24/2005 8:15:00 AM
 updated: 12/24/2005 8:15:00 AM
 disqusIdentifier: 20051224081500

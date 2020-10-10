@@ -1,6 +1,6 @@
 ---
 title: "Speaker at 'Rencontre ASP.NET' "
-permalink: "Speaker-at-Rencontre-ASPNET-"
+permalink: /2004/10/17/Speaker-at-Rencontre-ASPNET-/
 date: 10/17/2004 9:28:00 PM
 updated: 4/28/2010 8:02:23 PM
 disqusIdentifier: 20041017092800

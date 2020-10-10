@@ -1,6 +1,6 @@
 ---
 title: "Blogging Tools"
-permalink: "Blogging-Tools"
+permalink: /2004/05/12/Blogging-Tools/
 date: 5/12/2004 2:50:00 AM
 updated: 5/12/2004 2:50:00 AM
 disqusIdentifier: 20040512025000

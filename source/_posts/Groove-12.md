@@ -1,6 +1,6 @@
 ---
 title: "Groove 12"
-permalink: "Groove-12"
+permalink: /2005/11/17/Groove-12/
 date: 11/17/2005 4:11:00 AM
 updated: 11/17/2005 4:11:00 AM
 disqusIdentifier: 20051117041100

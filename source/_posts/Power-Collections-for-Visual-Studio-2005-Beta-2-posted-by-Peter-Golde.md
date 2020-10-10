@@ -1,6 +1,6 @@
 ---
 title: "Power Collections for Visual Studio 2005 Beta 2 posted by Peter Golde"
-permalink: "Power-Collections-for-Visual-Studio-2005-Beta-2-posted-by-Peter-Golde"
+permalink: /2005/05/11/Power-Collections-for-Visual-Studio-2005-Beta-2-posted-by-Peter-Golde/
 date: 5/11/2005 6:42:00 AM
 updated: 5/11/2005 6:42:00 AM
 disqusIdentifier: 20050511064200

@@ -1,6 +1,6 @@
 ---
 title: "PhotoZoom, nice project on Live"
-permalink: "PhotoZoom-nice-project-on-Live"
+permalink: /2008/03/15/PhotoZoom-nice-project-on-Live/
 date: 3/15/2008 4:43:23 PM
 updated: 3/15/2008 4:43:23 PM
 disqusIdentifier: 20080315044323

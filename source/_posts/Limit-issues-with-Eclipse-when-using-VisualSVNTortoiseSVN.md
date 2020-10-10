@@ -1,6 +1,6 @@
 ---
 title: "Limit issues with Eclipse when using VisualSVN/TortoiseSVN"
-permalink: "Limit-issues-with-Eclipse-when-using-VisualSVNTortoiseSVN"
+permalink: /2010/01/07/Limit-issues-with-Eclipse-when-using-VisualSVNTortoiseSVN/
 date: 1/7/2010 9:56:00 PM
 updated: 1/7/2010 9:56:00 PM
 disqusIdentifier: 20100107095600

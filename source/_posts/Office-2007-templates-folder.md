@@ -1,6 +1,6 @@
 ---
 title: "Office 2007 templates folder"
-permalink: "Office-2007-templates-folder"
+permalink: /2009/07/08/Office-2007-templates-folder/
 date: 7/8/2009 5:30:08 PM
 updated: 5/7/2010 7:45:45 AM
 disqusIdentifier: 20090708053008

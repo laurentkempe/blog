@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio 2008 Service Pack 1 released"
-permalink: "Visual-Studio-2008-Service-Pack-1-released"
+permalink: /2008/08/12/Visual-Studio-2008-Service-Pack-1-released/
 date: 8/12/2008 1:48:41 AM
 updated: 5/7/2010 7:45:47 AM
 disqusIdentifier: 20080812014841

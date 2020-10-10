@@ -1,6 +1,6 @@
 ---
 title: Rebooting my blog
-permalink: "Rebooting-my-blog"
+permalink: /2016/03/29/Rebooting-my-blog/
 date: 2016-03-29 20:18:33
 disqusIdentifier: 20160329201833
 tags:

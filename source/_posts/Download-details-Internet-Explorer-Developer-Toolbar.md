@@ -1,6 +1,6 @@
 ---
 title: "Download details: Internet Explorer Developer Toolbar"
-permalink: "Download-details-Internet-Explorer-Developer-Toolbar"
+permalink: /2007/06/01/Download-details-Internet-Explorer-Developer-Toolbar/
 date: 6/1/2007 10:16:19 PM
 updated: 6/1/2007 10:16:19 PM
 disqusIdentifier: 20070601101619

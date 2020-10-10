@@ -1,6 +1,6 @@
 ---
 title: "First step of a long migration weekend reached"
-permalink: "First-step-of-a-long-migration-weekend-reached"
+permalink: /2006/06/03/First-step-of-a-long-migration-weekend-reached/
 date: 6/3/2006 10:23:00 PM
 updated: 6/3/2006 10:23:00 PM
 disqusIdentifier: 20060603102300

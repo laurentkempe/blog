@@ -1,6 +1,6 @@
 ---
 title: "We are HP partner now"
-permalink: "We-are-HP-partner-now"
+permalink: /2008/03/11/We-are-HP-partner-now/
 date: 3/11/2008 11:39:10 PM
 updated: 3/11/2008 11:39:10 PM
 disqusIdentifier: 20080311113910

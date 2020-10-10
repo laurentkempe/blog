@@ -1,6 +1,6 @@
 ---
 title: "Git Diff Margin v3.0 released"
-permalink: "Git-Diff-Margin-v30-released"
+permalink: /2014/09/24/Git-Diff-Margin-v30-released/
 date: 9/24/2014 8:04:39 AM
 updated: 9/24/2014 8:16:07 AM
 disqusIdentifier: 20140924080439

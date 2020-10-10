@@ -1,6 +1,6 @@
 ---
 title: "Empowering your Attribute’s Names"
-permalink: "Empowering-your-Attributee28099s-Names"
+permalink: /2008/06/18/Empowering-your-Attributee28099s-Names/
 date: 6/18/2008 8:54:06 PM
 updated: 6/18/2008 8:54:06 PM
 disqusIdentifier: 20080618085406

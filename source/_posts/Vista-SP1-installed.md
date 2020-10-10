@@ -1,6 +1,6 @@
 ---
 title: "Vista SP1 installed"
-permalink: "Vista-SP1-installed"
+permalink: /2008/02/15/Vista-SP1-installed/
 date: 2/15/2008 6:20:05 PM
 updated: 2/15/2008 6:20:05 PM
 disqusIdentifier: 20080215062005

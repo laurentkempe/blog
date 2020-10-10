@@ -1,6 +1,6 @@
 ---
 title: "Displaying application version on TeamCity home page"
-permalink: "Displaying-application-version-on-TeamCity-home-page"
+permalink: /2009/11/12/Displaying-application-version-on-TeamCity-home-page/
 date: 11/12/2009 6:00:06 PM
 updated: 11/12/2009 6:00:06 PM
 disqusIdentifier: 20091112060006

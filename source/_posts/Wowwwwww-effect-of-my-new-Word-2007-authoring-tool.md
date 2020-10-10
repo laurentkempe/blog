@@ -1,6 +1,6 @@
 ---
 title: "Wowwwwww effect of my new Word 2007 authoring tool"
-permalink: "Wowwwwww-effect-of-my-new-Word-2007-authoring-tool"
+permalink: /2008/08/22/Wowwwwww-effect-of-my-new-Word-2007-authoring-tool/
 date: 8/22/2008 6:59:58 AM
 updated: 8/22/2008 6:59:58 AM
 disqusIdentifier: 20080822065958

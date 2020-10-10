@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers in St.Barth French West Indies"
-permalink: "Tech-Head-Brothers-in-StBarth-French-West-Indies"
+permalink: /2009/02/25/Tech-Head-Brothers-in-StBarth-French-West-Indies/
 date: 2/25/2009 10:30:18 PM
 updated: 5/7/2010 7:45:43 AM
 disqusIdentifier: 20090225103018

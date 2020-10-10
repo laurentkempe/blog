@@ -1,6 +1,6 @@
 ---
 title: "TeamCity 5.0 Released!"
-permalink: "TeamCity-50-Released!"
+permalink: /2009/12/04/TeamCity-50-Released!/
 date: 12/4/2009 6:03:37 AM
 updated: 12/4/2009 6:03:37 AM
 disqusIdentifier: 20091204060337

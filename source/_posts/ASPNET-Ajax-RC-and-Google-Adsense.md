@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET Ajax RC and Google Adsense"
-permalink: "ASPNET-Ajax-RC-and-Google-Adsense"
+permalink: /2006/12/22/ASPNET-Ajax-RC-and-Google-Adsense/
 date: 12/22/2006 7:25:49 PM
 updated: 5/7/2010 7:45:39 AM
 disqusIdentifier: 20061222072549

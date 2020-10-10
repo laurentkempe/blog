@@ -1,6 +1,6 @@
 ---
 title: "Going live in 1 hour"
-permalink: "Going-live-in-1-hour"
+permalink: /2005/04/26/Going-live-in-1-hour/
 date: 4/26/2005 10:10:00 PM
 updated: 4/26/2005 10:10:00 PM
 disqusIdentifier: 20050426101000

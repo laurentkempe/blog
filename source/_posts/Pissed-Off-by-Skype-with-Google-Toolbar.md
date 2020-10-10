@@ -1,6 +1,6 @@
 ---
 title: "Pissed Off by Skype with Google Toolbar"
-permalink: "Pissed-Off-by-Skype-with-Google-Toolbar"
+permalink: /2006/09/28/Pissed-Off-by-Skype-with-Google-Toolbar/
 date: 9/28/2006 5:19:50 AM
 updated: 5/7/2010 7:45:46 AM
 disqusIdentifier: 20060928051950

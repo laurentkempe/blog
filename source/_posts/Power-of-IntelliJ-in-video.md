@@ -1,6 +1,6 @@
 ---
 title: "Power of IntelliJ in video"
-permalink: "Power-of-IntelliJ-in-video"
+permalink: /2010/06/16/Power-of-IntelliJ-in-video/
 date: 6/16/2010 2:02:41 AM
 updated: 6/16/2010 2:02:41 AM
 disqusIdentifier: 20100616020241

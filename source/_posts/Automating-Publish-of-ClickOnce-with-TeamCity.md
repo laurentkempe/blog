@@ -1,6 +1,6 @@
 ---
 title: "Automating Publish of ClickOnce with TeamCity"
-permalink: "Automating-Publish-of-ClickOnce-with-TeamCity"
+permalink: /2009/11/11/Automating-Publish-of-ClickOnce-with-TeamCity/
 date: 11/11/2009 8:24:47 PM
 updated: 11/11/2009 8:24:47 PM
 disqusIdentifier: 20091111082447

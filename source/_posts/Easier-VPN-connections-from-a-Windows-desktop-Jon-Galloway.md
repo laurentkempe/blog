@@ -1,6 +1,6 @@
 ---
 title: "Easier VPN connections from a Windows desktop - Jon Galloway"
-permalink: "Easier-VPN-connections-from-a-Windows-desktop-Jon-Galloway"
+permalink: /2007/09/06/Easier-VPN-connections-from-a-Windows-desktop-Jon-Galloway/
 date: 9/6/2007 3:28:04 PM
 updated: 9/6/2007 3:28:04 PM
 disqusIdentifier: 20070906032804

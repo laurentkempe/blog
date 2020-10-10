@@ -1,6 +1,6 @@
 ---
 title: "ReSharper 4 EAP started tonight"
-permalink: "ReSharper-4-EAP-started-tonight"
+permalink: /2008/02/16/ReSharper-4-EAP-started-tonight/
 date: 2/16/2008 4:48:04 AM
 updated: 2/16/2008 4:48:04 AM
 disqusIdentifier: 20080216044804

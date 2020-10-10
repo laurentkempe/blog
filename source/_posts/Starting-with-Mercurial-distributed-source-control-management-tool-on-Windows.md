@@ -1,6 +1,6 @@
 ---
 title: "Starting with Mercurial distributed source control management tool on Windows"
-permalink: "Starting-with-Mercurial-distributed-source-control-management-tool-on-Windows"
+permalink: /2010/11/06/Starting-with-Mercurial-distributed-source-control-management-tool-on-Windows/
 date: 11/6/2010 10:24:47 PM
 updated: 11/6/2010 10:24:47 PM
 disqusIdentifier: 20101106102447

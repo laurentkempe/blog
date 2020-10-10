@@ -1,6 +1,6 @@
 ---
 title: "VisualSVN and Pending Changes"
-permalink: "VisualSVN-and-Pending-Changes"
+permalink: /2009/11/30/VisualSVN-and-Pending-Changes/
 date: 11/30/2009 7:09:37 PM
 updated: 11/30/2009 7:09:37 PM
 disqusIdentifier: 20091130070937

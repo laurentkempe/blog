@@ -1,6 +1,6 @@
 ---
 title: "New web application deployment framework for IIS 7"
-permalink: "New-web-application-deployment-framework-for-IIS-7"
+permalink: /2007/11/30/New-web-application-deployment-framework-for-IIS-7/
 date: 11/30/2007 3:05:13 AM
 updated: 5/7/2010 7:45:40 AM
 disqusIdentifier: 20071130030513

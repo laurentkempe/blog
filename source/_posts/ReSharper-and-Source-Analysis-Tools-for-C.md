@@ -1,6 +1,6 @@
 ---
 title: "ReSharper and Source Analysis Tools for C#"
-permalink: "ReSharper-and-Source-Analysis-Tools-for-C"
+permalink: /2008/06/25/ReSharper-and-Source-Analysis-Tools-for-C/
 date: 6/25/2008 6:05:33 AM
 updated: 6/25/2008 6:05:33 AM
 disqusIdentifier: 20080625060533

@@ -1,6 +1,6 @@
 ---
 title: "Tech*Ed Europe: I'll be there!"
-permalink: "TechEd-Europe-Ill-be-there!"
+permalink: /2005/06/17/TechEd-Europe-Ill-be-there!/
 date: 6/17/2005 5:48:00 AM
 updated: 6/17/2005 5:48:00 AM
 disqusIdentifier: 20050617054800

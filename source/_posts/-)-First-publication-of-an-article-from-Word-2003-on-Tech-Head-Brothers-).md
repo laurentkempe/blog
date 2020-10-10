@@ -1,6 +1,6 @@
 ---
 title: ":-) First publication of an article from Word 2003 on Tech Head Brothers :-)"
-permalink: "-)-First-publication-of-an-article-from-Word-2003-on-Tech-Head-Brothers-)"
+permalink: /2005/01/26/-)-First-publication-of-an-article-from-Word-2003-on-Tech-Head-Brothers-)/
 date: 1/26/2005 12:39:00 AM
 updated: 5/7/2010 7:45:41 AM
 disqusIdentifier: 20050126123900

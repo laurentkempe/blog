@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET MVC 2, MSpec and Watin"
-permalink: "ASPNET-MVC-2-MSpec-and-Watin"
+permalink: /2010/05/19/ASPNET-MVC-2-MSpec-and-Watin/
 date: 5/19/2010 5:07:53 PM
 updated: 10/15/2010 11:20:48 AM
 disqusIdentifier: 20100519050753

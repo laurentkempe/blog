@@ -1,6 +1,6 @@
 ---
 title: "Going to Vista"
-permalink: "Going-to-Vista"
+permalink: /2007/04/14/Going-to-Vista/
 date: 4/14/2007 10:01:39 PM
 updated: 4/14/2007 10:01:39 PM
 disqusIdentifier: 20070414100139

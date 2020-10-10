@@ -1,6 +1,6 @@
 ---
 title: "BDD web application testing using easyB and Sahi"
-permalink: "BDD-web-application-testing-using-easyB-and-Sahi"
+permalink: /2010/11/08/BDD-web-application-testing-using-easyB-and-Sahi/
 date: 11/8/2010 6:21:00 PM
 updated: 11/8/2010 6:21:01 PM
 disqusIdentifier: 20101108062100

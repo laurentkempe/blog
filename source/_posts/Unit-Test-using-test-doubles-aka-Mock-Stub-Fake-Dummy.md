@@ -1,6 +1,6 @@
 ---
 title: "Unit Test using test doubles, aka Mock, Stub, Fake, Dummy"
-permalink: "Unit-Test-using-test-doubles-aka-Mock-Stub-Fake-Dummy"
+permalink: /2010/07/17/Unit-Test-using-test-doubles-aka-Mock-Stub-Fake-Dummy/
 date: 7/17/2010 12:31:53 AM
 updated: 7/17/2010 12:31:53 AM
 disqusIdentifier: 20100717123153

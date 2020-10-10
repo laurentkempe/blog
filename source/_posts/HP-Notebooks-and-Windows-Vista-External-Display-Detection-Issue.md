@@ -1,6 +1,6 @@
 ---
 title: "HP Notebooks and Windows Vista - External Display Detection Issue"
-permalink: "HP-Notebooks-and-Windows-Vista-External-Display-Detection-Issue"
+permalink: /2007/12/17/HP-Notebooks-and-Windows-Vista-External-Display-Detection-Issue/
 date: 12/17/2007 3:19:03 AM
 updated: 12/17/2007 3:19:03 AM
 disqusIdentifier: 20071217031903

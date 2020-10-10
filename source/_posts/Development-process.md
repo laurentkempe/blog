@@ -1,6 +1,6 @@
 ---
 title: "Development process"
-permalink: "Development-process"
+permalink: /2004/08/01/Development-process/
 date: 8/1/2004 7:39:00 AM
 updated: 8/1/2004 7:39:00 AM
 disqusIdentifier: 20040801073900

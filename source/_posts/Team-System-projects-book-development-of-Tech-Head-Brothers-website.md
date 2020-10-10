@@ -1,6 +1,6 @@
 ---
 title: "Team System projects: book, development of Tech Head Brothers website"
-permalink: "Team-System-projects-book-development-of-Tech-Head-Brothers-website"
+permalink: /2005/07/16/Team-System-projects-book-development-of-Tech-Head-Brothers-website/
 date: 7/16/2005 6:05:00 AM
 updated: 7/16/2005 6:05:00 AM
 disqusIdentifier: 20050716060500

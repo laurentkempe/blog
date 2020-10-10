@@ -1,6 +1,6 @@
 ---
 title: "Daily stand up meeting using Skype"
-permalink: "Daily-stand-up-meeting-using-Skype"
+permalink: /2009/10/20/Daily-stand-up-meeting-using-Skype/
 date: 10/20/2009 5:48:37 PM
 updated: 10/20/2009 5:48:37 PM
 disqusIdentifier: 20091020054837

@@ -1,6 +1,6 @@
 ---
 title: "TeamCity and Gitlab working together with SSH Keys"
-permalink: "TeamCity-and-Gitlab-working-together-with-SSH-Keys"
+permalink: /2012/08/24/TeamCity-and-Gitlab-working-together-with-SSH-Keys/
 date: 8/24/2012 11:44:59 PM
 updated: 8/24/2012 11:59:24 PM
 disqusIdentifier: 20120824114459

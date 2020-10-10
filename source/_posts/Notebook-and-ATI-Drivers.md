@@ -1,6 +1,6 @@
 ---
 title: "Notebook and ATI Drivers"
-permalink: "Notebook-and-ATI-Drivers"
+permalink: /2006/11/05/Notebook-and-ATI-Drivers/
 date: 11/5/2006 6:46:34 PM
 updated: 11/5/2006 6:46:34 PM
 disqusIdentifier: 20061105064634

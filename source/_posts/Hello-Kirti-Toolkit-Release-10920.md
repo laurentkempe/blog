@@ -1,6 +1,6 @@
 ---
 title: "Hello Kirti : Toolkit Release 10920"
-permalink: "Hello-Kirti-Toolkit-Release-10920"
+permalink: /2007/09/22/Hello-Kirti-Toolkit-Release-10920/
 date: 9/22/2007 3:27:56 AM
 updated: 9/22/2007 3:27:56 AM
 disqusIdentifier: 20070922032756

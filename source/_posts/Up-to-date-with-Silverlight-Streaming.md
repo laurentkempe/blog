@@ -1,6 +1,6 @@
 ---
 title: "Up to date with Silverlight Streaming"
-permalink: "Up-to-date-with-Silverlight-Streaming"
+permalink: /2007/10/13/Up-to-date-with-Silverlight-Streaming/
 date: 10/13/2007 7:05:50 AM
 updated: 10/13/2007 7:05:50 AM
 disqusIdentifier: 20071013070550

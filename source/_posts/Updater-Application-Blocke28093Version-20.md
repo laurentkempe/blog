@@ -1,6 +1,6 @@
 ---
 title: "Updater Application Block–Version 2.0"
-permalink: "Updater-Application-Blocke28093Version-20"
+permalink: /2005/03/16/Updater-Application-Blocke28093Version-20/
 date: 3/16/2005 5:50:00 AM
 updated: 3/16/2005 5:50:00 AM
 disqusIdentifier: 20050316055000

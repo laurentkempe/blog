@@ -1,6 +1,6 @@
 ---
 title: "Why again this error!!! flash crash"
-permalink: "Why-again-this-error!!!-flash-crash"
+permalink: /2007/12/12/Why-again-this-error!!!-flash-crash/
 date: 12/12/2007 11:26:32 PM
 updated: 12/12/2007 11:26:32 PM
 disqusIdentifier: 20071212112632

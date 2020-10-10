@@ -1,6 +1,6 @@
 ---
 title: "VMWare Player"
-permalink: "VMWare-Player"
+permalink: /2005/10/24/VMWare-Player/
 date: 10/24/2005 3:23:00 PM
 updated: 10/24/2005 3:23:00 PM
 disqusIdentifier: 20051024032300

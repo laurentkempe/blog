@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers meets CodePlex"
-permalink: "Tech-Head-Brothers-meets-CodePlex"
+permalink: /2006/06/30/Tech-Head-Brothers-meets-CodePlex/
 date: 6/30/2006 6:56:00 AM
 updated: 6/30/2006 6:56:00 AM
 disqusIdentifier: 20060630065600

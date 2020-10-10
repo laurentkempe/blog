@@ -1,6 +1,6 @@
 ---
 title: "WCF Add Service Reference issue with Visual Studio 2008 SP1"
-permalink: "WCF-Add-Service-Reference-issue-with-Visual-Studio-2008-SP1"
+permalink: /2008/09/10/WCF-Add-Service-Reference-issue-with-Visual-Studio-2008-SP1/
 date: 9/10/2008 5:00:51 AM
 updated: 9/10/2008 5:00:51 AM
 disqusIdentifier: 20080910050051

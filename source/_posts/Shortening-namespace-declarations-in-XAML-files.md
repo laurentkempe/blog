@@ -1,6 +1,6 @@
 ---
 title: "Shortening namespace declarations in XAML files"
-permalink: "Shortening-namespace-declarations-in-XAML-files"
+permalink: /2011/12/15/Shortening-namespace-declarations-in-XAML-files/
 date: 12/15/2011 2:49:43 AM
 updated: 12/15/2011 7:30:59 AM
 disqusIdentifier: 20111215024943

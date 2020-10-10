@@ -1,6 +1,6 @@
 ---
 title: "Chapters finished"
-permalink: "Chapters-finished"
+permalink: /2003/10/04/Chapters-finished/
 date: 10/4/2003 8:35:00 AM
 updated: 4/28/2010 8:02:44 PM
 disqusIdentifier: 20031004083500

@@ -1,6 +1,6 @@
 ---
 title: "Omea Reader sending to Groove"
-permalink: "Omea-Reader-sending-to-Groove"
+permalink: /2005/02/10/Omea-Reader-sending-to-Groove/
 date: 2/10/2005 8:42:00 AM
 updated: 2/10/2005 8:42:00 AM
 disqusIdentifier: 20050210084200

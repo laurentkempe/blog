@@ -1,6 +1,6 @@
 ---
 title: "Groove and WSS"
-permalink: "Groove-and-WSS"
+permalink: /2003/10/04/Groove-and-WSS/
 date: 10/4/2003 9:38:00 AM
 updated: 10/4/2003 9:38:00 AM
 disqusIdentifier: 20031004093800

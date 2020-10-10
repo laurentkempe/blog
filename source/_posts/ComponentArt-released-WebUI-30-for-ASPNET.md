@@ -1,6 +1,6 @@
 ---
 title: "ComponentArt released Web.UI 3.0 for ASP.NET"
-permalink: "ComponentArt-released-WebUI-30-for-ASPNET"
+permalink: /2005/09/11/ComponentArt-released-WebUI-30-for-ASPNET/
 date: 9/11/2005 5:25:00 AM
 updated: 9/11/2005 5:25:00 AM
 disqusIdentifier: 20050911052500

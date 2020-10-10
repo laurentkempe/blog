@@ -1,6 +1,6 @@
 ---
 title: "Making VSTO 2005 and WSE 3.0 playing together again"
-permalink: "Making-VSTO-2005-and-WSE-30-playing-together-again"
+permalink: /2006/08/13/Making-VSTO-2005-and-WSE-30-playing-together-again/
 date: 8/13/2006 12:08:00 AM
 updated: 5/7/2010 7:45:40 AM
 disqusIdentifier: 20060813120800

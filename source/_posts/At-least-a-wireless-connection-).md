@@ -1,6 +1,6 @@
 ---
 title: "At least a wireless connection :-)"
-permalink: "At-least-a-wireless-connection-)"
+permalink: /2003/07/02/At-least-a-wireless-connection-)/
 date: 7/2/2003 7:04:00 PM
 updated: 7/2/2003 7:04:00 PM
 disqusIdentifier: 20030702070400

@@ -1,6 +1,6 @@
 ---
 title: "Refactoring my publishing tool"
-permalink: "Refactoring-my-publishing-tool"
+permalink: /2004/05/20/Refactoring-my-publishing-tool/
 date: 5/20/2004 10:49:00 PM
 updated: 5/20/2004 10:49:00 PM
 disqusIdentifier: 20040520104900

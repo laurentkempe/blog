@@ -1,6 +1,6 @@
 ---
 title: "Enterprise Library Configuration application"
-permalink: "Enterprise-Library-Configuration-application"
+permalink: /2005/01/29/Enterprise-Library-Configuration-application/
 date: 1/29/2005 10:22:00 AM
 updated: 1/29/2005 10:22:00 AM
 disqusIdentifier: 20050129102200

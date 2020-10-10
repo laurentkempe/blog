@@ -1,6 +1,6 @@
 ---
 title: "Unlock your Windows Phone 7 with ChevronWP7 Labs"
-permalink: "Unlock-your-Windows-Phone-7-with-ChevronWP7-Labs"
+permalink: /2011/11/06/Unlock-your-Windows-Phone-7-with-ChevronWP7-Labs/
 date: 11/6/2011 2:46:45 AM
 updated: 11/7/2011 11:11:51 PM
 disqusIdentifier: 20111106024645

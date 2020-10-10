@@ -1,6 +1,6 @@
 ---
 title: "DataAccessLayer.FindAll(PublishedBy(Author))"
-permalink: "DataAccessLayerFindAll(PublishedBy(Author))"
+permalink: /2005/03/10/DataAccessLayerFindAll(PublishedBy(Author))/
 date: 3/10/2005 7:43:00 AM
 updated: 3/10/2005 7:43:00 AM
 disqusIdentifier: 20050310074300

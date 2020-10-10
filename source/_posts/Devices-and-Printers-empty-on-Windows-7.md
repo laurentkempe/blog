@@ -1,6 +1,6 @@
 ---
 title: "Devices and Printers empty on Windows 7"
-permalink: "Devices-and-Printers-empty-on-Windows-7"
+permalink: /2009/09/06/Devices-and-Printers-empty-on-Windows-7/
 date: 9/6/2009 9:16:31 PM
 updated: 5/7/2010 7:52:09 AM
 disqusIdentifier: 20090906091631

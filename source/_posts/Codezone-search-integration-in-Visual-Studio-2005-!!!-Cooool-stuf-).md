@@ -1,6 +1,6 @@
 ---
 title: "Codezone search integration in Visual Studio 2005 !!! Cooool stuf :-)"
-permalink: "Codezone-search-integration-in-Visual-Studio-2005-!!!-Cooool-stuf-)"
+permalink: /2005/08/18/Codezone-search-integration-in-Visual-Studio-2005-!!!-Cooool-stuf-)/
 date: 8/18/2005 6:53:00 AM
 updated: 8/18/2005 6:53:00 AM
 disqusIdentifier: 20050818065300

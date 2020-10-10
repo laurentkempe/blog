@@ -1,6 +1,6 @@
 ---
 title: "Note to self - How can I change the database owner?"
-permalink: "Note-to-self-How-can-I-change-the-database-owner"
+permalink: /2007/09/27/Note-to-self-How-can-I-change-the-database-owner/
 date: 9/27/2007 4:39:41 PM
 updated: 9/27/2007 4:39:41 PM
 disqusIdentifier: 20070927043941

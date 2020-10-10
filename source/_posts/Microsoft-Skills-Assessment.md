@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Skills Assessment"
-permalink: "Microsoft-Skills-Assessment"
+permalink: /2003/06/25/Microsoft-Skills-Assessment/
 date: 6/25/2003 6:29:00 AM
 updated: 6/25/2003 6:29:00 AM
 disqusIdentifier: 20030625062900

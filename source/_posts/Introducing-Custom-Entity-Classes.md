@@ -1,6 +1,6 @@
 ---
 title: "Introducing Custom Entity Classes"
-permalink: "Introducing-Custom-Entity-Classes"
+permalink: /2005/03/16/Introducing-Custom-Entity-Classes/
 date: 3/16/2005 5:44:00 AM
 updated: 3/16/2005 5:44:00 AM
 disqusIdentifier: 20050316054400

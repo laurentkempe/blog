@@ -1,6 +1,6 @@
 ---
 title: "Migration of Tech Head Brothers portal to .NET Framework 3.5"
-permalink: "Migration-of-Tech-Head-Brothers-portal-to-NET-Framework-35"
+permalink: /2007/11/28/Migration-of-Tech-Head-Brothers-portal-to-NET-Framework-35/
 date: 11/28/2007 9:01:39 PM
 updated: 11/28/2007 9:01:39 PM
 disqusIdentifier: 20071128090139

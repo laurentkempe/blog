@@ -1,6 +1,6 @@
 ---
 title: "TeamCity 9 project settings versioning in Git"
-permalink: "TeamCity-9-project-settings-versioning-in-Git"
+permalink: /2014/12/13/TeamCity-9-project-settings-versioning-in-Git/
 date: 12/13/2014 3:16:58 AM
 updated: 12/13/2014 3:39:12 AM
 disqusIdentifier: 20141213031658

@@ -1,6 +1,6 @@
 ---
 title: "phew! I got pressure from Richard and Rédo :-)"
-permalink: "phew!-I-got-pressure-from-Richard-and-R2333bdo-)"
+permalink: /2007/09/15/phew!-I-got-pressure-from-Richard-and-R2333bdo-)/
 date: 9/15/2007 7:08:49 AM
 updated: 9/15/2007 7:08:49 AM
 disqusIdentifier: 20070915070849

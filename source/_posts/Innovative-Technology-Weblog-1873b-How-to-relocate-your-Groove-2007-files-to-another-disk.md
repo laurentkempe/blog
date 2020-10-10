@@ -1,6 +1,6 @@
 ---
 title: "Innovative Technology Weblog » How to relocate your Groove 2007 files to another disk"
-permalink: "Innovative-Technology-Weblog-1873b-How-to-relocate-your-Groove-2007-files-to-another-disk"
+permalink: /2007/05/31/Innovative-Technology-Weblog-1873b-How-to-relocate-your-Groove-2007-files-to-another-disk/
 date: 5/31/2007 5:42:55 AM
 updated: 5/31/2007 5:42:55 AM
 disqusIdentifier: 20070531054255

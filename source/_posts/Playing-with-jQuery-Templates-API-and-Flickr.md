@@ -1,6 +1,6 @@
 ---
 title: "Playing with jQuery Templates API and Flickr"
-permalink: "Playing-with-jQuery-Templates-API-and-Flickr"
+permalink: /2010/10/05/Playing-with-jQuery-Templates-API-and-Flickr/
 date: 10/5/2010 9:30:02 AM
 updated: 10/5/2010 9:30:02 AM
 disqusIdentifier: 20101005093002

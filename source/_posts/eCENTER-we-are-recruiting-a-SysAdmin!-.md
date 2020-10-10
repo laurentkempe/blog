@@ -1,6 +1,6 @@
 ---
 title: "eCENTER: we are recruiting a SysAdmin! "
-permalink: "eCENTER-we-are-recruiting-a-SysAdmin!-"
+permalink: /2005/07/11/eCENTER-we-are-recruiting-a-SysAdmin!-/
 date: 7/11/2005 4:47:00 PM
 updated: 7/11/2005 4:47:00 PM
 disqusIdentifier: 20050711044700

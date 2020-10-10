@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Bluetooth Mobile Keyboard 6000 for developers"
-permalink: "Microsoft-Bluetooth-Mobile-Keyboard-6000-for-developers"
+permalink: /2012/08/28/Microsoft-Bluetooth-Mobile-Keyboard-6000-for-developers/
 date: 8/28/2012 6:30:58 PM
 updated: 8/28/2012 6:30:58 PM
 disqusIdentifier: 20120828063058

@@ -1,6 +1,6 @@
 ---
 title: "RegisterClientScriptInclude and scripts ordering"
-permalink: "RegisterClientScriptInclude-and-scripts-ordering"
+permalink: /2007/05/25/RegisterClientScriptInclude-and-scripts-ordering/
 date: 5/25/2007 8:04:38 AM
 updated: 5/25/2007 8:04:38 AM
 disqusIdentifier: 20070525080438

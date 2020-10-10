@@ -1,6 +1,6 @@
 ---
 title: "PDF generation"
-permalink: "PDF-generation"
+permalink: /2003/08/08/PDF-generation/
 date: 8/8/2003 4:27:00 AM
 updated: 8/8/2003 4:27:00 AM
 disqusIdentifier: 20030808042700

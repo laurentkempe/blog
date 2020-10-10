@@ -1,6 +1,6 @@
 ---
 title: "Cannot open new window under Vista !!"
-permalink: "Cannot-open-new-window-under-Vista-!!"
+permalink: /2007/05/23/Cannot-open-new-window-under-Vista-!!/
 date: 5/23/2007 5:27:05 AM
 updated: 5/23/2007 5:27:05 AM
 disqusIdentifier: 20070523052705

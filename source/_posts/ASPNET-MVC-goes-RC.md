@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET MVC goes RC"
-permalink: "ASPNET-MVC-goes-RC"
+permalink: /2009/01/28/ASPNET-MVC-goes-RC/
 date: 1/28/2009 7:52:10 AM
 updated: 1/28/2009 7:52:10 AM
 disqusIdentifier: 20090128075210

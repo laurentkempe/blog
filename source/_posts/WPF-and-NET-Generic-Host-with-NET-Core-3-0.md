@@ -1,6 +1,6 @@
 ---
 title: 'WPF and .NET Generic Host with .NET Core 3.0'
-permalink: WPF-and-dotnet-Generic-Host-with-dotnet-Core-3-0
+permalink: /2019/09/03/WPF-and-dotnet-Generic-Host-with-dotnet-Core-3-0/
 disqusIdentifier: '20190903222108'
 coverSize: partial
 tags:

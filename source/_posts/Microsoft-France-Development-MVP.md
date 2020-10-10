@@ -1,6 +1,6 @@
 ---
 title: "Microsoft France Development MVP"
-permalink: "Microsoft-France-Development-MVP"
+permalink: /2006/09/20/Microsoft-France-Development-MVP/
 date: 9/20/2006 6:28:43 AM
 updated: 9/20/2006 6:28:43 AM
 disqusIdentifier: 20060920062843

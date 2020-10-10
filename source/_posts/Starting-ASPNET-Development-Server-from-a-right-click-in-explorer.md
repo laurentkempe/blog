@@ -1,6 +1,6 @@
 ---
 title: "Starting ASP.NET Development Server from a right click in explorer"
-permalink: "Starting-ASPNET-Development-Server-from-a-right-click-in-explorer"
+permalink: /2007/07/07/Starting-ASPNET-Development-Server-from-a-right-click-in-explorer/
 date: 7/7/2007 12:18:37 AM
 updated: 5/7/2010 7:46:47 AM
 disqusIdentifier: 20070707121837

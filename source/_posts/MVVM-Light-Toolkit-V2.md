@@ -1,6 +1,6 @@
 ---
 title: "MVVM Light Toolkit V2"
-permalink: "MVVM-Light-Toolkit-V2"
+permalink: /2009/10/14/MVVM-Light-Toolkit-V2/
 date: 10/14/2009 6:12:53 AM
 updated: 4/28/2010 8:02:22 PM
 disqusIdentifier: 20091014061253

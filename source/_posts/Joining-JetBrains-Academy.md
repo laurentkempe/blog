@@ -1,6 +1,6 @@
 ---
 title: "Joining JetBrains Academy"
-permalink: "Joining-JetBrains-Academy"
+permalink: /2009/09/06/Joining-JetBrains-Academy/
 date: 9/6/2009 5:21:59 PM
 updated: 5/7/2010 7:46:50 AM
 disqusIdentifier: 20090906052159

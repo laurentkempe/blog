@@ -1,6 +1,6 @@
 ---
 title: "IIS Admin"
-permalink: "IIS-Admin"
+permalink: /2004/10/17/IIS-Admin/
 date: 10/17/2004 9:50:00 PM
 updated: 5/7/2010 7:45:42 AM
 disqusIdentifier: 20041017095000

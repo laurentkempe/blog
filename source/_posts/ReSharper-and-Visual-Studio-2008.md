@@ -1,6 +1,6 @@
 ---
 title: "ReSharper and Visual Studio 2008"
-permalink: "ReSharper-and-Visual-Studio-2008"
+permalink: /2007/11/24/ReSharper-and-Visual-Studio-2008/
 date: 11/24/2007 4:21:01 AM
 updated: 11/24/2007 4:21:01 AM
 disqusIdentifier: 20071124042101

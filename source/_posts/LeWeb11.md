@@ -1,6 +1,6 @@
 ---
 title: "LeWeb’11"
-permalink: "LeWeb11"
+permalink: /2011/12/07/LeWeb11/
 date: 12/7/2011 5:06:20 AM
 updated: 12/7/2011 5:14:05 AM
 disqusIdentifier: 20111207050620

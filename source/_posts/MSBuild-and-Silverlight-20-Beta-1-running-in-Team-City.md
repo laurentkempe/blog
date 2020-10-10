@@ -1,6 +1,6 @@
 ---
 title: "MSBuild and Silverlight 2.0 Beta 1 running in Team City"
-permalink: "MSBuild-and-Silverlight-20-Beta-1-running-in-Team-City"
+permalink: /2008/05/20/MSBuild-and-Silverlight-20-Beta-1-running-in-Team-City/
 date: 5/20/2008 5:07:11 AM
 updated: 5/20/2008 5:07:11 AM
 disqusIdentifier: 20080520050711

@@ -1,6 +1,6 @@
 ---
 title: "What locks my folder/file?"
-permalink: "What-locks-my-folderfile"
+permalink: /2007/10/10/What-locks-my-folderfile/
 date: 10/10/2007 6:39:49 PM
 updated: 10/10/2007 6:39:49 PM
 disqusIdentifier: 20071010063949

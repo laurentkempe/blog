@@ -1,6 +1,6 @@
 ---
 title: "Deep Earth - Nice usage of Virtual Earth and Silverlight Deep Zoom"
-permalink: "Deep-Earth-Nice-usage-of-Virtual-Earth-and-Silverlight-Deep-Zoom"
+permalink: /2008/06/15/Deep-Earth-Nice-usage-of-Virtual-Earth-and-Silverlight-Deep-Zoom/
 date: 6/15/2008 5:56:01 PM
 updated: 6/15/2008 5:56:01 PM
 disqusIdentifier: 20080615055601

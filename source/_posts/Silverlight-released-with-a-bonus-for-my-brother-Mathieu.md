@@ -1,6 +1,6 @@
 ---
 title: "Silverlight released with a bonus for my brother Mathieu"
-permalink: "Silverlight-released-with-a-bonus-for-my-brother-Mathieu"
+permalink: /2007/09/06/Silverlight-released-with-a-bonus-for-my-brother-Mathieu/
 date: 9/6/2007 5:05:28 AM
 updated: 9/6/2007 5:05:28 AM
 disqusIdentifier: 20070906050528

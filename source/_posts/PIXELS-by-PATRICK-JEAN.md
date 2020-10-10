@@ -1,6 +1,6 @@
 ---
 title: "PIXELS by PATRICK JEAN"
-permalink: "PIXELS-by-PATRICK-JEAN"
+permalink: /2010/04/09/PIXELS-by-PATRICK-JEAN/
 date: 4/9/2010 9:18:24 AM
 updated: 4/10/2010 7:08:08 PM
 disqusIdentifier: 20100409091824

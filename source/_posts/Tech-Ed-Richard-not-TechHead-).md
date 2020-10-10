@@ -1,6 +1,6 @@
 ---
 title: "Tech Ed Richard, not TechHead :)"
-permalink: "Tech-Ed-Richard-not-TechHead-)"
+permalink: /2006/08/16/Tech-Ed-Richard-not-TechHead-)/
 date: 8/16/2006 7:06:34 AM
 updated: 8/16/2006 7:06:34 AM
 disqusIdentifier: 20060816070634

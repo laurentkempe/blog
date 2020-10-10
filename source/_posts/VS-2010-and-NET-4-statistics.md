@@ -1,6 +1,6 @@
 ---
 title: "VS 2010 and .NET 4 statistics"
-permalink: "VS-2010-and-NET-4-statistics"
+permalink: /2010/04/10/VS-2010-and-NET-4-statistics/
 date: 4/10/2010 3:01:45 AM
 updated: 4/11/2010 1:00:18 PM
 disqusIdentifier: 20100410030145

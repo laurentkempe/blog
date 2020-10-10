@@ -1,6 +1,6 @@
 ---
 title: "Tech Ed 2003 in Barcelona"
-permalink: "Tech-Ed-2003-in-Barcelona"
+permalink: /2003/06/30/Tech-Ed-2003-in-Barcelona/
 date: 6/30/2003 2:37:00 AM
 updated: 6/30/2003 2:37:00 AM
 disqusIdentifier: 20030630023700

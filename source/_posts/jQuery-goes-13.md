@@ -1,6 +1,6 @@
 ---
 title: "jQuery goes 1.3"
-permalink: "jQuery-goes-13"
+permalink: /2009/01/14/jQuery-goes-13/
 date: 1/14/2009 11:49:40 PM
 updated: 1/14/2009 11:49:40 PM
 disqusIdentifier: 20090114114940

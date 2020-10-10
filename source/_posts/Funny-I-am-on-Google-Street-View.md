@@ -1,6 +1,6 @@
 ---
 title: "Funny, I am on Google Street View"
-permalink: "Funny-I-am-on-Google-Street-View"
+permalink: /2009/08/25/Funny-I-am-on-Google-Street-View/
 date: 8/25/2009 6:33:36 AM
 updated: 8/25/2009 6:33:36 AM
 disqusIdentifier: 20090825063336

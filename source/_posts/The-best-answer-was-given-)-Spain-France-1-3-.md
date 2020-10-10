@@ -1,6 +1,6 @@
 ---
 title: "The best answer was given :-) Spain - France 1 - 3 "
-permalink: "The-best-answer-was-given-)-Spain-France-1-3-"
+permalink: /2006/06/29/The-best-answer-was-given-)-Spain-France-1-3-/
 date: 6/29/2006 6:25:00 AM
 updated: 6/29/2006 6:25:00 AM
 disqusIdentifier: 20060629062500

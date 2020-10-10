@@ -1,6 +1,6 @@
 ---
 title: "Silverlight 2 Beta 2 - Unable to start debugging!"
-permalink: "Silverlight-2-Beta-2-Unable-to-start-debugging!"
+permalink: /2008/06/14/Silverlight-2-Beta-2-Unable-to-start-debugging!/
 date: 6/14/2008 2:25:29 AM
 updated: 6/14/2008 2:25:29 AM
 disqusIdentifier: 20080614022529

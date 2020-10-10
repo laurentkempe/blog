@@ -1,6 +1,6 @@
 ---
 title: ASP.NET Core MVC app running on Raspberry Pi
-permalink: ASPNET-Core-MVC-app-running-on-raspberry-pi
+permalink: /2017/04/14/ASPNET-Core-MVC-app-running-on-raspberry-pi/
 date: 2017-04-14 17:26:06
 tags: [".NET Core", "Raspberry Pi", "Linux"]
 disqusIdentifier: 20170414172606

@@ -1,6 +1,6 @@
 ---
 title: "Domain Controller :-) Starting Exchange 2003 installation."
-permalink: "Domain-Controller-)-Starting-Exchange-2003-installation"
+permalink: /2004/04/24/Domain-Controller-)-Starting-Exchange-2003-installation/
 date: 4/24/2004 4:27:00 PM
 updated: 4/24/2004 4:27:00 PM
 disqusIdentifier: 20040424042700

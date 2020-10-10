@@ -1,6 +1,6 @@
 ---
 title: "Set Up a Build Computer using VisualSVN, Team City, MsTest, NUnit"
-permalink: "Set-Up-a-Build-Computer-using-VisualSVN-Team-City-MsTest-NUnit"
+permalink: /2008/03/21/Set-Up-a-Build-Computer-using-VisualSVN-Team-City-MsTest-NUnit/
 date: 3/21/2008 8:55:32 AM
 updated: 3/21/2008 8:55:32 AM
 disqusIdentifier: 20080321085532

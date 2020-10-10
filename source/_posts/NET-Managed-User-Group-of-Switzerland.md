@@ -1,6 +1,6 @@
 ---
 title: ".NET Managed User Group of Switzerland"
-permalink: "NET-Managed-User-Group-of-Switzerland"
+permalink: /2004/10/28/NET-Managed-User-Group-of-Switzerland/
 date: 10/28/2004 11:15:00 PM
 updated: 10/28/2004 11:15:00 PM
 disqusIdentifier: 20041028111500

@@ -1,6 +1,6 @@
 ---
 title: "CopySourceAsHtml - Visual Studio 2003 plugin"
-permalink: "CopySourceAsHtml-Visual-Studio-2003-plugin"
+permalink: /2004/11/09/CopySourceAsHtml-Visual-Studio-2003-plugin/
 date: 11/9/2004 6:36:00 AM
 updated: 11/9/2004 6:36:00 AM
 disqusIdentifier: 20041109063600

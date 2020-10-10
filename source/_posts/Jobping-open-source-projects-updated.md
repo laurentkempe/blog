@@ -1,6 +1,6 @@
 ---
 title: "Jobping open source projects updated"
-permalink: "Jobping-open-source-projects-updated"
+permalink: /2010/10/21/Jobping-open-source-projects-updated/
 date: 10/21/2010 6:18:02 AM
 updated: 10/21/2010 6:47:10 AM
 disqusIdentifier: 20101021061802

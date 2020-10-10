@@ -1,6 +1,6 @@
 ---
 title: "Alpha vertical slice of Silverlight Streaming on Tech Head Brothers"
-permalink: "Alpha-vertical-slice-of-Silverlight-Streaming-on-Tech-Head-Brothers"
+permalink: /2007/10/17/Alpha-vertical-slice-of-Silverlight-Streaming-on-Tech-Head-Brothers/
 date: 10/17/2007 4:42:26 AM
 updated: 10/17/2007 4:42:26 AM
 disqusIdentifier: 20071017044226

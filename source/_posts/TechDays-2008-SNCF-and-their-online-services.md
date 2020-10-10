@@ -1,6 +1,6 @@
 ---
 title: "[TechDays 2008] - SNCF and their online services"
-permalink: "TechDays-2008-SNCF-and-their-online-services"
+permalink: /2008/02/10/TechDays-2008-SNCF-and-their-online-services/
 date: 2/10/2008 5:53:26 PM
 updated: 2/10/2008 5:53:26 PM
 disqusIdentifier: 20080210055326

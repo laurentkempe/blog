@@ -1,6 +1,6 @@
 ---
 title: "CSS Debugging :-)"
-permalink: "CSS-Debugging-)"
+permalink: /2007/12/18/CSS-Debugging-)/
 date: 12/18/2007 5:01:57 AM
 updated: 12/18/2007 5:01:57 AM
 disqusIdentifier: 20071218050157

@@ -1,6 +1,6 @@
 ---
 title: "Build multiple ClickOnce deployment packages using MSBuild and Team City"
-permalink: "Build-multiple-ClickOnce-deployment-packages-using-MSBuild-and-Team-City"
+permalink: /2009/11/03/Build-multiple-ClickOnce-deployment-packages-using-MSBuild-and-Team-City/
 date: 11/3/2009 5:10:52 PM
 updated: 11/3/2009 5:10:52 PM
 disqusIdentifier: 20091103051052

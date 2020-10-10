@@ -1,6 +1,6 @@
 ---
 title: "Installation of Ergotron LX Dual Side-by-Side Arm"
-permalink: "Installation-of-Ergotron-LX-Dual-Side-by-Side-Arm"
+permalink: /2010/09/16/Installation-of-Ergotron-LX-Dual-Side-by-Side-Arm/
 date: 9/16/2010 8:10:02 AM
 updated: 9/16/2010 8:10:02 AM
 disqusIdentifier: 20100916081002

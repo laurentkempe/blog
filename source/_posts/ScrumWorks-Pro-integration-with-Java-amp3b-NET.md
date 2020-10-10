@@ -1,6 +1,6 @@
 ---
 title: "ScrumWorks Pro integration with Java & .NET"
-permalink: "ScrumWorks-Pro-integration-with-Java-amp3b-NET"
+permalink: /2008/01/12/ScrumWorks-Pro-integration-with-Java-amp3b-NET/
 date: 1/12/2008 7:09:36 AM
 updated: 1/12/2008 7:09:36 AM
 disqusIdentifier: 20080112070936

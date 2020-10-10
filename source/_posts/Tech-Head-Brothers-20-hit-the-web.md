@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers 2.0 hit the web"
-permalink: "Tech-Head-Brothers-20-hit-the-web"
+permalink: /2006/09/26/Tech-Head-Brothers-20-hit-the-web/
 date: 9/26/2006 3:29:15 AM
 updated: 9/26/2006 3:29:15 AM
 disqusIdentifier: 20060926032915

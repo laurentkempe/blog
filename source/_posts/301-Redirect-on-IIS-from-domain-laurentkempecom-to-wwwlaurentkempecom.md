@@ -1,6 +1,6 @@
 ---
 title: "301 Redirect on IIS, from domain laurentkempe.com to www.laurentkempe.com"
-permalink: "301-Redirect-on-IIS-from-domain-laurentkempecom-to-wwwlaurentkempecom"
+permalink: /2010/04/23/301-Redirect-on-IIS-from-domain-laurentkempecom-to-wwwlaurentkempecom/
 date: 4/23/2010 5:46:08 PM
 updated: 4/23/2010 5:48:09 PM
 disqusIdentifier: 20100423054608

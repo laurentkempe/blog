@@ -1,6 +1,6 @@
 ---
 title: "f.lux Better lighting…for your computer"
-permalink: "flux-Better-lightinge280a6for-your-computer"
+permalink: /2010/05/21/flux-Better-lightinge280a6for-your-computer/
 date: 5/21/2010 5:59:54 AM
 updated: 5/21/2010 5:59:54 AM
 disqusIdentifier: 20100521055954

@@ -1,6 +1,6 @@
 ---
 title: "MVP Summit - Day 2"
-permalink: "MVP-Summit-Day-2"
+permalink: /2004/04/07/MVP-Summit-Day-2/
 date: 4/7/2004 4:35:00 PM
 updated: 4/7/2004 4:35:00 PM
 disqusIdentifier: 20040407043500

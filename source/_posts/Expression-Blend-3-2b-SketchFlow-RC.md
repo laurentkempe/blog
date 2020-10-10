@@ -1,6 +1,6 @@
 ---
 title: "Expression Blend 3 + SketchFlow RC"
-permalink: "Expression-Blend-3-2b-SketchFlow-RC"
+permalink: /2009/07/10/Expression-Blend-3-2b-SketchFlow-RC/
 date: 7/10/2009 7:33:01 AM
 updated: 7/10/2009 7:33:01 AM
 disqusIdentifier: 20090710073301

@@ -1,6 +1,6 @@
 ---
 title: "Exchange 2003 working :-)"
-permalink: "Exchange-2003-working-)"
+permalink: /2004/04/28/Exchange-2003-working-)/
 date: 4/28/2004 5:23:00 AM
 updated: 4/28/2004 5:23:00 AM
 disqusIdentifier: 20040428052300

@@ -1,6 +1,6 @@
 ---
 title: "Switcher 1.2 - Nice Vista Aero tool"
-permalink: "Switcher-12-Nice-Vista-Aero-tool"
+permalink: /2007/05/05/Switcher-12-Nice-Vista-Aero-tool/
 date: 5/5/2007 6:21:19 AM
 updated: 5/5/2007 6:21:19 AM
 disqusIdentifier: 20070505062119

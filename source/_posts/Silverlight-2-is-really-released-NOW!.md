@@ -1,6 +1,6 @@
 ---
 title: "Silverlight 2 is really released NOW!"
-permalink: "Silverlight-2-is-really-released-NOW!"
+permalink: /2008/10/14/Silverlight-2-is-really-released-NOW!/
 date: 10/14/2008 6:57:25 PM
 updated: 10/14/2008 6:57:25 PM
 disqusIdentifier: 20081014065725

@@ -1,6 +1,6 @@
 ---
 title: "InVirtus VM Optimizer 2.0 "
-permalink: "InVirtus-VM-Optimizer-20-"
+permalink: /2005/11/17/InVirtus-VM-Optimizer-20-/
 date: 11/17/2005 5:27:00 AM
 updated: 11/17/2005 5:27:00 AM
 disqusIdentifier: 20051117052700

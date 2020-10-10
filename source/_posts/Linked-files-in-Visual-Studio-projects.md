@@ -1,6 +1,6 @@
 ---
 title: "Linked files in Visual Studio projects"
-permalink: "Linked-files-in-Visual-Studio-projects"
+permalink: /2007/11/30/Linked-files-in-Visual-Studio-projects/
 date: 11/30/2007 4:10:00 AM
 updated: 11/30/2007 4:10:00 AM
 disqusIdentifier: 20071130041000

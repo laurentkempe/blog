@@ -1,6 +1,6 @@
 ---
 title: "IntelliJ 9 and changeset"
-permalink: "IntelliJ-9-and-changeset"
+permalink: /2010/05/07/IntelliJ-9-and-changeset/
 date: 5/7/2010 3:58:30 AM
 updated: 5/7/2010 3:58:30 AM
 disqusIdentifier: 20100507035830

@@ -1,6 +1,6 @@
 ---
 title: "100% Managed Wizard Framework from Patterns & Practices"
-permalink: "10025-Managed-Wizard-Framework-from-Patterns-amp3b-Practices"
+permalink: /2004/07/16/10025-Managed-Wizard-Framework-from-Patterns-amp3b-Practices/
 date: 7/16/2004 3:30:00 PM
 updated: 7/16/2004 3:30:00 PM
 disqusIdentifier: 20040716033000

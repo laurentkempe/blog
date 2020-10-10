@@ -1,6 +1,6 @@
 ---
 title: "Skype v1.0 is out"
-permalink: "Skype-v10-is-out"
+permalink: /2004/07/28/Skype-v10-is-out/
 date: 7/28/2004 6:12:00 AM
 updated: 7/28/2004 6:12:00 AM
 disqusIdentifier: 20040728061200

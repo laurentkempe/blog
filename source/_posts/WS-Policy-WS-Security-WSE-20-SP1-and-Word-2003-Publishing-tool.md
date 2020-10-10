@@ -1,6 +1,6 @@
 ---
 title: "WS-Policy, WS-Security, WSE 2.0 SP1 and Word 2003 Publishing tool"
-permalink: "WS-Policy-WS-Security-WSE-20-SP1-and-Word-2003-Publishing-tool"
+permalink: /2004/11/03/WS-Policy-WS-Security-WSE-20-SP1-and-Word-2003-Publishing-tool/
 date: 11/3/2004 1:13:00 PM
 updated: 11/3/2004 1:13:00 PM
 disqusIdentifier: 20041103011300

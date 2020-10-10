@@ -1,6 +1,6 @@
 ---
 title: "Using Thread.Sleep() in Unit Test! A good idea?"
-permalink: "Using-ThreadSleep-in-unit-test-A-good-idea"
+permalink: /2012/11/20/Using-ThreadSleep-in-unit-test-A-good-idea/
 date: 11/20/2012 7:57:00 PM
 updated: 11/20/2012 8:25:46 PM
 disqusIdentifier: 20121120075700

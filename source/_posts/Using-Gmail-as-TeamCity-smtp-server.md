@@ -1,6 +1,6 @@
 ---
 title: "Using Gmail as TeamCity smtp server"
-permalink: "Using-Gmail-as-TeamCity-smtp-server"
+permalink: /2010/06/01/Using-Gmail-as-TeamCity-smtp-server/
 date: 6/1/2010 6:57:29 AM
 updated: 9/17/2010 9:56:49 PM
 disqusIdentifier: 20100601065729

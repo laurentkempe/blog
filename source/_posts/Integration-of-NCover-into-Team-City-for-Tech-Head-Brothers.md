@@ -1,6 +1,6 @@
 ---
 title: "Integration of NCover into Team City for Tech Head Brothers"
-permalink: "Integration-of-NCover-into-Team-City-for-Tech-Head-Brothers"
+permalink: /2008/03/30/Integration-of-NCover-into-Team-City-for-Tech-Head-Brothers/
 date: 3/30/2008 7:10:28 AM
 updated: 4/28/2010 8:02:43 PM
 disqusIdentifier: 20080330071028

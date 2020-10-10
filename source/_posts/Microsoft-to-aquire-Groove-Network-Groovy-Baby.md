@@ -1,6 +1,6 @@
 ---
 title: "Microsoft to aquire Groove Network - Groovy Baby"
-permalink: "Microsoft-to-aquire-Groove-Network-Groovy-Baby"
+permalink: /2005/03/11/Microsoft-to-aquire-Groove-Network-Groovy-Baby/
 date: 3/11/2005 5:24:00 AM
 updated: 5/7/2010 7:45:46 AM
 disqusIdentifier: 20050311052400

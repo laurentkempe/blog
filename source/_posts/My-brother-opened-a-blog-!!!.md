@@ -1,6 +1,6 @@
 ---
 title: "My brother opened a blog !!!"
-permalink: "My-brother-opened-a-blog-!!!"
+permalink: /2005/01/26/My-brother-opened-a-blog-!!!/
 date: 1/26/2005 8:32:00 AM
 updated: 1/26/2005 8:32:00 AM
 disqusIdentifier: 20050126083200

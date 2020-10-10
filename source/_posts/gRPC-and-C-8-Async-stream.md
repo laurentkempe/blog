@@ -1,6 +1,6 @@
 ---
 title: 'gRPC and C# 8 Async stream'
-permalink: gRPC-and-csharp-8-Async-stream
+permalink: /2019/09/18/gRPC-and-csharp-8-Async-stream/
 disqusIdentifier: 20190918192300
 coverSize: partial
 tags:

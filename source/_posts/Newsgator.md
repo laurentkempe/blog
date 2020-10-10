@@ -1,6 +1,6 @@
 ---
 title: "Newsgator"
-permalink: "Newsgator"
+permalink: /2004/04/19/Newsgator/
 date: 4/19/2004 6:45:00 PM
 updated: 4/19/2004 6:45:00 PM
 disqusIdentifier: 20040419064500

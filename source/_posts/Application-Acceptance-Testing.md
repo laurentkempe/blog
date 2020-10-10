@@ -1,6 +1,6 @@
 ---
 title: "Application Acceptance Testing"
-permalink: "Application-Acceptance-Testing"
+permalink: /2010/07/15/Application-Acceptance-Testing/
 date: 7/15/2010 1:01:39 AM
 updated: 7/15/2010 1:01:39 AM
 disqusIdentifier: 20100715010139

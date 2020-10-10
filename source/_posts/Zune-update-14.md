@@ -1,6 +1,6 @@
 ---
 title: "Zune update 1.4"
-permalink: "Zune-update-14"
+permalink: /2007/06/02/Zune-update-14/
 date: 6/2/2007 8:59:35 PM
 updated: 6/2/2007 8:59:35 PM
 disqusIdentifier: 20070602085935

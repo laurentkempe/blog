@@ -1,6 +1,6 @@
 ---
 title: "Good luck Djibril"
-permalink: "Good-luck-Djibril"
+permalink: /2006/06/08/Good-luck-Djibril/
 date: 6/8/2006 7:30:00 AM
 updated: 6/8/2006 7:30:00 AM
 disqusIdentifier: 20060608073000

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Announces CodeZone!"
-permalink: "Microsoft-Announces-CodeZone!"
+permalink: /2005/03/30/Microsoft-Announces-CodeZone!/
 date: 3/30/2005 6:35:00 AM
 updated: 3/30/2005 6:35:00 AM
 disqusIdentifier: 20050330063500

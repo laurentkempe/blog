@@ -1,6 +1,6 @@
 ---
 title: "ASP.NET Development Server crash"
-permalink: "ASPNET-Development-Server-crash"
+permalink: /2006/08/03/ASPNET-Development-Server-crash/
 date: 8/3/2006 6:09:00 PM
 updated: 8/3/2006 6:09:00 PM
 disqusIdentifier: 20060803060900

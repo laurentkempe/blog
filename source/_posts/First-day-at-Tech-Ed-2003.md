@@ -1,6 +1,6 @@
 ---
 title: "First day at Tech Ed 2003"
-permalink: "First-day-at-Tech-Ed-2003"
+permalink: /2003/07/01/First-day-at-Tech-Ed-2003/
 date: 7/1/2003 7:23:00 PM
 updated: 7/1/2003 7:23:00 PM
 disqusIdentifier: 20030701072300

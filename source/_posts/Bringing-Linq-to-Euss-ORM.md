@@ -1,6 +1,6 @@
 ---
 title: "Bringing Linq to Euss ORM"
-permalink: "Bringing-Linq-to-Euss-ORM"
+permalink: /2008/05/16/Bringing-Linq-to-Euss-ORM/
 date: 5/16/2008 1:53:12 AM
 updated: 5/16/2008 1:53:12 AM
 disqusIdentifier: 20080516015312

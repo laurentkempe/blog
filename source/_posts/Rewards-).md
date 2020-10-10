@@ -1,6 +1,6 @@
 ---
 title: "Rewards :-)"
-permalink: "Rewards-)"
+permalink: /2004/07/22/Rewards-)/
 date: 7/22/2004 3:16:00 PM
 updated: 7/22/2004 3:16:00 PM
 disqusIdentifier: 20040722031600

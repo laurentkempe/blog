@@ -1,6 +1,6 @@
 ---
 title: "Jobping Open Source Short URLs Service"
-permalink: "Jobping-Open-Source-Short-URLs-Service"
+permalink: /2010/05/04/Jobping-Open-Source-Short-URLs-Service/
 date: 5/4/2010 5:16:30 AM
 updated: 5/4/2010 5:16:30 AM
 disqusIdentifier: 20100504051630

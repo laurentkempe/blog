@@ -1,6 +1,6 @@
 ---
 title: 'Automate developer work using Git Aliases'
-permalink: Automate-developer-work-using-Git-Aliases
+permalink: /2020/02/28/Automate-developer-work-using-Git-Aliases/
 coverSize: partial
 tags:
   - Git

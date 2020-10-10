@@ -1,6 +1,6 @@
 ---
 title: "Debugging VB6 in VS.NET 2003"
-permalink: "Debugging-VB6-in-VSNET-2003"
+permalink: /2004/11/10/Debugging-VB6-in-VSNET-2003/
 date: 11/10/2004 5:59:00 PM
 updated: 11/10/2004 5:59:00 PM
 disqusIdentifier: 20041110055900

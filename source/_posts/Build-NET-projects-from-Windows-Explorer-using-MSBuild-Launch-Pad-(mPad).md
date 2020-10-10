@@ -1,6 +1,6 @@
 ---
 title: "Build .NET projects from Windows Explorer using MSBuild Launch Pad (mPad)"
-permalink: "Build-NET-projects-from-Windows-Explorer-using-MSBuild-Launch-Pad-(mPad)"
+permalink: /2010/06/04/Build-NET-projects-from-Windows-Explorer-using-MSBuild-Launch-Pad-(mPad)/
 date: 6/4/2010 7:27:22 PM
 updated: 6/4/2010 7:27:22 PM
 disqusIdentifier: 20100604072722

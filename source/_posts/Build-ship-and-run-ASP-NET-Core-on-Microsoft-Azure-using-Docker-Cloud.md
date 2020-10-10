@@ -1,6 +1,6 @@
 ---
 title: 'Build, ship and run ASP.NET Core on Microsoft Azure using Docker Cloud'
-permalink: Build-ship-and-run-ASP-NET-Core-on-Microsoft-Azure-using-Docker-Cloud
+permalink: /2016/07/18/Build-ship-and-run-ASP-NET-Core-on-Microsoft-Azure-using-Docker-Cloud/
 date: 2016-07-18 19:04:21
 tags: ["ASP.NET Core", "Microsoft Azure", "Docker", "HipChat Connect"]
 disqusIdentifier: 20160718190421

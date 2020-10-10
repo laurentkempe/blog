@@ -1,6 +1,6 @@
 ---
 title: "sun flowers"
-permalink: "sun-flowers"
+permalink: /2004/07/14/sun-flowers/
 date: 7/14/2004 8:56:00 AM
 updated: 7/14/2004 8:56:00 AM
 disqusIdentifier: 20040714085600

@@ -1,6 +1,6 @@
 ---
 title: "How I restored my notebook after uninstalling issues of V2i from Symantec"
-permalink: "How-I-restored-my-notebook-after-uninstalling-issues-of-V2i-from-Symantec"
+permalink: /2004/07/08/How-I-restored-my-notebook-after-uninstalling-issues-of-V2i-from-Symantec/
 date: 7/8/2004 6:43:00 AM
 updated: 7/8/2004 6:43:00 AM
 disqusIdentifier: 20040708064300

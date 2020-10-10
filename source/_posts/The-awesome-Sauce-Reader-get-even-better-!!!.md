@@ -1,6 +1,6 @@
 ---
 title: "The awesome Sauce Reader get even better !!!"
-permalink: "The-awesome-Sauce-Reader-get-even-better-!!!"
+permalink: /2004/06/18/The-awesome-Sauce-Reader-get-even-better-!!!/
 date: 6/18/2004 7:00:00 PM
 updated: 6/18/2004 7:00:00 PM
 disqusIdentifier: 20040618070000

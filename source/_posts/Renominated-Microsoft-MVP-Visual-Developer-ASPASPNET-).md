@@ -1,6 +1,6 @@
 ---
 title: "Renominated Microsoft MVP Visual Developer - ASP/ASP.NET :-)"
-permalink: "Renominated-Microsoft-MVP-Visual-Developer-ASPASPNET-)"
+permalink: /2005/04/02/Renominated-Microsoft-MVP-Visual-Developer-ASPASPNET-)/
 date: 4/2/2005 4:29:00 PM
 updated: 4/2/2005 4:29:00 PM
 disqusIdentifier: 20050402042900

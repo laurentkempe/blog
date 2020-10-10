@@ -1,6 +1,6 @@
 ---
 title: "Improved my development workflow"
-permalink: "Improved-development-workflow"
+permalink: /2012/01/20/Improved-development-workflow/
 date: 1/20/2012 12:31:06 AM
 updated: 1/27/2012 4:45:39 AM
 disqusIdentifier: 20120120123106

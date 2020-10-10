@@ -1,6 +1,6 @@
 ---
 title: "Windows Media Player 11 Beta released"
-permalink: "Windows-Media-Player-11-Beta-released"
+permalink: /2006/05/18/Windows-Media-Player-11-Beta-released/
 date: 5/18/2006 6:13:00 AM
 updated: 5/18/2006 6:13:00 AM
 disqusIdentifier: 20060518061300

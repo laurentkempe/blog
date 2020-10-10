@@ -1,6 +1,6 @@
 ---
 title: "Beeing a speaker"
-permalink: "Beeing-a-speaker"
+permalink: /2005/05/22/Beeing-a-speaker/
 date: 5/22/2005 10:03:00 PM
 updated: 5/22/2005 10:03:00 PM
 disqusIdentifier: 20050522100300

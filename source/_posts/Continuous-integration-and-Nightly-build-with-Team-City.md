@@ -1,6 +1,6 @@
 ---
 title: "Continuous integration and Nightly build with Team City"
-permalink: "Continuous-integration-and-Nightly-build-with-Team-City"
+permalink: /2008/04/23/Continuous-integration-and-Nightly-build-with-Team-City/
 date: 4/23/2008 7:16:19 AM
 updated: 4/23/2008 7:16:19 AM
 disqusIdentifier: 20080423071619

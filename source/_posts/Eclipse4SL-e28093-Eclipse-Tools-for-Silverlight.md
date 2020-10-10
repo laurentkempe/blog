@@ -1,6 +1,6 @@
 ---
 title: "Eclipse4SL – Eclipse Tools for Silverlight"
-permalink: "Eclipse4SL-e28093-Eclipse-Tools-for-Silverlight"
+permalink: /2009/02/21/Eclipse4SL-e28093-Eclipse-Tools-for-Silverlight/
 date: 2/21/2009 5:54:16 PM
 updated: 2/21/2009 5:54:16 PM
 disqusIdentifier: 20090221055416

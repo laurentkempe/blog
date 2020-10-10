@@ -1,6 +1,6 @@
 ---
 title: "Just downloading/installing Silverlight 2.0 Beta 1"
-permalink: "Just-downloadinginstalling-Silverlight-20-Beta-1"
+permalink: /2008/03/06/Just-downloadinginstalling-Silverlight-20-Beta-1/
 date: 3/6/2008 5:04:32 AM
 updated: 3/6/2008 5:04:32 AM
 disqusIdentifier: 20080306050432

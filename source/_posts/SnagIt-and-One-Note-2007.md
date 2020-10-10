@@ -1,6 +1,6 @@
 ---
 title: "SnagIt and One Note 2007"
-permalink: "SnagIt-and-One-Note-2007"
+permalink: /2007/08/13/SnagIt-and-One-Note-2007/
 date: 8/13/2007 10:24:11 PM
 updated: 8/13/2007 10:24:11 PM
 disqusIdentifier: 20070813102411

@@ -1,6 +1,6 @@
 ---
 title: "JetBrains .NET Profiler Early Access Program (EAP) starts"
-permalink: "JetBrains-NET-Profiler-Early-Access-Program-(EAP)-starts"
+permalink: /2005/01/26/JetBrains-NET-Profiler-Early-Access-Program-(EAP)-starts/
 date: 1/26/2005 8:12:00 AM
 updated: 1/26/2005 8:12:00 AM
 disqusIdentifier: 20050126081200

@@ -1,6 +1,6 @@
 ---
 title: "Silverlight and file system loading"
-permalink: "Silverlight-and-file-system-loading"
+permalink: /2007/09/12/Silverlight-and-file-system-loading/
 date: 9/12/2007 8:04:51 AM
 updated: 9/12/2007 8:04:51 AM
 disqusIdentifier: 20070912080451

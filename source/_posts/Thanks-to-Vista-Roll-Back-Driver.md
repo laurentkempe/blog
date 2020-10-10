@@ -1,6 +1,6 @@
 ---
 title: "Thanks to Vista Roll Back Driver"
-permalink: "Thanks-to-Vista-Roll-Back-Driver"
+permalink: /2008/04/24/Thanks-to-Vista-Roll-Back-Driver/
 date: 4/24/2008 5:59:29 AM
 updated: 4/24/2008 5:59:29 AM
 disqusIdentifier: 20080424055929

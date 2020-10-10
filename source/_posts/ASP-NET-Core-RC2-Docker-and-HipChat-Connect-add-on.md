@@ -2,7 +2,7 @@
 title: 'ASP.NET Core RC2, Docker and HipChat Connect add-on'
 date: 2016-05-16 20:37:03
 tags: ["ASP.NET Core RC2", "Docker", "HipChat Connect"]
-permalink: ASP-NET-Core-RC2-Docker-and-HipChat-Connect-add-on
+permalink: /2016/05/16/ASP-NET-Core-RC2-Docker-and-HipChat-Connect-add-on/
 disqusIdentifier: 20160516203703
 coverSize: partial
 coverCaption: 'Anse caffard, Martinique'

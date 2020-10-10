@@ -1,6 +1,6 @@
 ---
 title: "Omea Reader Plugin first trial"
-permalink: "Omea-Reader-Plugin-first-trial"
+permalink: /2005/02/10/Omea-Reader-Plugin-first-trial/
 date: 2/10/2005 7:35:00 AM
 updated: 2/10/2005 7:35:00 AM
 disqusIdentifier: 20050210073500

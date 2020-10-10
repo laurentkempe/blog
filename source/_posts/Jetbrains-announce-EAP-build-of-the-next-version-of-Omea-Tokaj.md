@@ -1,6 +1,6 @@
 ---
 title: "Jetbrains announce EAP build of the next version of Omea : Tokaj"
-permalink: "Jetbrains-announce-EAP-build-of-the-next-version-of-Omea-Tokaj"
+permalink: /2005/02/11/Jetbrains-announce-EAP-build-of-the-next-version-of-Omea-Tokaj/
 date: 2/11/2005 5:07:00 AM
 updated: 2/11/2005 5:07:00 AM
 disqusIdentifier: 20050211050700

@@ -1,6 +1,6 @@
 ---
 title: "Team City 3.1 and NDepend 2.8 integration"
-permalink: "Team-City-31-and-NDepend-28-integration"
+permalink: /2008/04/09/Team-City-31-and-NDepend-28-integration/
 date: 4/9/2008 1:01:41 AM
 updated: 4/9/2008 1:01:41 AM
 disqusIdentifier: 20080409010141

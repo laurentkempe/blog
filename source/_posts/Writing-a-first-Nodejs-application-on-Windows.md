@@ -1,6 +1,6 @@
 ---
 title: "Writing a first Node.js application on Windows"
-permalink: "Writing-a-first-Nodejs-application-on-Windows"
+permalink: /2012/03/25/Writing-a-first-Nodejs-application-on-Windows/
 date: 3/25/2012 2:25:39 AM
 updated: 3/25/2012 2:53:32 AM
 disqusIdentifier: 20120325022539

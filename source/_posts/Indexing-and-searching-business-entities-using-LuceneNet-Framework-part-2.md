@@ -1,6 +1,6 @@
 ---
 title: "Indexing and searching business entities using Lucene.Net Framework, part 2"
-permalink: "Indexing-and-searching-business-entities-using-LuceneNet-Framework-part-2"
+permalink: /2008/03/07/Indexing-and-searching-business-entities-using-LuceneNet-Framework-part-2/
 date: 3/7/2008 6:16:32 PM
 updated: 3/7/2008 6:16:32 PM
 disqusIdentifier: 20080307061632

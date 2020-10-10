@@ -1,6 +1,6 @@
 ---
 title: "SkyDrive goes 1Gb"
-permalink: "SkyDrive-goes-1Gb"
+permalink: /2007/10/12/SkyDrive-goes-1Gb/
 date: 10/12/2007 8:36:05 PM
 updated: 10/12/2007 8:36:05 PM
 disqusIdentifier: 20071012083605

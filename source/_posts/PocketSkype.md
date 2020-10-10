@@ -1,6 +1,6 @@
 ---
 title: "PocketSkype"
-permalink: "PocketSkype"
+permalink: /2004/04/07/PocketSkype/
 date: 4/7/2004 3:45:00 PM
 updated: 4/7/2004 3:45:00 PM
 disqusIdentifier: 20040407034500

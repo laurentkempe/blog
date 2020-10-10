@@ -1,6 +1,6 @@
 ---
 title: "Windows Live Writer Plugins Collection - Release Cyclone available"
-permalink: "Windows-Live-Writer-Plugins-Collection-Release-Cyclone-available"
+permalink: /2006/09/05/Windows-Live-Writer-Plugins-Collection-Release-Cyclone-available/
 date: 9/5/2006 12:03:22 AM
 updated: 9/5/2006 12:03:22 AM
 disqusIdentifier: 20060905120322

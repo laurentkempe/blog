@@ -1,6 +1,6 @@
 ---
 title: "Groove 3.0 Beta"
-permalink: "Groove-30-Beta"
+permalink: /2004/03/17/Groove-30-Beta/
 date: 3/17/2004 6:41:00 AM
 updated: 3/17/2004 6:41:00 AM
 disqusIdentifier: 20040317064100

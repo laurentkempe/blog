@@ -1,6 +1,6 @@
 ---
 title: "Trying out Newsgator and .Text Publishing plugin"
-permalink: "Trying-out-Newsgator-and-Text-Publishing-plugin"
+permalink: /2004/04/16/Trying-out-Newsgator-and-Text-Publishing-plugin/
 date: 4/16/2004 6:22:00 PM
 updated: 4/16/2004 6:22:00 PM
 disqusIdentifier: 20040416062200

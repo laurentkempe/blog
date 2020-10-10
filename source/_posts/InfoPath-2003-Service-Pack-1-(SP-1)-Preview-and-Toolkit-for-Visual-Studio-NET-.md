@@ -1,6 +1,6 @@
 ---
 title: "InfoPath 2003 Service Pack 1 (SP-1) Preview and Toolkit for Visual Studio .NET "
-permalink: "InfoPath-2003-Service-Pack-1-(SP-1)-Preview-and-Toolkit-for-Visual-Studio-NET-"
+permalink: /2004/02/25/InfoPath-2003-Service-Pack-1-(SP-1)-Preview-and-Toolkit-for-Visual-Studio-NET-/
 date: 2/25/2004 7:36:00 AM
 updated: 2/25/2004 7:36:00 AM
 disqusIdentifier: 20040225073600

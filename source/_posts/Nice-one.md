@@ -1,6 +1,6 @@
 ---
 title: "Nice one"
-permalink: "Nice-one"
+permalink: /2005/12/10/Nice-one/
 date: 12/10/2005 10:04:00 AM
 updated: 12/10/2005 10:04:00 AM
 disqusIdentifier: 20051210100400

@@ -1,6 +1,6 @@
 ---
 title: "Silverlight 3 RTM Released"
-permalink: "Silverlight-3-RTM-Released"
+permalink: /2009/07/10/Silverlight-3-RTM-Released/
 date: 7/10/2009 7:27:09 AM
 updated: 7/10/2009 7:27:09 AM
 disqusIdentifier: 20090710072709

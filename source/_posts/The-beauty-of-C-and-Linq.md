@@ -1,6 +1,6 @@
 ---
 title: "The beauty of C# and Linq"
-permalink: "The-beauty-of-C-and-Linq"
+permalink: /2010/01/26/The-beauty-of-C-and-Linq/
 date: 1/26/2010 5:57:12 AM
 updated: 1/26/2010 5:57:12 AM
 disqusIdentifier: 20100126055712

@@ -1,6 +1,6 @@
 ---
 title: "The role of the developer today is about adding value to the business"
-permalink: "quot3bThe-role-of-the-developer-today-is-about-adding-value-to-the-businessquot3b"
+permalink: /2004/06/03/quot3bThe-role-of-the-developer-today-is-about-adding-value-to-the-businessquot3b/
 date: 6/3/2004 7:47:00 AM
 updated: 6/3/2004 7:47:00 AM
 disqusIdentifier: 20040603074700

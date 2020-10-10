@@ -1,6 +1,6 @@
 ---
 title: "Memory leak with WPF resources"
-permalink: "Memory-leak-with-WPF-resources"
+permalink: /2009/04/17/Memory-leak-with-WPF-resources/
 date: 4/17/2009 10:36:49 PM
 updated: 4/17/2009 10:36:49 PM
 disqusIdentifier: 20090417103649

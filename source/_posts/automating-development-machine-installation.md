@@ -1,6 +1,6 @@
 ---
 title: 'Automating my development machine installation'
-permalink: Automating-development-machine-installation
+permalink: /2018/06/01/Automating-development-machine-installation/
 disqusIdentifier: 20180601181512
 coverSize: partial
 tags:

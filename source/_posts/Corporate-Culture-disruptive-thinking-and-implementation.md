@@ -1,6 +1,6 @@
 ---
 title: "Corporate Culture, disruptive thinking and implementation"
-permalink: "Corporate-Culture-disruptive-thinking-and-implementation"
+permalink: /2010/07/29/Corporate-Culture-disruptive-thinking-and-implementation/
 date: 7/29/2010 5:27:59 PM
 updated: 7/29/2010 5:27:59 PM
 disqusIdentifier: 20100729052759

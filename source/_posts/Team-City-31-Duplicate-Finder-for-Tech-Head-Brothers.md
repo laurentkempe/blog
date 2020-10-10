@@ -1,6 +1,6 @@
 ---
 title: "Team City 3.1 Duplicate Finder for Tech Head Brothers"
-permalink: "Team-City-31-Duplicate-Finder-for-Tech-Head-Brothers"
+permalink: /2008/04/01/Team-City-31-Duplicate-Finder-for-Tech-Head-Brothers/
 date: 4/1/2008 6:04:49 AM
 updated: 4/1/2008 6:04:49 AM
 disqusIdentifier: 20080401060449

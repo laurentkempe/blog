@@ -1,6 +1,6 @@
 ---
 title: "MSDN Universal Subscribers get Expression Encoder for free"
-permalink: "MSDN-Universal-Subscribers-get-Expression-Encoder-for-free"
+permalink: /2007/09/06/MSDN-Universal-Subscribers-get-Expression-Encoder-for-free/
 date: 9/6/2007 6:00:14 PM
 updated: 5/7/2010 7:45:43 AM
 disqusIdentifier: 20070906060014

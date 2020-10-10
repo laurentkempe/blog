@@ -1,6 +1,6 @@
 ---
 title: "Updated my Live Template for NUnit in ReSharper"
-permalink: "Updated-my-Live-Template-for-NUnit-in-ReSharper"
+permalink: /2009/05/09/Updated-my-Live-Template-for-NUnit-in-ReSharper/
 date: 5/9/2009 4:59:33 PM
 updated: 5/9/2009 4:59:33 PM
 disqusIdentifier: 20090509045933

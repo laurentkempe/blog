@@ -1,6 +1,6 @@
 ---
 title: "ecenter solutions blog launched"
-permalink: "ecenter-solutions-blog-launched"
+permalink: /2006/09/20/ecenter-solutions-blog-launched/
 date: 9/20/2006 5:10:26 AM
 updated: 9/20/2006 5:10:26 AM
 disqusIdentifier: 20060920051026

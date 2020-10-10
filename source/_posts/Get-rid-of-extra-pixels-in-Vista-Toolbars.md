@@ -1,6 +1,6 @@
 ---
 title: "Get rid of extra pixels in Vista Toolbars"
-permalink: "Get-rid-of-extra-pixels-in-Vista-Toolbars"
+permalink: /2008/01/11/Get-rid-of-extra-pixels-in-Vista-Toolbars/
 date: 1/11/2008 10:49:18 PM
 updated: 1/11/2008 10:49:18 PM
 disqusIdentifier: 20080111104918

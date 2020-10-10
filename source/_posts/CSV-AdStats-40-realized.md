@@ -1,6 +1,6 @@
 ---
 title: "CSV AdStats 4.0 realized"
-permalink: "CSV-AdStats-40-realized"
+permalink: /2007/11/14/CSV-AdStats-40-realized/
 date: 11/14/2007 5:23:30 PM
 updated: 11/14/2007 5:23:30 PM
 disqusIdentifier: 20071114052330

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft opens Windows Desktop Search and new great possibilities"
-permalink: "Microsoft-opens-Windows-Desktop-Search-and-new-great-possibilities"
+permalink: /2005/07/01/Microsoft-opens-Windows-Desktop-Search-and-new-great-possibilities/
 date: 7/1/2005 4:46:00 PM
 updated: 7/1/2005 4:46:00 PM
 disqusIdentifier: 20050701044600

@@ -1,6 +1,6 @@
 ---
 title: "DevDays in Strasbourg"
-permalink: "DevDays-in-Strasbourg"
+permalink: /2004/03/18/DevDays-in-Strasbourg/
 date: 3/18/2004 3:49:00 AM
 updated: 3/18/2004 3:49:00 AM
 disqusIdentifier: 20040318034900

@@ -1,6 +1,6 @@
 ---
 title: "I solved my issue concerning the Addin registration in Visual Studio .NET 2003"
-permalink: "I-solved-my-issue-concerning-the-Addin-registration-in-Visual-Studio-NET-2003"
+permalink: /2004/06/06/I-solved-my-issue-concerning-the-Addin-registration-in-Visual-Studio-NET-2003/
 date: 6/6/2004 10:43:00 PM
 updated: 6/6/2004 10:43:00 PM
 disqusIdentifier: 20040606104300

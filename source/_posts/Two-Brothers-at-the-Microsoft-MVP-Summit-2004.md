@@ -1,6 +1,6 @@
 ---
 title: "Two Brothers at the Microsoft MVP Summit 2004"
-permalink: "Two-Brothers-at-the-Microsoft-MVP-Summit-2004"
+permalink: /2004/04/24/Two-Brothers-at-the-Microsoft-MVP-Summit-2004/
 date: 4/24/2004 9:09:00 AM
 updated: 4/24/2004 9:09:00 AM
 disqusIdentifier: 20040424090900

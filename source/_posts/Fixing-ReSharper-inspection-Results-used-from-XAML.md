@@ -1,6 +1,6 @@
 ---
 title: "Fixing ReSharper inspection Results used from XAML"
-permalink: "Fixing-ReSharper-inspection-Results-used-from-XAML"
+permalink: /2011/11/12/Fixing-ReSharper-inspection-Results-used-from-XAML/
 date: 11/12/2011 1:45:52 AM
 updated: 11/12/2011 2:52:24 AM
 disqusIdentifier: 20111112014552

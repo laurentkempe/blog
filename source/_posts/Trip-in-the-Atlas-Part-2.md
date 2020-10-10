@@ -1,6 +1,6 @@
 ---
 title: "Trip in the Atlas - Part 2"
-permalink: "Trip-in-the-Atlas-Part-2"
+permalink: /2006/06/13/Trip-in-the-Atlas-Part-2/
 date: 6/13/2006 6:38:00 AM
 updated: 6/13/2006 6:38:00 AM
 disqusIdentifier: 20060613063800

@@ -1,6 +1,6 @@
 ---
 title: "Wonderful Gadget from Aurelien"
-permalink: "Wonderful-Gadget-from-Aurelien"
+permalink: /2006/04/08/Wonderful-Gadget-from-Aurelien/
 date: 4/8/2006 5:21:00 AM
 updated: 4/8/2006 5:21:00 AM
 disqusIdentifier: 20060408052100

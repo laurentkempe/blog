@@ -1,6 +1,6 @@
 ---
 title: "Finally the new CTP April of the Open XML Format SDK is online"
-permalink: "Finally-the-new-CTP-April-of-the-Open-XML-Format-SDK-is-online"
+permalink: /2008/04/18/Finally-the-new-CTP-April-of-the-Open-XML-Format-SDK-is-online/
 date: 4/18/2008 7:19:33 AM
 updated: 4/18/2008 7:19:33 AM
 disqusIdentifier: 20080418071933

@@ -1,6 +1,6 @@
 ---
 title: "I always thought that journalist must be impartial"
-permalink: "I-always-thought-that-journalist-must-be-impartial"
+permalink: /2004/11/08/I-always-thought-that-journalist-must-be-impartial/
 date: 11/8/2004 7:15:00 AM
 updated: 11/8/2004 7:15:00 AM
 disqusIdentifier: 20041108071500

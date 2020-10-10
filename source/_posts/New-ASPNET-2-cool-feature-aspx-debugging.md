@@ -1,6 +1,6 @@
 ---
 title: "New ASP.NET 2 cool feature : aspx debugging"
-permalink: "New-ASPNET-2-cool-feature-aspx-debugging"
+permalink: /2005/02/28/New-ASPNET-2-cool-feature-aspx-debugging/
 date: 2/28/2005 7:57:00 AM
 updated: 2/28/2005 7:57:00 AM
 disqusIdentifier: 20050228075700

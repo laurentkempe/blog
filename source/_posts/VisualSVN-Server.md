@@ -1,6 +1,6 @@
 ---
 title: "VisualSVN Server"
-permalink: "VisualSVN-Server"
+permalink: /2007/11/16/VisualSVN-Server/
 date: 11/16/2007 4:03:57 PM
 updated: 11/16/2007 4:03:57 PM
 disqusIdentifier: 20071116040357

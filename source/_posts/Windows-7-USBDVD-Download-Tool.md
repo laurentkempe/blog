@@ -1,6 +1,6 @@
 ---
 title: "Windows 7 USB/DVD Download Tool"
-permalink: "Windows-7-USBDVD-Download-Tool"
+permalink: /2010/08/27/Windows-7-USBDVD-Download-Tool/
 date: 8/27/2010 9:18:30 AM
 updated: 8/27/2010 9:19:47 AM
 disqusIdentifier: 20100827091830

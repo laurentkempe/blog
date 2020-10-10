@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Skye Editor using JetBrains dotTrace"
-permalink: "Optimization-using-JetBrains-dotTrace"
+permalink: /2012/12/07/Optimization-using-JetBrains-dotTrace/
 date: 12/7/2012 1:55:00 PM
 updated: 12/7/2012 11:07:27 PM
 disqusIdentifier: 20121207015500

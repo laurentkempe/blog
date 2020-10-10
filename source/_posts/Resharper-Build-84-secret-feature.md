@@ -1,6 +1,6 @@
 ---
 title: "Resharper Build 84 secret feature"
-permalink: "Resharper-Build-84-secret-feature"
+permalink: /2004/06/08/Resharper-Build-84-secret-feature/
 date: 6/8/2004 5:57:00 AM
 updated: 6/8/2004 5:57:00 AM
 disqusIdentifier: 20040608055700

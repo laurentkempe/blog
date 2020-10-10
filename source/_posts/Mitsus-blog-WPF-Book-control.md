@@ -1,6 +1,6 @@
 ---
 title: "Mitsu's blog : WPF Book control"
-permalink: "Mitsus-blog-WPF-Book-control"
+permalink: /2007/04/19/Mitsus-blog-WPF-Book-control/
 date: 4/19/2007 1:47:28 AM
 updated: 4/19/2007 1:47:28 AM
 disqusIdentifier: 20070419014728

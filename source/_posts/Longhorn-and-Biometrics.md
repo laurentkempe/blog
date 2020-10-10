@@ -1,6 +1,6 @@
 ---
 title: "Longhorn and Biometrics"
-permalink: "Longhorn-and-Biometrics"
+permalink: /2004/03/12/Longhorn-and-Biometrics/
 date: 3/12/2004 4:12:00 AM
 updated: 3/12/2004 4:12:00 AM
 disqusIdentifier: 20040312041200

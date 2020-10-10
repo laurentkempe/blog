@@ -1,6 +1,6 @@
 ---
 title: "Groove 3.1a on a Windows 2003 Server"
-permalink: "Groove-31a-on-a-Windows-2003-Server"
+permalink: /2005/05/04/Groove-31a-on-a-Windows-2003-Server/
 date: 5/4/2005 4:55:00 AM
 updated: 5/4/2005 4:55:00 AM
 disqusIdentifier: 20050504045500

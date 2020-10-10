@@ -1,6 +1,6 @@
 ---
 title: "THE mp3 editor : TagScanner from X Development"
-permalink: "THE-mp3-editor-TagScanner-from-X-Development"
+permalink: /2005/01/27/THE-mp3-editor-TagScanner-from-X-Development/
 date: 1/27/2005 6:58:00 AM
 updated: 1/27/2005 6:58:00 AM
 disqusIdentifier: 20050127065800

@@ -1,6 +1,6 @@
 ---
 title: "My new HP notebook"
-permalink: "My-new-HP-notebook"
+permalink: /2003/09/09/My-new-HP-notebook/
 date: 9/9/2003 6:21:00 AM
 updated: 9/9/2003 6:21:00 AM
 disqusIdentifier: 20030909062100

@@ -1,6 +1,6 @@
 ---
 title: "Windows 2003 Standard Server rebooting in loop"
-permalink: "Windows-2003-Standard-Server-rebooting-in-loop"
+permalink: /2004/05/14/Windows-2003-Standard-Server-rebooting-in-loop/
 date: 5/14/2004 4:58:00 AM
 updated: 5/14/2004 4:58:00 AM
 disqusIdentifier: 20040514045800

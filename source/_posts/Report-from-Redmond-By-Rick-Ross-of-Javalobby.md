@@ -1,6 +1,6 @@
 ---
 title: "Report from Redmond - By Rick Ross of Javalobby"
-permalink: "Report-from-Redmond-By-Rick-Ross-of-Javalobby"
+permalink: /2005/03/28/Report-from-Redmond-By-Rick-Ross-of-Javalobby/
 date: 3/28/2005 7:01:00 AM
 updated: 3/28/2005 7:01:00 AM
 disqusIdentifier: 20050328070100

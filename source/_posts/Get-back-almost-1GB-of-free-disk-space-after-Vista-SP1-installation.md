@@ -1,6 +1,6 @@
 ---
 title: "Get back almost 1GB of free disk space after Vista SP1 installation"
-permalink: "Get-back-almost-1GB-of-free-disk-space-after-Vista-SP1-installation"
+permalink: /2008/04/06/Get-back-almost-1GB-of-free-disk-space-after-Vista-SP1-installation/
 date: 4/6/2008 7:32:29 PM
 updated: 5/7/2010 7:45:45 AM
 disqusIdentifier: 20080406073229

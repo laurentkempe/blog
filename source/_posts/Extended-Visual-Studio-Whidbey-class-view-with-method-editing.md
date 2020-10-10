@@ -1,6 +1,6 @@
 ---
 title: "Extended Visual Studio Whidbey class view with method editing"
-permalink: "Extended-Visual-Studio-Whidbey-class-view-with-method-editing"
+permalink: /2004/05/24/Extended-Visual-Studio-Whidbey-class-view-with-method-editing/
 date: 5/24/2004 8:40:00 PM
 updated: 5/24/2004 8:40:00 PM
 disqusIdentifier: 20040524084000

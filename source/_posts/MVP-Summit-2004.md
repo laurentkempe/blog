@@ -1,6 +1,6 @@
 ---
 title: "MVP Summit 2004"
-permalink: "MVP-Summit-2004"
+permalink: /2004/04/01/MVP-Summit-2004/
 date: 4/1/2004 6:00:00 AM
 updated: 4/1/2004 6:00:00 AM
 disqusIdentifier: 20040401060000

@@ -1,6 +1,6 @@
 ---
 title: "My birthday...."
-permalink: "My-birthday"
+permalink: /2003/11/25/My-birthday/
 date: 11/25/2003 10:54:00 PM
 updated: 11/25/2003 10:54:00 PM
 disqusIdentifier: 20031125105400

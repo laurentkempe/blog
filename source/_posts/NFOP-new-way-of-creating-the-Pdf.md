@@ -1,6 +1,6 @@
 ---
 title: "NFOP new way of creating the Pdf"
-permalink: "NFOP-new-way-of-creating-the-Pdf"
+permalink: /2005/03/18/NFOP-new-way-of-creating-the-Pdf/
 date: 3/18/2005 3:26:00 AM
 updated: 3/18/2005 3:26:00 AM
 disqusIdentifier: 20050318032600

@@ -1,6 +1,6 @@
 ---
 title: Free HTTPS certificates for Docker containers running ASP.NET Core RC2 on Microsoft Azure
-permalink: Free-HTTPS-certificates-for-Docker-containers-running-ASPNET-Core-RC2-on-Microsoft-Azure
+permalink: /2016/06/20/Free-HTTPS-certificates-for-Docker-containers-running-ASPNET-Core-RC2-on-Microsoft-Azure/
 date: 2016-06-20 19:51:30
 tags: ["Microsoft Azure", "Docker", "ASP.NET Core RC2", "HipChat Connect"]
 disqusIdentifier: 20160620195130

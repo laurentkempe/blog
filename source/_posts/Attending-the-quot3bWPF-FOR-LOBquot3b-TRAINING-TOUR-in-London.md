@@ -1,6 +1,6 @@
 ---
 title: "Attending the WPF FOR LOB TRAINING TOUR in London"
-permalink: "Attending-the-quot3bWPF-FOR-LOBquot3b-TRAINING-TOUR-in-London"
+permalink: /2009/04/17/Attending-the-quot3bWPF-FOR-LOBquot3b-TRAINING-TOUR-in-London/
 date: 4/17/2009 6:29:52 AM
 updated: 1/25/2012 7:27:50 AM
 disqusIdentifier: 20090417062952

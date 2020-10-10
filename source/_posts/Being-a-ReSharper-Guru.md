@@ -1,6 +1,6 @@
 ---
 title: "Being a ReSharper Guru"
-permalink: "Being-a-ReSharper-Guru"
+permalink: /2005/05/03/Being-a-ReSharper-Guru/
 date: 5/3/2005 2:32:00 AM
 updated: 5/3/2005 2:32:00 AM
 disqusIdentifier: 20050503023200

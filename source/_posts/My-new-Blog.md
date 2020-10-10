@@ -1,6 +1,6 @@
 ---
 title: "My new Blog"
-permalink: "My-new-Blog"
+permalink: /2010/04/03/My-new-Blog/
 date: 4/3/2010 3:16:57 AM
 updated: 4/28/2010 8:00:57 PM
 disqusIdentifier: 20100403031657

@@ -1,6 +1,6 @@
 ---
 title: "Optimizing release build process using JetBrains TeamCity and Atlassian Stash"
-permalink: "Optimizing-release-build-process-using-JetBrains-TeamCity-and-Atlassian-Stash"
+permalink: /2013/10/17/Optimizing-release-build-process-using-JetBrains-TeamCity-and-Atlassian-Stash/
 date: 10/17/2013 7:34:14 PM
 updated: 10/17/2013 9:55:36 PM
 disqusIdentifier: 20131017073414

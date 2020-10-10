@@ -1,6 +1,6 @@
 ---
 title: "IE7Pro 1.1 released"
-permalink: "IE7Pro-11-released"
+permalink: /2007/09/12/IE7Pro-11-released/
 date: 9/12/2007 4:47:57 PM
 updated: 9/12/2007 4:47:57 PM
 disqusIdentifier: 20070912044757

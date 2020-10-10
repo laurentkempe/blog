@@ -1,6 +1,6 @@
 ---
 title: "Tech Head Brothers Authoring Tool - Part 1 Video"
-permalink: "Tech-Head-Brothers-Authoring-Tool-Part-1-Video"
+permalink: /2006/07/18/Tech-Head-Brothers-Authoring-Tool-Part-1-Video/
 date: 7/18/2006 7:16:00 AM
 updated: 7/18/2006 7:16:00 AM
 disqusIdentifier: 20060718071600

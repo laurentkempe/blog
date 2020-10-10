@@ -1,6 +1,6 @@
 ---
 title: "New milestone reached  in Tech Head Brothers publishing tool"
-permalink: "New-milestone-reached-in-Tech-Head-Brothers-publishing-tool"
+permalink: /2006/04/10/New-milestone-reached-in-Tech-Head-Brothers-publishing-tool/
 date: 4/10/2006 6:46:00 AM
 updated: 4/10/2006 6:46:00 AM
 disqusIdentifier: 20060410064600

@@ -1,6 +1,6 @@
 ---
 title: "What were you developing 10 years ago ?"
-permalink: "What-were-you-developing-10-years-ago-"
+permalink: /2007/09/15/What-were-you-developing-10-years-ago-/
 date: 9/15/2007 7:49:34 AM
 updated: 9/15/2007 7:49:34 AM
 disqusIdentifier: 20070915074934

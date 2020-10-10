@@ -1,6 +1,6 @@
 ---
 title: "Windows Media Player Currently Playing Plugin for Windows Live Writer"
-permalink: "Windows-Media-Player-Currently-Playing-Plugin-for-Windows-Live-Writer"
+permalink: /2006/08/17/Windows-Media-Player-Currently-Playing-Plugin-for-Windows-Live-Writer/
 date: 8/17/2006 6:35:45 AM
 updated: 8/17/2006 6:35:45 AM
 disqusIdentifier: 20060817063545

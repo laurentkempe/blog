@@ -1,6 +1,6 @@
 ---
 title: "Jobping Open Source URL Shortener. Goes to Version 0.5"
-permalink: "Jobping-Open-Source-URL-Shortener-Goes-to-Version-05"
+permalink: /2010/05/14/Jobping-Open-Source-URL-Shortener-Goes-to-Version-05/
 date: 5/14/2010 1:38:56 AM
 updated: 5/14/2010 11:01:03 AM
 disqusIdentifier: 20100514013856

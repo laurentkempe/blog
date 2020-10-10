@@ -1,6 +1,6 @@
 ---
 title: "Camtasia 5 is released"
-permalink: "Camtasia-5-is-released"
+permalink: /2007/10/18/Camtasia-5-is-released/
 date: 10/18/2007 7:01:50 AM
 updated: 10/18/2007 7:01:50 AM
 disqusIdentifier: 20071018070150

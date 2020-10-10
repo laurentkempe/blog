@@ -1,6 +1,6 @@
 ---
 title: "Meet us at the PDC 2008"
-permalink: "Meet-us-at-the-PDC-2008"
+permalink: /2008/09/07/Meet-us-at-the-PDC-2008/
 date: 9/7/2008 5:37:58 PM
 updated: 9/7/2008 5:37:58 PM
 disqusIdentifier: 20080907053758

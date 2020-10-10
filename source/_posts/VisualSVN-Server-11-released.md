@@ -1,6 +1,6 @@
 ---
 title: "VisualSVN Server 1.1 released"
-permalink: "VisualSVN-Server-11-released"
+permalink: /2008/03/30/VisualSVN-Server-11-released/
 date: 3/30/2008 6:37:00 AM
 updated: 3/30/2008 6:37:00 AM
 disqusIdentifier: 20080330063700

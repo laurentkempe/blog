@@ -1,6 +1,6 @@
 ---
 title: "DevDays 2004"
-permalink: "DevDays-2004"
+permalink: /2004/03/18/DevDays-2004/
 date: 3/18/2004 6:06:00 PM
 updated: 3/18/2004 6:06:00 PM
 disqusIdentifier: 20040318060600

@@ -1,6 +1,6 @@
 ---
 title: "Workshop with Gordon Simpson, BEA's deputy CTO"
-permalink: "Workshop-with-Gordon-Simpson-BEAs-deputy-CTO"
+permalink: /2004/05/08/Workshop-with-Gordon-Simpson-BEAs-deputy-CTO/
 date: 5/8/2004 10:44:00 PM
 updated: 5/8/2004 10:44:00 PM
 disqusIdentifier: 20040508104400

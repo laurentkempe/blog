@@ -1,6 +1,6 @@
 ---
 title: "And now ASP.NET MVC Beta is here!"
-permalink: "And-now-ASPNET-MVC-Beta-is-here!"
+permalink: /2008/10/16/And-now-ASPNET-MVC-Beta-is-here!/
 date: 10/16/2008 8:25:11 PM
 updated: 10/16/2008 8:25:11 PM
 disqusIdentifier: 20081016082511
