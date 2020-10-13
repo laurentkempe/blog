@@ -1,6 +1,6 @@
 ---
 title: '{{ title }}'
-permalink: "Moving-to-Cake-CSharp-Make"
+permalink: {{ date }}/{{ title }}/ # Adapt to /year/month:00/day:00/title/
 date: {{ date }}
 disqusIdentifier: {{ date }} <!-- Remove space to have e.g. 20160405174628 -->
 coverSize: partial

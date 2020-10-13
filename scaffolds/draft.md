@@ -1,6 +1,6 @@
 ---
 title: '{{ title }}'
-permalink: {{ title }}
+permalink: {{ date }}/{{ title }}/ # Adapt to /year/month:00/day:00/title/
 date: {{ date }}
 disqusIdentifier: {{ date }}
 coverSize: partial
