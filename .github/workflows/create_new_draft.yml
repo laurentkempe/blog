@@ -24,9 +24,10 @@ jobs:
         cd ../..
         npx hexo new draft '${{ github.event.inputs.draftTitle }}'
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        author_email: ${{ secrets.AUTHOR_EMAIL }}
-        author_name: 'Laurent Kempé'
-        message: 'Add draft ${{ github.event.inputs.draftTitle }}'
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: Add draft ${{ github.event.inputs.draftTitle }}
+        commit_user_name: Laurent Kempé
+        commit_user_email: ${{ secrets.AUTHOR_EMAIL }}
+        file_pattern: source/_drafts/*.md
+ 
