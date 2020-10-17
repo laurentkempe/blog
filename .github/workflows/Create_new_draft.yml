@@ -18,4 +18,8 @@ jobs:
       run: |
         npm i hexo
         npm install
+        cd ./themes/tranquilpeak/
+        npm install
+        npm run prod
+        cd ../..
         npx hexo new draft '${{ github.event.inputs.draftTitle }}'
