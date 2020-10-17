@@ -1,0 +1,21 @@
+name: Create new draft
+
+on:
+  workflow_dispatch:
+    inputs:
+      draftTitle:
+        description: 'Draft title'
+        required: true
+        default: 'Draft title'
+
+jobs:
+  createDraft:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate
+      run: |
+        npm i hexo
+        npm install
+        npx hexo new draft '${{ github.event.inputs.draftTitle }}'
