@@ -2,6 +2,9 @@ name: CI
 
 on: 
   push:
+    paths-ignore:
+      - 'source/_drafts/**'
+      - 'scaffolds/**'
     branches: 
       - master
 
