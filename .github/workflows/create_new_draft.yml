@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Generate
+    - name: Create draft 📃
       run: |
         npm i hexo
         npm install
@@ -23,3 +23,10 @@ jobs:
         npm run prod
         cd ../..
         npx hexo new draft '${{ github.event.inputs.draftTitle }}'
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        author_email: ${{ secrets.AUTHOR_EMAIL }}
+        author_name: 'Laurent Kempé'
+        message: 'Add draft ${{ github.event.inputs.draftTitle }}'
+        github_token: ${{ secrets.GITHUB_TOKEN }}
