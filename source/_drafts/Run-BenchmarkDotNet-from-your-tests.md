@@ -20,8 +20,6 @@ The issue is that the test assemblies are not executables and
 
 I leveraged the possibility to have 
 
-{% plyr LmG9eIGuELo %}
-
 # TODO
 
   <PropertyGroup>
