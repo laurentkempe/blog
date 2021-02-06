@@ -1,9 +1,7 @@
 ---
 title: Git fixup from command line and Rider
 permalink: '2021/01/16/Git fixup from command line and Rider/'
-tags:
-  - Git
-  - Rider
+tags: Git, Rider
 date: 2021-01-16 11:37:20
 disqusIdentifier: 20210116113720
 ---

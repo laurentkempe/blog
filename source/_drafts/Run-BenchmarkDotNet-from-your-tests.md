@@ -2,9 +2,7 @@
 title: Run BenchmarkDotNet from your test assembly
 permalink: '2020/11/07Run BenchmarkDotNet from your tests/'
 coverSize: partial
-tags:
-  - .NET Core
-  - .NET
+tags: .NET Core, .NET
 coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
 coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
 thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
