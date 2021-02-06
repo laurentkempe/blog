@@ -15,7 +15,27 @@ nodejs 12.13.1 installed
 
     git clone https://github.com/laurentkempe/blog.git
     cd blog
-    .\start.ps1 "Title of a new page"
+    .\start.ps1
+
+### Start local server
+
+    dotnet run server 
+
+### Start local server with draft
+
+    dotnet run server -d
+
+### Create draft
+
+    dotnet run new 'title' 
+
+### See drafts
+
+    dotnet run drafts
+
+### Publish draft
+
+    dotnet run publish <filename>
 
 ## How to update Hexo
 
