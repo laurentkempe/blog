@@ -4,6 +4,11 @@ permalink: "/presentations"
 updated: 2/8/2020 8:23:02 PM
 ---
 
+# How Innoveo Skye Business Canvas is built - CI From The Trenches #8
+Apr 22, 2021
+
+{% youtube Xvjiujn08vo %}
+
 # [Github Codespaces](https://laurentkempe.com/presentations/Github%20Codespaces/#/)
 Sep 30, 2020
 
@@ -27,3 +32,6 @@ Mar 13, 2020
 
 # [Automate Dev work using Git aliases](https://laurentkempe.com/presentations/Automate%20Dev%20work%20using%20Git%20aliases/index.html#/)
 Jan 23, 2020
+
+Video presentation, in French, during DevApps S03 Ep10 online meetup from Mar 24, 2021, [presentation starting at 1:46](https://youtu.be/uw0rEcoZuzk?t=106)
+{% youtube uw0rEcoZuzk %}
