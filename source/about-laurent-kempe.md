@@ -19,5 +19,6 @@ Like [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin), which dis
 I was the editor, founder, and primary contributor of Tech Head Brothers, a French portal about Microsoft .NET technologies, which I ran for almost 14 years!  
 
 Microsoft awarded me from Avril 2002 to April 2012: [Most Valuable Professional (MVP)](https://mvp.microsoft.com/en-us/PublicProfile/7749?fullName=Laurent%20%20Kemp%C3%A9)
+And since August 2021, I got awarded again 😎!
 
 I finally founded and managed two startups with my brother Mathieu and some friends; Jobping and WorkPlaces.
