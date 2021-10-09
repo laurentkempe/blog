@@ -2,7 +2,7 @@
 title: Mixing multiple .NET Hosts in one application
 permalink: '2020/10/13/Mixing-multiple-dotNET-Hosts-in-one-application/'
 coverSize: partial
-tags: ASP.NET Core, WPF,.NET Generic Host
+tags: [ASP.NET Core, WPF,.NET Generic Host]
 coverCaption: 'Lomont, France'
 coverImage: 'https://live.staticflickr.com/65535/40799340353_d89917ebf5_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/65535/40799340353_eb76ac9065_q.jpg'

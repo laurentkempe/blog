@@ -7,15 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b518ad34-07d2-4f55-b6c9-13ce112137be" name="Default Changelist" comment="">
+    <list default="true" id="b518ad34-07d2-4f55-b6c9-13ce112137be" name="Default Changelist" comment="Update README.md with new BlogOps commands">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlogOps.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlogOps.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlogOps.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlogOps.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commands/Blog/BlogUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/Blog/BlogUtils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Commands/DraftsCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/DraftsCommand.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_drafts/Blazor-WebAssembly-on-Github-Pages.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/Blazor-WebAssembly-on-Github-Pages.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_drafts/Git-fixup-from-command-line-and-Rider.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/Git-fixup-from-command-line-and-Rider.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_drafts/Mixing-multiple-NET-Hosts-in-one-application.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/Mixing-multiple-NET-Hosts-in-one-application.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_drafts/ReSharper-Command-Line-Tools-and-Git-pre-commit-hook.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/ReSharper-Command-Line-Tools-and-Git-pre-commit-hook.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_drafts/Run-BenchmarkDotNet-from-your-tests.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_drafts/Run-BenchmarkDotNet-from-your-tests.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tranquilpeak/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tranquilpeak/layout/_partial/head.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tranquilpeak/layout/_partial/script.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tranquilpeak/layout/_partial/script.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tranquilpeak/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tranquilpeak/package-lock.json" afterDir="false" />
@@ -36,9 +34,17 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/647FAEDF-A0C0-4C01-B79E-04471FFD80DF/233/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Commands/DraftsCommand.cs" />
+      <option value="$PROJECT_DIR$/source/_drafts/ASP.NET-Core-3.0-and-Gatsby.md" />
+      <option value="$PROJECT_DIR$/source/_drafts/Blazor-WebAssembly-on-Github-Pages.md" />
+      <option value="$PROJECT_DIR$/source/_drafts/ReSharper-Command-Line-Tools-and-Git-pre-commit-hook.md" />
+      <option value="$PROJECT_DIR$/source/_drafts/Mixing-multiple-NET-Hosts-in-one-application.md" />
+      <option value="$PROJECT_DIR$/README.md" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1o4zLIUQoX838tN9PUbURvqZsJ3" />
@@ -105,33 +111,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612560593239</updated>
-      <workItem from="1612560597095" duration="876000" />
+      <workItem from="1612560597095" duration="2138000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix drafts formatting">
+      <created>1612604805636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612604805636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add .idea settings folder">
+      <created>1612604826539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612604826539</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update README.md with new BlogOps commands">
+      <created>1612605131003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612605131003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Commands/DraftsCommand.cs</url>
-          <line>27</line>
-          <properties documentPath="C:\Users\laure\projects\blog\Commands\DraftsCommand.cs" initialLine="25" containingFunctionPresentation="method 'ExecuteAsync'">
-            <startOffsets>
-              <option value="858" />
-            </startOffsets>
-            <endOffsets>
-              <option value="925" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Fix drafts formatting" />
+    <MESSAGE value="Add .idea settings folder" />
+    <MESSAGE value="Update README.md with new BlogOps commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md with new BlogOps commands" />
   </component>
 </project>

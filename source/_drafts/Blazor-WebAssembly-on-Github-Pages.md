@@ -2,7 +2,7 @@
 title: 'Blazor WebAssembly on Github Pages'
 permalink: '2020/10/16/Blazor-WebAssembly-on-Github-Pages'
 coverSize: partial
-tags: Blazor, WebAssembly, Github Actions, Github Pages
+tags: [Blazor, WebAssembly, Github Actions, Github Pages]
 coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
 coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
 thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'

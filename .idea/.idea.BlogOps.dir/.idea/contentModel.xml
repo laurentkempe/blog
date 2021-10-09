@@ -16,6 +16,7 @@
           <e p="BlogUtils.cs" t="Include" />
         </e>
         <e p="DraftsCommand.cs" t="Include" />
+        <e p="EditCommand.cs" t="Include" />
         <e p="NewCommand.cs" t="Include" />
         <e p="PublishCommand.cs" t="Include" />
         <e p="ServerCommand.cs" t="Include" />

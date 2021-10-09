@@ -3,7 +3,7 @@ title: 'ReSharper Command Line Tools and Git pre-commit hook'
 permalink: '2017/10/01/ReSharper-Command-Line-Tools-and-Git-pre-commit-hook'
 disqusIdentifier: '2017-10-01 07:34:59 <!-- Remove space to have e.g. 20160405174628 -->'
 coverSize: partial
-tags: ReSharper, Git
+tags: [ReSharper, Git]
 coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
 coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
 thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
