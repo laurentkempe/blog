@@ -1,10 +1,10 @@
 ---
 title: 'Automate your .NET project builds with NUKE a cross-platform build automation solution'
-permalink: /2022/01/30/automate-your-dotnet-project-builds-with-nuke/
-date: 1/30/2022 9:46:26 AM
-disqusIdentifier: 20220130094626
+permalink: /2022/02/02/automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution/
+date: 02/02/2022 21:26:31
+disqusIdentifier: 20220202092631
 coverSize: partial
-tags: [.NET, C#, Build automation, NUKE]
+tags: [.NET, C#, Build, NUKE]
 coverCaption: 'Bastia, Corse, France'
 coverImage: 'https://live.staticflickr.com/65535/51852266955_978cbb4ee8_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/65535/51852266955_c9c796318e_q.jpg'
@@ -228,14 +228,13 @@ Press f key to see the presentation full screen, or [navigate to it](https://lau
 
 # NUKE presentation video (French)
 
-For French speaking people, join us for remote [DevApps meetup](https://devapps.ms/meetup) each Wednesday late afternoon for a bit of fun. Here is the recording of the meetup about NUKE.
+For French speaking people, join us for remote [DevApps meetup](https://devapps.ms/meetup) each Wednesday late afternoon for a bit of fun. Here is the recording of the meetup about NUKE from 2.2.2022.
 
-[TODO UPDATE VIDEO URL]
 <p></p>
-{% youtube Xvjiujn08vo %}
+{% youtube o0XLGRObd4E %}
 
 # Code
 
-You can find all the code used in this blog post on the following repository
+You can find all the code used in this blog post and for the meetup on the following repository
 
 {% githubCard user:laurentkempe repo:NukeBuildAutomation align:left %}
