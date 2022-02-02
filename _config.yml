@@ -77,16 +77,9 @@ deploy:
 
 # hexo-generator-feed
 ## Docs: https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md#installation
-config:
-  title: "Laurent Kempé 😀"
-
 feed:
-  type:
-    - atom
-    - rss2
-  path:
-    - atom.xml
-    - rss2.xml
+  type: atom
+  path: atom.xml
   limit: 20
   content:
   content_limit: 100
