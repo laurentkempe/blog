@@ -44,8 +44,6 @@ It needed some new learnings but went straightforward without a big surprise. On
 
 So, I had it running quite fast after starting the port, but with the mess. The next step was to refactor the whole. I wrote before it is a C# project. So I was in my comfort zone with all my refactoring tools in Rider. Again, this was super fast.
 
-Something I liked was the easy CLI Tools interaction with Fluent API with almost all the tools we are using already integrated, except one NDepend. 
-
 I liked the easy CLI Tools interaction with Fluent API with almost all the tools we are using already integrated, except one NDepend. And that integration was also made simple. The only thing I had trouble with and needed some help with was that NDepend exited with an error code. We are breaking some NDepend rules. There is no way to change that. And NUKE then handled that as a build failure. Nothing wrong from the point of view of NDepend and NUKE. But, when you use tools like NDepend you cannot fix all the reported problems in one go. So, you often start by putting a rule that you at least don't want to make worse. Over time, we extended NDepend with our own rules. Then also fixed some bundled broken rules. And we verify on each build that those issues do not reappear.
 
 # Getting started
