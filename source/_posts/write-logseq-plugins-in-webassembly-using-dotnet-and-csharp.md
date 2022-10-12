@@ -1,8 +1,8 @@
 ---
 title: 'Write Logseq plugins in WebAssembly using .NET and C#'
-permalink: /2022/10/09/write-logseq-plugins-in-webassembly-using-dotnet-and-csharp/
-date: 10/9/2022 9:21:26 AM
-disqusIdentifier: 20221009092126
+permalink: /2022/10/12/write-logseq-plugins-in-webassembly-using-dotnet-and-csharp/
+date: 10/12/2022 07:24:08
+disqusIdentifier: 20221012072408
 coverSize: partial
 tags: [.NET, C#, WebAssembly, Wasm, Logseq]
 coverCaption: 'Lomont, Franche-Conté, France'
@@ -228,3 +228,4 @@ We have seen that with minimum knowledge of web development, the help of WebAsse
 * [Logseq](https://logseq.com/)
 * [Use .NET from any JavaScript app in .NET 7](https://devblogs.microsoft.com/dotnet/use-net-7-from-any-javascript-app-in-net-7/?WT.mc_id=DT-MVP-7749)
 * [WebAssembly](https://webassembly.org/)
+
