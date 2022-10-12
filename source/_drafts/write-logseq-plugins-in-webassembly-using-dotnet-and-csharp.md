@@ -5,9 +5,9 @@ date: 10/9/2022 9:21:26 AM
 disqusIdentifier: 20221009092126
 coverSize: partial
 tags: [.NET, C#, WebAssembly, Wasm, Logseq]
-coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
-coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
-thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
+coverCaption: 'Lomont, Franche-Conté, France'
+coverImage: 'https://live.staticflickr.com/65535/40799340683_3fedcfbbdb_h.jpg'
+thumbnailImage: 'https://live.staticflickr.com/65535/40799340683_f14d4e75a5_q.jpg'
 ---
 I am using a tool called logseq to manage my notes. It is a fantastic tool, and I would like to be able to extend it. I am not an expert web developer, but I am a .NET developer. I would like to be able to write plugins for logseq using .NET and C#. I have found a way to do it using WebAssembly. In this post, I am going to show you how to do it.
 <!-- more -->
@@ -25,7 +25,7 @@ We need to take over the script included in the `index.html` file, representing 
  <script src="https://cdn.jsdelivr.net/npm/@logseq/libs@0.0.1-alpha.34/dist/lsplugin.user.min.js"></script>
 ```
 
-Then JavaScript code which let you interact with the logseq application with a nice and simple API. Here, we register a slash command called `💥 Big Bang` which will display a message in the logseq application.
+Then JavaScript code lets you interact with the logseq application with a nice and simple API. Here, we register a slash command called `💥 Big Bang` which will display a message in the logseq application.
  
 ```js
 function main () {
@@ -47,7 +47,7 @@ function main () {
 logseq.ready(main).catch(console.error)
 ```
 
-Finally, the definition of the plugin, used to register it in the logseq application.
+Finally, the definition of the plugin used to register it in the logseq application.
 
 ```json package.json
 {
@@ -65,7 +65,7 @@ Finally, the definition of the plugin, used to register it in the logseq applica
 
 # .NET 7 WebAssembly new capabilities
 
-If, you are from the .NET ecosystem, you are probably familiar with [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor). For the other, it is a framework to be able to write .NET code in the browser. It is using WebAssembly to be able to do it. It is not the only way anymore to use .NET in the browser. There is new capabilities to be able to use .NET 7 independently of Blazor from any JavaScript in a browser app or in a Node.js based console app.
+If you are from the .NET ecosystem, you are probably familiar with [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor). For the other, it is a framework to be able to write .NET code in the browser. It is using WebAssembly to be able to do it. It is not the only way anymore to use .NET in the browser. There are new capabilities to be able to use .NET 7 independently of Blazor from any JavaScript in a browser app or a Node.js based console app.
 
 You need to install [.NET 7 RC1 SDK](https://dotnet.microsoft.com/download/dotnet/7.0) and run the following commands
 
@@ -108,7 +108,7 @@ You can use the `JSExport` attribute to export a C# method to JavaScript. Simila
 {% endalert %}
 
 
-It also creates a bit of JavaScript `main.js` with the interesting part being the part which is calling the `Greeting` method from the C# code, itself calling the `GetHRef()` C# method delegated to the JavaScript `window.location.href`.
+It also creates a bit of JavaScript `main.js` with the interesting part being the part that is calling the `Greeting` method from the C# code, itself calling the `GetHRef()` C# method delegated to the JavaScript `window.location.href`.
 
 ```js main.js
 
@@ -128,7 +128,7 @@ console.log(text);
 document.getElementById("out").innerHTML = `${text}`;
 ```
 
-and to tight everything together a `index.html` file is also created
+and to tight everything together an `index.html` file is also created
 
 ```html index.html
 <!DOCTYPE html>
@@ -154,7 +154,7 @@ and to tight everything together a `index.html` file is also created
 
 # Integrating logseq JavaScript plugin with .NET WASM  
 
-As this is an experiment, I am doing minimum changes to integrate both world. Starting with `main.js` and integrating the logseq API, we register the slash command which is calling the `Greeting` method from the C# code. 
+As this is an experiment, I am doing minimum changes to integrate both worlds. Starting with `main.js` and integrating the logseq API, we register the slash command which is calling the `Greeting` method from the C# code. 
 
 ```js main.js
 // Called by C# WASM Guest() method
@@ -183,7 +183,7 @@ const exports = await getAssemblyExports(config.mainAssemblyName)
 logseq.ready(main).catch(console.error)
 ```
 
-The `Greeting` C# method is calling the "Guest" C# method which is delegating to the JavaScript `guest` method.
+The `Greeting` C# method calls the "Guest" C# method which is delegating to the JavaScript `guest` method.
     
 ```csharp Program.cs
 public partial class MyClass
@@ -223,8 +223,8 @@ which will create the `bin/Release/net7.0/browser-wasm/AppBundle` folder which w
 We have seen that with minimum knowledge of web development, the help of WebAssembly, and new .NET 7 capabilities, we can write plugins for logseq using .NET and C#, thanks to WASM/WebAssembly. Nevertheless, this is going much further than that. We can now write .NET code in the browser, and we can use it in any JavaScript based application including Node.js based console app. So, what works for logseq could be used for any other applications which are based on JavaScript. It is a new world of possibilities.
 
 # Code
-{% githubCard user:laurentkempe repo:dotfiles align:left %}
+{% githubCard user:laurentkempe repo:logseq-dotnet-wasm align:left %}
 # References
 * [Logseq](https://logseq.com/)
-* [WebAssembly](https://webassembly.org/)
 * [Use .NET from any JavaScript app in .NET 7](https://devblogs.microsoft.com/dotnet/use-net-7-from-any-javascript-app-in-net-7/?WT.mc_id=DT-MVP-7749)
+* [WebAssembly](https://webassembly.org/)
