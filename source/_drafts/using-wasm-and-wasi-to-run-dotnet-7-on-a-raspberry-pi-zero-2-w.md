@@ -9,27 +9,27 @@ coverCaption: 'Lomont, Haute-Saône, Franche-Comté, France'
 coverImage: 'https://live.staticflickr.com/65535/46849237405_c2d528b3a9_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/65535/46849237405_9522c01139_q.jpg'
 ---
-WebAssembly (WASM) and WebAssembly System Interface (WASI) are opening new opportunities for developers. .NET developers became familiar with WASM when Blazor WebAssembly was released. Blazor WebAssembly run client-side in the browser on a WebAssembly-based .NET runtime. WASI is bringing WASM out of the browser world by providing a system interface to run WebAssembly outside the web. It is a standard for how WASM modules can interact with the host environment. In this post, I will show you how to run .NET 7 on a Raspberry PI Zero 2 W using WASM and WASI.  
+WebAssembly (WASM) and WebAssembly System Interface (WASI) are opening new opportunities for developers. .NET developers became familiar with WASM when Blazor WebAssembly was released. Blazor WebAssembly runs client-side in the browser on a WebAssembly-based .NET runtime. WASI is bringing WASM out of the browser world by providing a system interface to run WebAssembly outside the web. It is a standard for how WASM modules interact with the host environment. This post will show you how to run .NET 7 on a Raspberry PI Zero 2 W using WASM and WASI.
 <!-- more -->
 
 ## What is WASM?
 
-WebAssembly (WASM) is a **binary instruction format** for a stack-based **virtual machine**. WASM is designed as a **portable compilation target** for programming languages. It is a low-level assembly-like language with a compact binary format that runs with **near-native performance** and provides languages such as C#, C/C++, Rust... with a compilation target that can run in browsers and other environments.
+WebAssembly (WASM) is a **binary instruction format** for a stack-based **virtual machine**. WASM is a **portable compilation target** for programming languages. It is a low-level assembly-like language with a compact binary format that runs **near-native performance** and provides languages such as C#, C/C++, and Rust… with a compilation target that can run in browsers and other environments.
 
 ## What is WASI?
 
 WebAssembly System Interface (WASI) is a **standard** for how WASM modules can **interact with the host environment**. WASI is a specification for a system interface for WebAssembly. It is a set of APIs that a WebAssembly module can call to access the host environment.
-As WASI is about running securely WASM outside the browser, it cannot leverage the runtime embedded in our modern web browsers. It needs another runtime. This is why runtimes like [Wasmtime](https://wasmtime.dev/) or [Wasmer](https://wasmer.io/) exists. Wasmtime is a standalone JIT-style runtime for WebAssembly. It is designed to be run as a standalone command-line utility, embedded into other applications, or used to run WebAssembly modules within larger runtimes.
+As WASI is about running securely WASM outside the browser, it cannot leverage the runtime embedded in our modern web browsers. It needs another runtime. It is why runtimes like [Wasmtime](https://wasmtime.dev/), [Wasmer](https://wasmer.io/) or [WasmEdge](https://wasmedge.org/) exist. Wasmtime is a standalone JIT-style runtime for WebAssembly. It is designed to run as a standalone command-line utility, embedded into other applications, or used to run WebAssembly modules within larger's runtimes.
 
 ## .NET 7 WASI SDK
 
-[Steve Sanderson](https://twitter.com/stevensanderson) is known as the creator of ASP.NET Core Blazor WebAssembly and opened the GitHub repository [SteveSandersonMS / dotnet-wasi-sdk](https://github.com/SteveSandersonMS/dotnet-wasi-sdk) some months ago. The "Experimental WASI SDK for .NET Core" was born. A couple of weeks ago the experiment was moved to [dotnet / dotnet-wasi-sdk](https://github.com/dotnet/dotnet-wasi-sdk) which might give us an hint that the experiment is ready to get to the next step. I am convinced that we will hear about this during the [.NET Conf 2022](https://www.dotnetconf.net/).
+[Steve Sanderson](https://twitter.com/stevensanderson) is known as the creator of ASP.NET Core Blazor WebAssembly and opened the GitHub repository [SteveSandersonMS / dotnet-wasi-sdk](https://github.com/SteveSandersonMS/dotnet-wasi-sdk) some months ago. The "Experimental WASI SDK for .NET Core" was born. A couple of weeks ago, the experiment moved to [dotnet / dotnet-wasi-sdk](https://github.com/dotnet/dotnet-wasi-sdk). Is it a hint that it is ready to move to the next step? I am convinced and hope we will hear about this during the [.NET Conf 2022](https://www.dotnetconf.net/).
 
 ## Creating a .NET WASI project
 
 The goal is to build a .NET 7 Web Api using WASI SDK for .NET and to run it on a Raspberry PI Zero 2 W using Wasmtime. I won't repeat the instructions here. The only difference is that I am using ASP.NET Core Web API project template and not the Web template.
 
-So, the following command will create a .NET 7 Web Api project then you add WASI SDK for .NET as described on "[How to use: ASP.NET Core applications](https://github.com/dotnet/dotnet-wasi-sdk#how-to-use-aspnet-core-applications)" page.
+So, the following command will create a .NET 7 Web API project then you add WASI SDK for .NET as described on "[How to use: ASP.NET Core applications](https://github.com/dotnet/dotnet-wasi-sdk#how-to-use-aspnet-core-applications)" page.
 
 ```powershell
 dotnet new webapi -o WasiWebApi
@@ -37,7 +37,7 @@ dotnet new webapi -o WasiWebApi
 
 ## Building the .NET WASI project
 
-The following command will build and publish the .NET 7 Web Api project for WASI.
+The following command will build and publish the .NET 7 Web API project for WASI.
 
 ```powershell
 dotnet publish -c Release
@@ -61,11 +61,11 @@ or you can use the `run` command.
 dotnet run
 ```
 
-Then you can access the Web Api using the following URL: [http://localhost:8080/weatherforecast](http://localhost:8080/weatherforecast).
+Then you can access the Web API using the following URL: [http://localhost:8080/weatherforecast](http://localhost:8080/weatherforecast).
 
 ## Uploading the project to the Raspberry PI Zero 2 W
 
-Today, Windows supports [ssh](https://learn.microsoft.com/en-us/windows/terminal/tutorials/ssh) and scp out of the box. It super easy to copy our application from our PC to the Raspberry PI Zero 2 W. In this example, my PI Zero 2 W is named `piw.lan` and I am using the default user `pi` to copy the wasm file, to the folder _/home/pi/wasm_.
+Today, Windows supports [ssh](https://learn.microsoft.com/en-us/windows/terminal/tutorials/ssh) and scp out of the box. It is super easy to copy our application from our PC to the Raspberry PI Zero 2 W. In this example, my PI Zero 2 W is named `piw.lan` and I am using the default user `pi` to copy the wasm file, to the folder _/home/pi/wasm_.
 
 ```powershell
 scp .\bin\Release\net7.0\WasiWebApi.wasm pi@piw.lan:/home/pi/wasm
@@ -93,14 +93,13 @@ The following command will run the project using Wasmtime.
 ./wasmtime WasiWebApi.wasm --tcplisten piw.lan:5000 --env ASPNETCORE_URLS=http://piw.lan:5000
 ```
 
-Then you can access the Web Api using the following URL: [http://piw.lan:5000/weatherforecast](http://piw.lan:5000/weatherforecast) and should see something like this
+Then you can access the Web API using the following URL: [http://piw.lan:5000/weatherforecast](http://piw.lan:5000/weatherforecast) and should see something like this
 
 ![Running the .NET WASI project on Pi Zero 2 W using Wasmtime](/images/WasiWebApi.png)
 
-
 # Conclusion
 
-We have seen that it is possible to run a .NET 7 Web Api on a Raspberry PI Zero 2 W using WASI SDK for .NET and Wasmtime. It is a very interesting experiment and I am looking forward to see what will happen next. I am convinced that we will hear about this during the [.NET Conf 2022](https://www.dotnetconf.net/). 
+We have seen that it is possible to run the same Wasm module built from a .NET 7 Web API on Windows and then on a Raspberry PI Zero 2 W using WASI SDK for .NET and Wasmtime. It was a very interesting experiment. I am looking forward to seeing what will happen next. I hope we hear about this during the [.NET Conf 2022](https://www.dotnetconf.net/).
 
 # Code
 
@@ -115,4 +114,5 @@ We have seen that it is possible to run a .NET 7 Web Api on a Raspberry PI Zero 
 * [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 * [Wasmtime](https://wasmtime.dev/)
 * [Wasmer](https://wasmer.io/)
+* [WasmEdge](https://wasmedge.org/)
 * [Raspberry PI Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
