@@ -1,8 +1,8 @@
 ---
 title: 'Using WASM and WASI to run .NET 7 on a Raspberry PI Zero 2 W'
-permalink: /2022/10/21/using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w/
-date: 10/21/2022 5:26:38 AM
-disqusIdentifier: 20221021052638
+permalink: /2022/10/29/using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w/
+date: 10/29/2022 11:04:42
+disqusIdentifier: 20221029110442
 coverSize: partial
 tags: [Wasm, Wasi, ASP.NET Core, Raspberry Pi]
 coverCaption: 'Lomont, Haute-Saône, Franche-Comté, France'
@@ -116,3 +116,4 @@ We have seen that it is possible to run the same Wasm module built from a .NET 7
 * [Wasmer](https://wasmer.io/)
 * [WasmEdge](https://wasmedge.org/)
 * [Raspberry PI Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
+
