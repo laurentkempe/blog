@@ -27,38 +27,85 @@ As WASI is about running securely WASM outside the browser, it cannot leverage t
 
 ## Creating a .NET WASI project
 
-The goal is to build a .NET 7 Web Api using WASI SDK for .NET and to run it on a Raspberry PI Zero 2 W using Wasmtime. I won't repeat the instructions about creating such a project as you can find them on [How to use: ASP.NET Core applications](https://github.com/dotnet/dotnet-wasi-sdk#how-to-use-aspnet-core-applications). The only difference is that I am using ASP.NET Core Web API project template and not web.
+The goal is to build a .NET 7 Web Api using WASI SDK for .NET and to run it on a Raspberry PI Zero 2 W using Wasmtime. I won't repeat the instructions here. The only difference is that I am using ASP.NET Core Web API project template and not the Web template.
+
+So, the following command will create a .NET 7 Web Api project then you add WASI SDK for .NET as described on "[How to use: ASP.NET Core applications](https://github.com/dotnet/dotnet-wasi-sdk#how-to-use-aspnet-core-applications)" page.
 
 ```powershell
 dotnet new webapi -o WasiWebApi
 ```
 
+## Building the .NET WASI project
+
+The following command will build and publish the .NET 7 Web Api project for WASI.
+
+```powershell
+dotnet publish -c Release
+```
+
+You end up with a `WasiWebApi.wasm` file in the `WasiWebApi\bin\Release\net7.0\` folder, which is the WebAssembly module that you can run on Wasmtime.
+
+## Running the .NET WASI project locally on Windows using Wasmtime
+
+Download Wasmtime from the [releases GitHub page](https://github.com/bytecodealliance/wasmtime/releases), e.g. _wasmtime-v2.0.1-x86_64-windows.zip_. Unzip the archive and add the `wasmtime.exe` to your `PATH` environment variable.
+
+Then, you can run the WebAssembly module using the following command.
+
+```powershell
+wasmtime bin\Release\net7.0\WasiWebApi.wasm --tcplisten localhost:8080 --env ASPNETCORE_URLS=http://localhost:8080
+```
+
+or you can use the `run` command.
+
+```powershell
+dotnet run
+```
+
+Then you can access the Web Api using the following URL: [http://localhost:8080/weatherforecast](http://localhost:8080/weatherforecast).
+
 ## Uploading the project to the Raspberry PI Zero 2 W
 
-Today, Windows supports ssh and scp out of the box. It super easy to copy our application from our PC to the Raspberry PI Zero 2 W.
+Today, Windows supports [ssh](https://learn.microsoft.com/en-us/windows/terminal/tutorials/ssh) and scp out of the box. It super easy to copy our application from our PC to the Raspberry PI Zero 2 W. In this example, my PI Zero 2 W is named `piw.lan` and I am using the default user `pi` to copy the wasm file, to the folder _/home/pi/wasm_.
 
-## Installing Wasmtime on the Raspberry PI Zero 2 W
+```powershell
+scp .\bin\Release\net7.0\WasiWebApi.wasm pi@piw.lan:/home/pi/wasm
+```
 
+## Running the .NET WASI project on Pi Zero 2 W using Wasmtime
 
-## Running the .NET WASI project
+Connect to your Raspberry PI Zero 2 W using ssh.
 
-The project is ready to be run. 
+```powershell
+ssh pi@piw.lan
+```
+
+We first need to install Wasmtime on the Raspberry PI Zero 2 W. We need again to download Wasmtime from the [releases GitHub page](https://github.com/bytecodealliance/wasmtime/releases), but this time for Linux 64 bits e.g. _wasmtime-v2.0.1-aarch64-linux.tar.xz_. Unzip the archive and copy the `wasmtime` file to the folder _/home/pi/wasm_.
+
+```powershell
+wget https://github.com/bytecodealliance/wasmtime/releases/download/v2.0.1/wasmtime-v2.0.1-aarch64-linux.tar.xz
+tar -xvf wasmtime-v2.0.1-aarch64-linux.tar.xz -C .
+cp wasmtime-v2.0.1-aarch64-linux/wasmtime .
+```
 
 The following command will run the project using Wasmtime.
 
 ```powershell
+./wasmtime WasiWebApi.wasm --tcplisten piw.lan:5000 --env ASPNETCORE_URLS=http://piw.lan:5000
 ```
 
-Continue with text displayed on the blog page
-![alt image](https://live.staticflickr.com/65535/49566323082_e1817988c2_c.jpg)
-{% alert info %}
-{% endalert %}
-{% codeblock GreeterService.cs lang:csharp %}
-{% endcodeblock %}
+Then you can access the Web Api using the following URL: [http://piw.lan:5000/weatherforecast](http://piw.lan:5000/weatherforecast) and should see something like this
+
+![Running the .NET WASI project on Pi Zero 2 W using Wasmtime](/images/WasiWebApi.png)
+
+
 # Conclusion
-TODO
+
+We have seen that it is possible to run a .NET 7 Web Api on a Raspberry PI Zero 2 W using WASI SDK for .NET and Wasmtime. It is a very interesting experiment and I am looking forward to see what will happen next. I am convinced that we will hear about this during the [.NET Conf 2022](https://www.dotnetconf.net/). 
+
+# Code
+
 <p></p>
-{% githubCard user:laurentkempe repo:dotfiles align:left %}
+{% githubCard user:laurentkempe repo:WasiWebApi align:left %}
 
 # References
 
