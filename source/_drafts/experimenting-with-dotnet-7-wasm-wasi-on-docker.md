@@ -1,5 +1,5 @@
 ---
-title: 'Experimenting with .NET 7, WASM and WASI on Docker'
+title: 'Experimenting with .NET 7, WASM, and WASI on Docker'
 permalink: /2022/10/29/experimenting-with-dotnet-7-wasm-wasi-on-docker/
 date: 10/29/2022 11:44:46 AM
 disqusIdentifier: 20221029114446
@@ -12,33 +12,33 @@ thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg
 On October 24th, Docker announced the support of WASM and WASI in a new technical preview release. I wanted to try it out and see how it works with .NET 7. If you want to know more about WASM and WASI you can read the introduction from my previous post, "[Using WASM and WASI to run .NET 7 on a Raspberry PI Zero 2 W](https://laurentkempe.com/2022/10/29/using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w/)".
 <!-- more -->
 
-A couple of weeks ago my friend [Julien Chable](https://twitter.com/JChable) asked me about the interest of WASM/WASI and Wasmtime. As he is a .NET developer, I explained that Wasmtime is the equivalent of the .NET CLR except that it is a sandbox environment therefore secure, which starts in a few milliseconds therefore faster than containers, which allows you to write code with many languages and to deploy this code on many platforms without recompiling and above all to write modules in one language and use them from another.
+A couple of weeks ago my friend [Julien Chable](https://twitter.com/JChable) asked me about WASM/WASI and Wasmtime. As he is a .NET developer, I explained that Wasmtime is similar to the .NET CLR, with some key differences. It runs in a sandbox environment therefore secure, starts in a few milliseconds therefore faster than containers. It allows you to write code with many languages and deploy this code on many platforms without recompiling and above all to write modules in one language and use them from another.
 
 I also told him that you often read that WASI will replace containers. It might be true for some situations but not for all. I think that they will complement each other. Containers are great for running applications, but to run code something better could be built. For example, if you want to run a function that calculates the sum of two numbers, you will have to create a container with an application that will call this function. With WASM/WASI, you can create a module that will contain this function and call it from any language.
 
 # Why Docker announcing WASM/WASI support is interesting?
 
-Docker makes developers life easy to bundle and run their applications. 
+Docker makes developers' life easy to bundle and run their applications. 
 
-Their approach toward WASM/WASI support is to leverage containerd providing the ability to use OCI-compatible artifacts and **containerd shims**. In our case, the interesting part is the conteinerd shim created in collaboration with WasmEdge. 
+Their approach toward WASM/WASI support is to leverage containerd providing the ability to use OCI-compatible artifacts and **containerd shims**. In our case, the interesting part is the containerd shim created in collaboration with WasmEdge. 
 
 > This shim extracts the Wasm module from the OCI artifact and runs it using the WasmEdge runtime. We added support to declare the Wasm runtime, which will enable the use of this new shim.
 
 ![Docker support for WASM and WASI](/images/docker-containerd-wasm-diagram.png.webp)
 
-So, as a developer you can use the **same Dockerfile to build** your WASM module. You can also use the **same Docker commands** to run your WASM module. But there is more as we will see later.
+So, as a developer you can use the **same Dockerfile to build** your WASM module. You can also use the **same Docker commands** to run your WASM module. But there is more, as we will see later.
 
 You can read more about it on their blog post "[Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)".
 
 # Docker technical preview
 
-To run this experiment you will need to install a Docker technical preview release. You can find the instructions on the [Docker+Wasm (Beta)](https://docs.docker.com/desktop/wasm/).
+To run this experiment, installing Docker technical preview release is needed. You can find the instructions on the [Docker+Wasm (Beta)](https://docs.docker.com/desktop/wasm/).
 
 # Building a .NET 7 Console WASM module
 
-Beware, this is a technical preview and things might change in the future. It is also very early for all the different parts used, and mostly a hack to try the different parts together.
+Beware, this is a technical preview, and things might change in the future. It is also very early for all the different parts used, and mostly a hack to try those altogether.
 
-I started to experiment with a .NET 7 Web API, but I failed to make it work, so I switched to a .NET 7 Console application.
+I experimented with a .NET 7 Web API but failed to make it work, so I switched to a .NET 7 Console application.
 
 ```powershell
 dotnet new console -o ConsoleWasmDocker
@@ -57,7 +57,7 @@ wasmtime .\bin\Debug\net7.0\ConsoleWasmDocker.wasm
 
 At first, I tried to use the multi-stage build approach with the Docker image `mcr.microsoft.com/dotnet/sdk:7.0` to build the WASM module. But it failed with a weird error.
 
-So, we will use a workaround to publish the WASM module from Windows and then just copying the ConsoleWasmDocker.wasm in the Docker image
+So, we will use a workaround to publish the WASM module from Windows and then copy the ConsoleWasmDocker.wasm in the Docker image.
 
 ```powershell
 dotnet publish -c Release 
@@ -71,7 +71,7 @@ COPY ./bin/Release/net7.0/ConsoleWasmDocker.wasm /ConsoleWasmDocker.wasm
 ENTRYPOINT [ "ConsoleWasmDocker.wasm" ]
 ```
 
-Here we see another advantage. We can use the `scratch` image as a base image. This is a special image that is empty. It is used to create a minimal Docker image. It is also used to create a container that will run a single process. In our case, we will run our WASM module.
+Here we see another advantage, using the `scratch` image as a base image. This image is empty. It will create a minimal Docker image. We can also use it to build a container that will run a single process. In our case, we will run our WASM module.
 
 We build the Docker image.
 
@@ -89,7 +89,7 @@ consolewasmdocker   latest    a1d9e476ae28   7 seconds ago   3.63MB
 
 # Running our .NET 7 Console WASM module with Docker
 
-We can run our WASM module with Docker, with an extended command.
+We can run our WASM module with Docker with an extended command.
 
 ```powershell
 docker run --rm --name=consolewasmdocker --runtime=io.containerd.wasmedge.v1 --platform=wasi/wasm32 consolewasmdocker
@@ -101,9 +101,9 @@ and the output
 
 # Conclusion
 
-This is still very early and rough on the edges. Nevertheless, it is a good start and let us envision the great potential that those technologies will bring. I am looking forward to see how this evolves.
+All of this is still very early and rough on the edges. Nevertheless, it is a good start and lets us envision the great potential that those technologies will bring. I am looking forward to seeing how this evolves.
 
-The annoucement of Docker+Wasm Technical Preview was done on October 24th, 2022. Exactly the same day, Fermyon announced "[Fermyon Cloud](https://www.fermyon.com/blog/introducing-fermyon-cloud)". Almost a year before,  Microsoft announced "[Public preview: AKS support for WebAssembly System Interface (WASI) workloads](https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-webassembly-system-interface-wasi-workloads/?WT.mc_id=DT-MVP-7749)".
+The announcement of Docker+Wasm Technical Preview was done on October 24th, 2022. The same day, Fermyon announced "[Fermyon Cloud](https://www.fermyon.com/blog/introducing-fermyon-cloud)". Almost a year before,  Microsoft announced "[Public preview: AKS support for WebAssembly System Interface (WASI) workloads](https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-webassembly-system-interface-wasi-workloads/?WT.mc_id=DT-MVP-7749)".
 
 This field is very active and I hope to see more announcements related to WASM/WASI in the .NET ecosystem during the [.NET Conf 2022](https://www.dotnetconf.net/).
 
