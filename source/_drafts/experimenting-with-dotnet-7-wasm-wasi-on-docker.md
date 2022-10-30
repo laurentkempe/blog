@@ -5,9 +5,9 @@ date: 10/29/2022 11:44:46 AM
 disqusIdentifier: 20221029114446
 coverSize: partial
 tags: [WASM, WASI, Docker, .NET]
-coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
-coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
-thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
+coverCaption: 'Calzarellu, Corse, France'
+coverImage: 'https://live.staticflickr.com/8299/7764455174_207330f8d0_h.jpg'
+thumbnailImage: 'https://live.staticflickr.com/8299/7764455174_84625faf34_q.jpg'
 ---
 On October 24th, Docker announced the support of WASM and WASI in a new technical preview release. I wanted to try it out and see how it works with .NET 7. If you want to know more about WASM and WASI you can read the introduction from my previous post, "[Using WASM and WASI to run .NET 7 on a Raspberry PI Zero 2 W](https://laurentkempe.com/2022/10/29/using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w/)".
 <!-- more -->
