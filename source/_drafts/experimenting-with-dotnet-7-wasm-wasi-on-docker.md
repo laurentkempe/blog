@@ -111,10 +111,20 @@ This field is very active and I hope to see more announcements related to WASM/W
 <p></p>
 {% githubCard user:laurentkempe repo:ConsoleWasmDocker align:left %}
 
+# Presentation
+
+Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Michael Yuan
+
+> WebAssembly has emerged as a secure, portable, lightweight, and high performance runtime sandbox for certain types of workloads that make up cloud native apps. Chris and Michael will show how familiar Docker commands can be used to develop and share Wasm applications. Today, developers need to learn new & complicated tooling for Wasm apps. By having Docker manage the Wasm runtime, existing container tooling that Cloud Native developers are familiar with can be used, and the dev ex is fast & efficient. Docker can use WasmEdge as a security sandbox, side by side with Linux containers on the same dev machine or in a deployment cluster. They will cover how to **create WebAssembly OCI images using buildx**, how to publish the annotated image to Docker Hub, and how the enhanced Docker engine can distinguish the image and **automatically run it with WasmEdge**. They will demonstrate a complete demo of creating and running a Wasm-based microservice application using these Docker tools. We see this as a first step towards making Wasm as easy a target for developers as their existing platforms.
+
+<p></p>
+{% youtube 3j915xoDovs %}
+
 # References
 
 * [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 * [Docker+Wasm (Beta)](https://docs.docker.com/desktop/wasm/)
+* [Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Michael Yuan](https://www.youtube.com/watch?v=3j915xoDovs&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D)
 * [WasmEdge](https://wasmedge.org/)
 * [Introducing Fermyon Cloud](https://www.fermyon.com/blog/introducing-fermyon-cloud)
 * [Create WebAssembly System Interface (WASI) node pools in Azure Kubernetes Service (AKS) to run your WebAssembly (WASM) workload (preview)](https://learn.microsoft.com/en-us/azure/aks/use-wasi-node-pools?WT.mc_id=DT-MVP-7749)
