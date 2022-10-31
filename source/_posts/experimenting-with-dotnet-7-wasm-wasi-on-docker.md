@@ -1,8 +1,8 @@
 ---
 title: 'Experimenting with .NET 7, WASM, and WASI on Docker'
-permalink: /2022/10/29/experimenting-with-dotnet-7-wasm-wasi-on-docker/
-date: 10/29/2022 11:44:46 AM
-disqusIdentifier: 20221029114446
+permalink: /2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/
+date: 10/31/2022 13:25:10
+disqusIdentifier: 20221031012510
 coverSize: partial
 tags: [WASM, WASI, Docker, .NET]
 coverCaption: 'Calzarellu, Corse, France'
@@ -128,3 +128,4 @@ Build, Share, Run WebAssembly Apps Using the Docker Toolchain - Chris Crone & Mi
 * [WasmEdge](https://wasmedge.org/)
 * [Introducing Fermyon Cloud](https://www.fermyon.com/blog/introducing-fermyon-cloud)
 * [Create WebAssembly System Interface (WASI) node pools in Azure Kubernetes Service (AKS) to run your WebAssembly (WASM) workload (preview)](https://learn.microsoft.com/en-us/azure/aks/use-wasi-node-pools?WT.mc_id=DT-MVP-7749)
+
