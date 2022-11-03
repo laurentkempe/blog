@@ -9,7 +9,7 @@ alias:
 
 {% image center clear group:travel image2.png https://farm2.staticflickr.com/1971/31306281378_02b055ccfe_z.jpg %}
 
-I am an experienced **Team Leader & Distinguished Solution Architect** with a passion for shipping high-quality products by empowering development team and culture toward an agile mindset. I bring technical vision and strategy, leading engineering teams to move product, processes and architecture forward.
+I am an experienced **Team Leader & Distinguished Solution Architect** with a passion for shipping high-quality products by empowering development teams and culture. I bring technical vision and strategy, leading engineering teams to move product, processes, and architecture forward.
 
 Currently, employed by [Innoveo](https://www.innoveo.com/ "innoveo ") since 1/2018 as a Team Leader & Distinguished Solution Architect, I focus on [Innoveo Skye® Business Canvas](https://www.youtube.com/watch?v=5ZmjSN1WAps&t=5s), an application allowing non-business users to create multi-channel innovative insurance products for our web based Innoveo Skye® product. My past work has ranged from software engineering of web applications in different technologies to e-business platform infrastructure architecture.
 
