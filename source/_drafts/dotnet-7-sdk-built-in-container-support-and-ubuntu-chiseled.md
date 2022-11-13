@@ -9,43 +9,43 @@ coverCaption: 'Moʻorea, Polynésie, France'
 coverImage: 'https://live.staticflickr.com/4401/36848984906_a51b695ef2_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4401/36848984906_f7a10e1aca_q.jpg'
 ---
-End of this summer 2022 the .NET team at Microsoft announced two things related to containers: .NET in Chiseled Ubuntu containers and then a week later built-in container support in the .NET 7 SDK. I have talked about both topics on two episodes of the French podcast [devdevdev.net](https://devdevdev.net/) of my friend [Richard Clark](https://twitter.com/c2iClark). In this post I will explain what these two things are and how they can be combined to help you.
+End of summer 2022, the .NET team at Microsoft announced two things related to containers: .NET in Chiseled Ubuntu containers and then a week after built-in container support in the .NET 7 SDK. I have talked about both topics on two episodes of the French podcast [devdevdev.net](https://devdevdev.net/) by my friend [Richard Clark](https://twitter.com/c2iClark). In this post, I will explain what those are and how to combine them.
 <!-- more -->
 
 # .NET in Chiseled Ubuntu containers
 
-.NET in Chiseled Ubuntu containers are new **small** and **secure containers** offering from Canonical which is **100MB smaller** then the Ubuntu image.
+.NET in Chiseled Ubuntu containers are new **small** and **secure containers** offered by Canonical. Those images are **100MB smaller** than the Ubuntu image.
 
-Why does it improve the security? Because small reduce the attack surface. It is based on images with only the packages required to run the container; no package manager, no shell and non-root user.   
+Why does it improve security? Because small images reduce the attack surface. Based on images with only the packages required to run the container, no package manager, no shell, and non-root user.   
 
-The idea originate from distroless concept introduced in 2017 by Google. On top of that it brings the following features: polished tools and trusted packages from platform providers, choice of free or paid support, choice of fast-moving releases or LTS, possibility to customise the images.
+The idea originates from distroless concept introduced in 2017 by Google. On top of that, it brings the following features: polished tools and trusted packages from platform providers, choice of free or paid support, choice of fast-moving releases or LTS, possibility to customize the images.
 
 ![Standard vs Chiseled .NET Images](/images/standardvsChiseledDotNETimages.png)
 
-To take advantage of those new images, in .NET 6 and 7 for Arm64 and x64, you need to use one of the three layers of Chiseled Ubuntu container images 
+To take advantage of those new images, in .NET 6 and 7 for Arm64 and x64, you need to use one of the three layers of Chiseled Ubuntu container images. 
 
 * mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0-jammy-chiseled 
 * mcr.microsoft.com/dotnet/nightly/runtime:6.0-jammy-chiseled 
 * mcr.microsoft.com/dotnet/nightly/aspnet:6.0-jammy-chiseled
 
 {% alert info %}
-Today, this is still in preview, this is why images are served from the nightly repository. The final images will be available before end of this year.
+Today this is still in preview, and images are served from the nightly repository. Final images will be available before end of this year.
 {% endalert %}
 
 # Built-in container support in the .NET 7 SDK
 
-For long time, you could use Dockerfile to bundle your .NET application in a container. You had to create a Dockerfile, install the .NET SDK, restore the packages, build the application, copy the output in the container. It implied quite some steps and it was not easy to do it right.
+You can use Dockerfile to bundle your .NET application in a container. You create a Dockerfile, install the .NET SDK, restore the packages, build the application, and copy the output in the container. It implies quite some steps and is not easy to do right.
 
-Today, .NET 7 SDK supports **container images** as a new output type through a simple **dotnet publish**. This was already the case on other platform Ko for Go, Jib for Java, and even in .NET with projects like konet.
+Today, .NET 7 SDK supports **container images** as a new output type through a simple **dotnet publish**. This was already the case on other platforms Ko for Go, Jib for Java, and even in .NET with projects like konet.
 
-This requires only to add on nuget package reference to the project file:
+It requires only adding one NuGet package reference to the project file:
 
 ```xml
 <PackageReference Include="Microsoft.NET.Build.Containers" Version="0.2.7"/>
 ```
 
 {% alert info %}
-In the future, you will not even need to add this nuget package reference, as it will be part of the SDK.
+In the future it will be part of the SDK, so you will not need to add this NuGet package reference.
 {% endalert %}
 
 {% alert info %}
@@ -74,7 +74,7 @@ REPOSITORY   TAG       IMAGE ID       CREATED         SIZE
 webapp       1.0.0     e2d2de6a8878   4 seconds ago   216MB
  ```
 
-You can control many of the properties of the image that is created like the image name and tags through MSBuild properties. See, [Configure container image](https://learn.microsoft.com/en-us/dotnet/core/docker/publish-as-container#configure-container-image).
+You can control many of the properties of the image created, like the image name and tags, through MSBuild properties. See, [Configure container image](https://learn.microsoft.com/en-us/dotnet/core/docker/publish-as-container#configure-container-image).
 
 ```xml
     <PropertyGroup>
@@ -94,9 +94,9 @@ webapp                1.0.0     e2d2de6a8878   50 seconds ago   216MB
 
 # Can we combine the two?
 
-Sure, we can combine the two and create a .NET application in a Chiseled Ubuntu container using the .NET SDK. This is a great way to create a small and secure container for your .NET application.
+Sure. We can combine the two and create a .NET application in a Chiseled Ubuntu container using the .NET SDK. It is a great way to create a small and secure container for your .NET application.
 
-We need to add MSBuild property **ContainerBaseImage** to our csproj file to specify the Chiseled Ubuntu base image to use, in this case **aspnet:7.0-jammy-chiseled**.
+We need to add MSBuild property **ContainerBaseImage** to our csproj file to specify the Chiseled Ubuntu base image to use, in this case, **aspnet:7.0-jammy-chiseled**.
 
 ```xml
     <PropertyGroup>
@@ -110,7 +110,7 @@ We need to add MSBuild property **ContainerBaseImage** to our csproj file to spe
     </ItemGroup>
 ```
 
-This time the image is **112MB** compared to the 216MB, we **won 104MB** and all other advantages coming from the Chiseled Ubuntu container.
+This time the image is **112MB** compared to the 216MB. We **won 104MB** on top of all other advantages from the Chiseled Ubuntu container.
 
 ```powershell
  ❯  dotnet publish --os linux --arch x64 -p:PublishProfile=DefaultContainer -c Release
@@ -126,7 +126,7 @@ webapp                   1.0.0     e2d2de6a8878   2 minutes ago        216MB
 
 Yes, we can 😉 mixing chiseling and trimming. 
 
-We can use the base image **runtime-deps:6.0-jammy-chiseled** which is 13MB and publish our ASP.NET application as a self-contained and trimmed application.
+We can use the base image **runtime-deps:6.0-jammy-chiseled**, which is 13MB and publish our ASP.NET application as a self-contained and trimmed application.
 
 ```xml
     <PropertyGroup>
@@ -185,7 +185,7 @@ webapp                                      1.0.0     e2d2de6a8878   32 minutes 
 
 # A tiny bit better?
 
-If you don't need globalization in your application, you can turn the [globalization invariant mode on](https://github.com/dotnet/runtime/blob/main/docs/design/features/globalization-invariant-mode.md
+If you don't need globalization in your application, you can turn on the [globalization invariant mode](https://github.com/dotnet/runtime/blob/main/docs/design/features/globalization-invariant-mode.md
 ).
 
 ```xml
@@ -198,7 +198,7 @@ If you don't need globalization in your application, you can turn the [globaliza
     </PropertyGroup>
 ```
 
-Finally, the image is **48.3MB** compared to the 48.4MB, we won 0.1MB.
+Finally, the image is **48.3MB** compared to the 48.4MB. We won 0.1MB.
 
 ```powershell
  ❯  dotnet publish --os linux --arch x64 -p:PublishProfile=DefaultContainer -c Release --self-contained true -p:PublishSingleFile=true
@@ -213,7 +213,9 @@ dotnet-webapp-image                                   1.1.0     d63f313397aa   3
 webapp                                                1.0.0     e2d2de6a8878   39 minutes ago   216MB
 ```
 
-I expected better results with this last step. I guess is the best we can do, because the ICU package is still part of runtime-deps:6.0-jammy-chiseled, or? Till maybe Microsoft and Canonical publish a new base image with the ICU package removed.
+I expected better results with this last step. It is the best we can do because the ICU package is still part of runtime-deps:6.0-jammy-chiseled, or? Maybe till Microsoft and Canonical publish a new base image with the ICU package removed.
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/runfaster2000?ref_src=twsrc%5Etfw">@runfaster2000</a> and <a href="https://twitter.com/ValentinViennot?ref_src=twsrc%5Etfw">@ValentinViennot</a> Great presentation during the <a href="https://twitter.com/hashtag/dotnetConf?src=hash&amp;ref_src=twsrc%5Etfw">#dotnetConf</a> 👍🏼 Any plan to ship another 7.0-jammy-chiseled without ICU?</p>&mdash; Laurent Kempé (@laurentkempe) <a href="https://twitter.com/laurentkempe/status/1591729789345599488?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Run
 
@@ -235,7 +237,11 @@ Then you can browse to http://localhost:8080/weatherforecast to see
 
 # Conclusion
 
-Now that .NET 7 RTM shipped we can leverage those new capabilities. It let us create small and secure containers for our .NET applications super easily. We went from a first docker image of **216MB** to a final docker image of **48.3MB**. That's a **77.8% reduction in size**. I hope you enjoyed this post and learned something new that you will try out. If you have any questions or comments, please leave them below. Thanks for reading! 
+Now that .NET 7 RTM shipped, we can leverage those new capabilities. It lets us create small and secure containers for our .NET applications easily.
+
+We went from a first docker image of **216MB** to a final docker image of **48.3MB**. That's more than a **77% reduction in size**.
+
+I hope you enjoyed this post and learned something new that you want to try out. If you have any questions or comments, please leave them below. Thanks for reading!
 
 # Code
 
@@ -244,10 +250,19 @@ Now that .NET 7 RTM shipped we can leverage those new capabilities. It let us cr
 
 # Presentation
 
-TODO ADD dotnet conf video
+### .NET in Ubuntu and Chiseled Containers - Canonical & Microsoft</p>
 
+> Folks at Microsoft reached out to Canonical with a "simple" request, for Ubuntu distroless container images. The two companies partnered together to produce super small and secure container images, about 100MB smaller than regular container images. You can start using these images now, for much better performance.
 <p></p>
+{% youtube pnsYc8GskCw %}
+
+### Using .NET with Chiseled Ubuntu Containers
+
+> Chiseled Ubuntu Containers are new and exciting. You'll see how easy it is to switch to using them with .NET and what the benefits are. We'll show using them at your desktop, deploying them to the cloud, and also making an evil hacker fail to compromise an app (that might otherwise succeed).
+<p></p> 
 {% youtube 3j915xoDovs %}
+
+TODO ADD dotnet conf video
 
 # References
 
