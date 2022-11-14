@@ -213,7 +213,7 @@ dotnet-webapp-image                                   1.1.0     d63f313397aa   3
 webapp                                                1.0.0     e2d2de6a8878   39 minutes ago   216MB
 ```
 
-I expected better results with this last step. It is the best we can do because the ICU package is still part of runtime-deps:6.0-jammy-chiseled, or? Maybe till Microsoft and Canonical publish a new base image with the ICU package removed.
+I expected better results with this last step. The runtime-deps:6.0-jammy-chiseled [removes ICU](https://github.com/dotnet/dotnet-docker/blob/nightly/src/runtime-deps/6.0/jammy-chiseled/amd64/Dockerfile#L52-L53) and sets `DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=true`.
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/runfaster2000?ref_src=twsrc%5Etfw">@runfaster2000</a> and <a href="https://twitter.com/ValentinViennot?ref_src=twsrc%5Etfw">@ValentinViennot</a> Great presentation during the <a href="https://twitter.com/hashtag/dotnetConf?src=hash&amp;ref_src=twsrc%5Etfw">#dotnetConf</a> 👍🏼 Any plan to ship another 7.0-jammy-chiseled without ICU?</p>&mdash; Laurent Kempé (@laurentkempe) <a href="https://twitter.com/laurentkempe/status/1591729789345599488?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -260,9 +260,8 @@ I hope you enjoyed this post and learned something new that you want to try out.
 
 > Chiseled Ubuntu Containers are new and exciting. You'll see how easy it is to switch to using them with .NET and what the benefits are. We'll show using them at your desktop, deploying them to the cloud, and also making an evil hacker fail to compromise an app (that might otherwise succeed).
 <p></p> 
-{% youtube 3j915xoDovs %}
 
-TODO ADD dotnet conf video
+Video will be added when the link will be available.
 
 # References
 
