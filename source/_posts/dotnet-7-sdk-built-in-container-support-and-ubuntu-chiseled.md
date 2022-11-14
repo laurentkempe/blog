@@ -1,8 +1,8 @@
 ---
 title: '.NET 7 SDK built-in container support and Ubuntu Chiseled'
-permalink: /2022/11/09/dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled/
-date: 11/9/2022 9:41:12 PM
-disqusIdentifier: 20221109094112
+permalink: /2022/11/14/dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled/
+date: 11/14/2022 13:40:41
+disqusIdentifier: 20221114014041
 coverSize: partial
 tags: [ASP.NET Core, Docker, Ubuntu, .NET SDK]
 coverCaption: 'Moʻorea, Polynésie, France'
