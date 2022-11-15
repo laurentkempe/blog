@@ -250,18 +250,17 @@ I hope you enjoyed this post and learned something new that you want to try out.
 
 # Presentation
 
+### Using .NET with Chiseled Ubuntu Containers
+
+> Chiseled Ubuntu Containers are new and exciting. You'll see how easy it is to switch to using them with .NET and what the benefits are. We'll show using them at your desktop, deploying them to the cloud, and also making an evil hacker fail to compromise an app (that might otherwise succeed).
+<p></p> 
+{% youtube FLGFzlWF4Gs %}
+
 ### .NET in Ubuntu and Chiseled Containers - Canonical & Microsoft</p>
 
 > Folks at Microsoft reached out to Canonical with a "simple" request, for Ubuntu distroless container images. The two companies partnered together to produce super small and secure container images, about 100MB smaller than regular container images. You can start using these images now, for much better performance.
 <p></p>
 {% youtube pnsYc8GskCw %}
-
-### Using .NET with Chiseled Ubuntu Containers
-
-> Chiseled Ubuntu Containers are new and exciting. You'll see how easy it is to switch to using them with .NET and what the benefits are. We'll show using them at your desktop, deploying them to the cloud, and also making an evil hacker fail to compromise an app (that might otherwise succeed).
-<p></p> 
-
-Video will be added when the link will be available.
 
 # References
 
