@@ -126,13 +126,13 @@ webapp                   1.0.0     e2d2de6a8878   2 minutes ago        216MB
 
 Yes, we can 😉 mixing chiseling and trimming. 
 
-We can use the base image **runtime-deps:6.0-jammy-chiseled**, which is 13MB and publish our ASP.NET application as a self-contained and trimmed application.
+We can use the base image **runtime-deps:7.0-jammy-chiseled**, which is 13MB and publish our ASP.NET application as a self-contained and trimmed application.
 
 ```xml
     <PropertyGroup>
         <ContainerImageName>dotnet-webapp-chiseled-trimmed</ContainerImageName>
         <ContainerImageTag>1.1.0</ContainerImageTag>
-        <ContainerBaseImage>mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0-jammy-chiseled</ContainerBaseImage>
+        <ContainerBaseImage>mcr.microsoft.com/dotnet/nightly/runtime-deps:7.0-jammy-chiseled</ContainerBaseImage>
         <PublishTrimmed>true</PublishTrimmed>
     </PropertyGroup>
 
@@ -164,7 +164,7 @@ Yes, we can by publishing to a single file
     <PropertyGroup>
         <ContainerImageName>dotnet-webapp-chiseled-trimmed-singlefile</ContainerImageName>
         <ContainerImageTag>1.1.0</ContainerImageTag>
-        <ContainerBaseImage>mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0-jammy-chiseled</ContainerBaseImage>
+        <ContainerBaseImage>mcr.microsoft.com/dotnet/nightly/runtime-deps:7.0-jammy-chiseled</ContainerBaseImage>
         <PublishTrimmed>true</PublishTrimmed>
     </PropertyGroup>
 ```
@@ -192,7 +192,7 @@ If you don't need globalization in your application, you can turn on the [global
     <PropertyGroup>
         <ContainerImageName>dotnet-webapp-chiseled-trimmed-singlefile-invariant</ContainerImageName>
         <ContainerImageTag>1.1.0</ContainerImageTag>
-        <ContainerBaseImage>mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0-jammy-chiseled</ContainerBaseImage>
+        <ContainerBaseImage>mcr.microsoft.com/dotnet/nightly/runtime-deps:7.0-jammy-chiseled</ContainerBaseImage>
         <InvariantGlobalization>true</InvariantGlobalization>
         <PublishTrimmed>true</PublishTrimmed>
     </PropertyGroup>
@@ -213,7 +213,7 @@ dotnet-webapp-image                                   1.1.0     d63f313397aa   3
 webapp                                                1.0.0     e2d2de6a8878   39 minutes ago   216MB
 ```
 
-I expected better results with this last step. The runtime-deps:6.0-jammy-chiseled [removes ICU](https://github.com/dotnet/dotnet-docker/blob/nightly/src/runtime-deps/6.0/jammy-chiseled/amd64/Dockerfile#L52-L53) and sets `DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=true`.
+I expected better results with this last step. The runtime-deps:6.0-jammy-chiseled [removes ICU](https://github.com/dotnet/dotnet-docker/blob/nightly/src/runtime-deps/6.0/jammy-chiseled/amd64/Dockerfile#L52-L53) and sets `DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=true`. I guess runtime-deps:7.0-jammy-chiseled does the same, but the code is not yet available.
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/runfaster2000?ref_src=twsrc%5Etfw">@runfaster2000</a> and <a href="https://twitter.com/ValentinViennot?ref_src=twsrc%5Etfw">@ValentinViennot</a> Great presentation during the <a href="https://twitter.com/hashtag/dotnetConf?src=hash&amp;ref_src=twsrc%5Etfw">#dotnetConf</a> 👍🏼 Any plan to ship another 7.0-jammy-chiseled without ICU?</p>&mdash; Laurent Kempé (@laurentkempe) <a href="https://twitter.com/laurentkempe/status/1591729789345599488?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
