@@ -24,9 +24,9 @@ The idea originates from distroless concept introduced in 2017 by Google. On top
 
 To take advantage of those new images, in .NET 6 and 7 for Arm64 and x64, you need to use one of the three layers of Chiseled Ubuntu container images. 
 
-* mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0-jammy-chiseled 
-* mcr.microsoft.com/dotnet/nightly/runtime:6.0-jammy-chiseled 
-* mcr.microsoft.com/dotnet/nightly/aspnet:6.0-jammy-chiseled
+* mcr.microsoft.com/dotnet/nightly/runtime-deps:7.0-jammy-chiseled 
+* mcr.microsoft.com/dotnet/nightly/runtime:7.0-jammy-chiseled 
+* mcr.microsoft.com/dotnet/nightly/aspnet:7.0-jammy-chiseled
 
 {% alert info %}
 Today this is still in preview, and images are served from the nightly repository. Final images will be available before end of this year.
