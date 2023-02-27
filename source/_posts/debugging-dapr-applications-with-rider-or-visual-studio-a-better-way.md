@@ -1,8 +1,8 @@
 ---
 title: 'Debugging Dapr applications with Rider or Visual Studio: A better way'
-permalink: /2023/02/18/debugging-dapr-applications-with-rider-or-visual-studio-a-better-way/
-date: 2/18/2023 5:26:38 PM
-disqusIdentifier: 20230218052638
+permalink: /2023/02/27/debugging-dapr-applications-with-rider-or-visual-studio-a-better-way/
+date: 02/27/2023 13:07:46
+disqusIdentifier: 20230227010746
 coverSize: partial
 tags: [.NET, Dapr, Rider, VisualStudio]
 coverCaption: 'Tahiti, Polynésie, France, Moʻorea island in the back'
@@ -141,3 +141,4 @@ The code for this post is available on my project [daprPlayground / EaseDaprDebu
 * [Dapr.io](https://dapr.io/)
 * [Debugger.Launch Method](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debugger.launch?view=net-7.0)
 * [My blog post series about Dapr](https://laurentkempe.com/tags/Dapr/)
+
