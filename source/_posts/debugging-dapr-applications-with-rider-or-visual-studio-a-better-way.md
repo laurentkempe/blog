@@ -9,7 +9,7 @@ coverCaption: 'Tahiti, Polynésie, France, Moʻorea island in the back'
 coverImage: 'https://live.staticflickr.com/4662/25053526657_0240dbf766_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4662/25053526657_b5a7c23594_q.jpg'
 ---
-Dapr is a impressive set of APIs for building distributed applications with any language and platform. It provides a set of building blocks that you can use to build microservices. Dapr is based on sidecar architecture. Meaning that you need to run a Dapr sidecar for each of your application. **How do you debug your Dapr apps effectively?** If you have been using PowerShell scripts to run and attach your debugger, you know how tedious and error-prone it can be. In this post, I will show you how to use Rider or Visual Studio to debug your Dapr apps with ease and confidence.
+Dapr is an impressive set of APIs for building distributed applications with any language and platform. It provides a set of building blocks that you can use to build microservices. Dapr is based on sidecar architecture. Meaning that you need to run a Dapr sidecar for each of your applications. How do you debug your Dapr apps effectively? If you have been using PowerShell scripts to run and attach your debugger, you know how tedious and error-prone it can be. Ready to see how to use Rider or Visual Studio to debug your Dapr apps with ease and confidence?
 <!-- more -->
 
 # Running Dapr application
