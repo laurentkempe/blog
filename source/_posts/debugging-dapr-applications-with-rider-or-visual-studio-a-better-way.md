@@ -9,7 +9,7 @@ coverCaption: 'Tahiti, Polynésie, France, Moʻorea island in the back'
 coverImage: 'https://live.staticflickr.com/4662/25053526657_0240dbf766_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4662/25053526657_b5a7c23594_q.jpg'
 ---
-Dapr is an impressive set of APIs for building distributed applications with any language and platform. It provides a set of building blocks that you can use to build microservices. Dapr is based on sidecar architecture. Meaning that you need to run a Dapr sidecar for each of your applications. How do you debug your Dapr apps effectively? If you have been using PowerShell scripts to run and attach your debugger, you know how tedious and error-prone it can be. Ready to see how to use Rider or Visual Studio to debug your Dapr apps with ease and confidence?
+Dapr is an impressive set of APIs for building distributed applications with any language and platform. It provides a set of building blocks that you can use to build microservices. Dapr is based on sidecar architecture. Meaning that you need to run a Dapr sidecar for each of your applications. **How do you debug your Dapr apps effectively?** If you have been using PowerShell scripts to run and attach your debugger, you know how tedious and error-prone it can be. Ready to see how to use Rider or Visual Studio to debug your Dapr apps with ease and confidence?
 <!-- more -->
 
 # Running Dapr application
@@ -75,7 +75,7 @@ Now, we can select the Run/Debug configuration **Service: dapr** and either Run 
 
 ![RiderRunDebugConfiguration.png](/images/RiderRunDebugConfiguration.png)
 
-Or press two times CTRL key to use Rider Run Anything. Then type `dapr` to select the Run/Debug configuration.
+Or press the CTRL key two times to use Rider Run Anything. Then type `dapr` to select the Run/Debug configuration.
 
 ![Rider Run Anything](/images/RiderRunAnything.png)
 
@@ -89,7 +89,7 @@ After that, click the Select _Button_, and the debugger will be attached to the 
 
 On the next debugging session, the _Just-ln-Time Debugger_ dialog will not pop up anymore. You will be able to debug your application directly.
 
-All outputs done by the Dapr sidecar and your application are displayed in the Rider Debug Output window if started in Debug or in the Rider Run Console if started without Debug. That is fantastic because you do not need to switch between windows to see the outputs.
+Dapr sidecar and application outputs are displayed in the Rider Debug Output window if started in Debug. Or, in the Rider Run Console if started without Debug. That is fantastic because you do not need to switch between windows to see the outputs.
 
 ## Debugging configuration for Visual Studio
 
@@ -136,7 +136,7 @@ The code for this post is available on my project [daprPlayground / EaseDaprDebu
 <p></p>
 {% githubCard user:laurentkempe repo:daprPlayground align:left %}
 
-# Reference
+# References
 
 * [Dapr.io](https://dapr.io/)
 * [Debugger.Launch Method](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debugger.launch?view=net-7.0)
