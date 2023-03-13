@@ -1,8 +1,8 @@
 ---
 title: '.NET 7 SDK built-in container improvements'
-permalink: /2023/02/28/dotnet-7-sdk-built-in-container-improvements/
-date: 2/28/2023 3:55:16 AM
-disqusIdentifier: 20230228035516
+permalink: /2023/03/13/dotnet-7-sdk-built-in-container-improvements/
+date: 03/13/2023 13:56:12
+disqusIdentifier: 20230313015612
 coverSize: partial
 tags: [.NET SDK, Docker]
 coverCaption: 'Moʻorea, Polynésie, France'
@@ -234,3 +234,4 @@ I hope you enjoyed this post and learned something new that you want to try out.
 * [.NET SDK Container Building Tools](https://github.com/dotnet/sdk-container-builds)
 * [OCI container](https://opencontainers.org/)
 * [Publish Profiles](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/visual-studio-publish-profiles?view=aspnetcore-6.0#publish-profiles)
+
