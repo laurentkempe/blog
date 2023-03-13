@@ -5,16 +5,16 @@ date: 2/28/2023 3:55:16 AM
 disqusIdentifier: 20230228035516
 coverSize: partial
 tags: [.NET SDK, Docker]
-coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
-coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
-thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
+coverCaption: 'Moʻorea, Polynésie, France'
+coverImage: 'https://live.staticflickr.com/4382/36202267994_445a9bf7a1_h.jpg'
+thumbnailImage: 'https://live.staticflickr.com/4382/36202267994_84b6d19e94_q.jpg'
 ---
-Are you looking for a fast and easy way to create and run .NET applications using Docker containers without writing any Dockerfile? If so, you will be glad to know that Microsoft has introduced a new feature of the .NET SDK 7.0.200 that makes it possible to create and publish OCI container images directly from your project file. We have seen how "[.NET 7 SDK built-in container support and Ubuntu Chiseled](https://laurentkempe.com/2022/11/14/dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled/)" can be used together. It lets us **create small and secure containers** for our .NET applications easily. We went from a first docker image of 216MB to a final docker image of 48.3MB. That’s more than a **77% reduction in size**. Starting with the .NET SDK 7.0.200, some new capabilities have been added and we will explore those in this post.
+Are you looking for a fast and easy way to **create and run .NET applications using Docker containers without writing any Dockerfile?** If so, you will be glad to know that Microsoft has introduced a new feature of the .NET SDK 7.0.200 that makes it possible to create and publish OCI container images directly from your project file. We have seen how "[.NET 7 SDK built-in container support and Ubuntu Chiseled](https://laurentkempe.com/2022/11/14/dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled/)" can be used together. It lets us **create small and secure containers** for our .NET applications easily. We went from a first docker image of 216MB down to 48.3 MB. That is more than a **77% reduction in size**. .NET SDK 7.0.200 bring some new capabilities. We will explore some in this post.
 <!-- more -->
 
 # Capability now bundled into the .NET SDK 7.0.200
 
-Previously you had to add a reference to the nuget `Microsoft.NET.Build.Containers`. With the .NET SDK 7.0.200 this is not required anymore. The new capability is now bundled into the .NET SDK.
+Previously you had to add a reference to the nuget `Microsoft.NET.Build.Containers`. With the .NET SDK 7.0.200, we do not require it anymore. The .NET SDK bundle this new capability.
 
 The only thing needed is the following property in your `csproj` project file:
 
@@ -22,14 +22,14 @@ The only thing needed is the following property in your `csproj` project file:
 <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
 ```
 
-The feature leverages `dotnet publish` and it is a command-line tool that allows you to build and publish your .NET applications as Docker images with one command. With dotnet publish, you can:
+The feature leverages `dotnet publish`. The command-line tool allows you to build and publish your .NET applications as Docker images with one command. With dotnet publish, you can:
 
 - Create a Docker image for your .NET application without writing any Dockerfile
 - Publish your Docker image to a container registry of your choice with one command
 - Specify variables such as the base image, image tag, and registry name in your project file
 
 {% alert info %}
-It is interesting to realize that you don't need to have docker installed on your machine to publish to remote container registry. The .NET SDK is able to build the image and to push it to the remote registry on is own. It is interesting CI/CD pipelines or even local development.
+It is interesting to realize that you don’t need docker installed on your machine to publish to a remote container registry. The .NET SDK can build the image and then push it to the remote registry. It is interesting for CI/CD pipelines or even local development.
 {% endalert %}
 
 # Create a Docker image
@@ -50,11 +50,11 @@ To publish your Docker image to a container registry, you need again to add a ne
 <ContainerRegistry>myregistry.azurecr.io</ContainerRegistry>
 ```
 
-A tend to prefer another approach than extending the `.csproj`. It lets you use the same command line to publish to a local Docker daemon or to a container registry. For that, I use **publish profiles** which are files found in the _<project_folder>/Properties/PublishProfiles_ folder. In which you can set publish-related properties like `ContainerRegistry` or `EnableSdkContainerSupport` by referring to a .pubxml file in that folder. 
+I tend to prefer another approach than extending the `.csproj`. It lets you use the same command line to publish to a local Docker daemon or to a container registry. For that, I use **publish profiles**. Those are files found in the _/Properties/PublishProfiles_ folder. You can set publish-related properties like `ContainerRegistry` or `EnableSdkContainerSupport` by referring to a .pubxml file in that folder.
 
 ## Sample publish profile
 
-This is a minimal publish profile that you can use to publish to local container registry. We will extend it with the new properties.
+Here is a minimal publish profile. You can use it to publish to the **local** container registry. We will extend it with the new properties.
 
 ```xml ./Properties/PublishProfiles/local.pubxml
 <Project>
@@ -65,11 +65,11 @@ This is a minimal publish profile that you can use to publish to local container
 </Project>
 ```
 
-With this approach, you can define **multiple publish profiles** and use them to publish to different container registries. You might want a publish profile for GitHub Package registry for your feature branch builds and push to Azure Container Registry only the release built images. Or, you might want to push some images trimmed and chiseled, and some not.
+With this approach, you can define **multiple publish profiles** and use them to publish to different container registries. You might want a publish profile for GitHub Package registry for your feature branch builds and push to Azure Container Registry only the release built images. Or, you might want to push images trimmed and chiseled, and other not.
 
 ## Publishing to local container registry using local publish profile
 
-Run `dotnet publish` specifying the name of the publish profile in the `-p:PublishProfile` parameter.
+Run `dotnet publish` specifying the name of the publish profile, here **local**, for the `-p:PublishProfile` parameter.
 
 ```powershell
 ❯  dotnet publish --os linux --arch x64 -p:PublishProfile=local -c Release
@@ -86,19 +86,19 @@ round\dotnetSDK70200\dotnetSDK70200.csproj]
   Pushed container 'dotnetsdk70200:1.0.0' to Docker daemon
 ```
 
-The following registries have been explicitly tested with .NET SDK: Azure Container Registry, GitLab Container Registry, Google Cloud Artifact Registry, Quay.io, AWS Elastic Container Registry, GitHub Package Registry, and Docker Hub.
+.NET SDK has been tested against the following registries: Azure Container Registry, GitLab Container Registry, Google Cloud Artifact Registry, Quay.io, AWS Elastic Container Registry, GitHub Package Registry, and Docker Hub.
 
 {% alert warning %}
 Currently, the .NET SDK 7.0.200 has an issue to upload the image to GitHub Container registry. The issue is tracked on [GitHub issue #292](https://github.com/dotnet/sdk-container-builds/issues/292)
 {% endalert %}
 
-For sure you would need to authenticate to the container registry before publishing. Docker has established a pattern with this via the docker login command, which is a way of interacting with a Docker config file that contains rules for authenticating with specific registries. This should ensure that this package works seamlessly with any registry you can `docker pull` from and `docker push`.
+You would need to authenticate to the container registry before publishing. Docker has established a pattern via the docker login command. It is a way of interacting with a Docker config file containing rules for authenticating with specific registries. It should ensure that this package works seamlessly with any registry you can `docker pull` from and `docker push`.
 
 You can read more about this part in the [Authenticating to container registries documentation](https://github.com/dotnet/sdk-container-builds/blob/main/docs/RegistryAuthentication.md#authenticating-to-container-registries).
 
 # Specifying a base image
 
-By default, the SDK will infer the best base image to use. It can use values of properties of your project like `TargetFramework`, or verify if the application is self contained or an ASP.NET Core application. You can read about this [here](https://github.com/dotnet/sdk-container-builds/blob/main/docs/ContainerCustomization.md#containerbaseimage).
+By default, the SDK will infer the best base image to use. It can use values of properties of your project like `TargetFramework` or verify if the application is self-contained or an ASP.NET Core application. You can read about this [here](https://github.com/dotnet/sdk-container-builds/blob/main/docs/ContainerCustomization.md#containerbaseimage).
 
 Nevertheless, you can override the default base image by adding the `ContainerBaseImage` property to your `.csproj` or `.pubxml` file:
 
@@ -113,6 +113,37 @@ Nevertheless, you can override the default base image by adding the `ContainerBa
 ```
 
 We saw how to use lighter base images in the previous post [".NET 7 SDK built-in container support and Ubuntu Chiseled"](https://laurentkempe.com/2022/11/14/dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled/).
+
+# Specifying the container port
+
+We are using an ASP.NET Core web application in this example, so we need to specify the port on which the mapping will be done with the host machine. In our case, we are using `tcp` port `80`, but you can also use `udp`.
+
+```xml ./Properties/PublishProfiles/local.pubxml
+<Project>
+    <PropertyGroup>
+        <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
+        <WebPublishMethod>Container</WebPublishMethod>
+        <ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:7.0</ContainerBaseImage>
+    </PropertyGroup>
+    <ItemGroup>
+        <ContainerPort Include="80" Type="tcp" />
+    </ItemGroup>
+</Project>
+```
+
+And running the docker image, we can browse to http://localhost:8080/
+
+```powershell
+ ❯  docker run --rm -it -p 8080:80 laurentkempe/my-awesome-webapp
+ info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://[::]:80
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /app
+```
 
 # Define the image name
 
@@ -129,6 +160,8 @@ You can achieve this by adding the following property to your `.csproj` or `.pub
 </Project>
 ```
 
+We define the image name in the publish profile so that we can have multiple names.
+
 # Tagging your image
 
 You can achieve this by adding the following property to your `.csproj` or `.pubxml` file:
@@ -141,85 +174,63 @@ You can achieve this by adding the following property to your `.csproj` or `.pub
 
 This property also can be used to push multiple tags - simply use a semicolon-delimited set of tags, e.g. `1.2.3-alpha2;latest`.
 
-This part is certainly a part that we want to be automated. for example, we can use [MinVer](https://github.com/adamralph/minver) tool for minimalistic versioning using Git tags.
+This part is a part that we want to automate. For example, we can use [MinVer](https://github.com/adamralph/minver) tool for minimalistic versioning using Git tags.
 
-TODO update the example with code sample
+After adding the reference to MinVer to your project, run the publish command again
+
 ```powershell
+ ❯  dotnet publish --os linux --arch x64 -p:PublishProfile=local -c Release
+MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  dotnetSDK70200 -> C:\Users\laure\projects\containerPlayground\dotnetSDK70200\bin\Release\net7.0\linux-x64\dotnetSDK70200.dll
+  dotnetSDK70200 -> C:\Users\laure\projects\containerPlayground\dotnetSDK70200\bin\Release\net7.0\linux-x64\publish\
+  Building image 'laurentkempe/my-awesome-webapp' with tags 0.0.0-alpha.0.2 on top of base image mcr.microsoft.com/dotnet/aspnet:7.0
+  Pushed container 'laurentkempe/my-awesome-webapp:0.0.0-alpha.0.2' to Docker daemon
+```
+
+We can see now that the image is built with a tag `0.0.0-alpha.0.2`. Nice 😁.
+
+When you want to release a version, you need to create a Git tag. The image will be tagged with that version automatically.
+
+```powershell
+❯  git tag 1.0.0
 ❯  dotnet publish --os linux --arch x64 -p:PublishProfile=local -c Release
 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
   Determining projects to restore...
-  Restored C:\Users\lau\projects\src\ImportFromOpmlService\ImportFromOpmlService.csproj (in 165 ms).
-  ImportFromOpmlService -> C:\Users\lau\projects\src\ImportFromOpmlService\bin\Release\net7.0\linux-x64\ImportFromOpmlService.dll
-  ImportFromOpmlService -> C:\Users\lau\projects\src\ImportFromOpmlService\bin\Release\net7.0\linux-x64\publish\
-  Building image 'laurentkempe/importfrom-opml-service' with tags 0.0.0-alpha.0.15 on top of base image mcr.microsoft.com/dotnet/aspnet:7.0
+  All projects are up-to-date for restore.
+  dotnetSDK70200 -> C:\Users\laure\projects\containerPlayground\dotnetSDK70200\bin\Release\net7.0\linux-x64\dotnetSDK70200.dll
+  dotnetSDK70200 -> C:\Users\laure\projects\containerPlayground\dotnetSDK70200\bin\Release\net7.0\linux-x64\publish\
+  Building image 'laurentkempe/my-awesome-webapp' with tags 1.0.0 on top of base image mcr.microsoft.com/dotnet/aspnet:7.0
+  Pushed container 'laurentkempe/my-awesome-webapp:1.0.0' to Docker daemon
 ```
 
-When you want to release a version you will just need to create a Git tag and the image will be tagged with that version automatically.
+Now that the image is built with the tag `1.0.0`.
 
-
-Another interesting nuget to add is reproducible build
-
-# Labels
-
-TODO See
-https://github.com/dotnet/sdk-container-builds/blob/main/docs/ContainerCustomization.md#default-container-labels
-
-
-TODO Should we show how to build an image with Nuke, or in another post?
-
----
-
-The dotnet publish tool uses the official .NET Docker images¹ that are created and optimized by Microsoft. These images contain the .NET SDK¹, which includes the .NET CLI, the .NET runtime, and ASP.NET Core¹. The images are designed for different scenarios, such as development, testing, and production.
-
-To use dotnet publish, you need to have:
-
-- The latest version of the .NET SDK 7.0.200 installed on your machine
-- Docker Desktop installed on your machine
-
-To get started with dotnet publish, follow these steps:
-
-1. Create a new console application using `dotnet new console -o MyApp`
-2. Navigate to the application folder using `cd MyApp`
-3. Open the project file (MyApp.csproj) in your editor and add these lines inside the `<PropertyGroup>` element:
-
-```xml
-<ContainerRegistry>myregistry.azurecr.io</ContainerRegistry>
-<BaseImage>mcr.microsoft.com/dotnet/sdk:7-alpine</BaseImage>
-<ImageTag>myapp:latest</ImageTag>
+```powershell
+ ❯  docker images
+REPOSITORY                                      TAG                  IMAGE ID       CREATED         SIZE
+laurentkempe/my-awesome-webapp                  1.0.0                e532ec6f7556   2 minutes ago   212MB
+laurentkempe/my-awesome-webapp                  0.0.0-alpha.0.2      f06c6bb87647   3 minutes ago   212MB
 ```
 
-4. Save and close the project file
-5. Build and publish your application as a Docker image using `dotnet publish /t:PublishContainer`
-6. Run your application using `docker run -it --rm myregistry.azurecr.io/myapp:latest`
-
-# Versioning your Docker images
-
-When you publish your application as a Docker image, you can specify the version of the image using the `<ImageTag>` property. The version can be a simple string or a combination of variables. For example, you can use the following syntax to specify the version of your image:
-
-That's it! You have just created and published your first .NET application as a Docker image without writing any Dockerfile.
-
-Continue with text displayed on the blog page
-![alt image](https://live.staticflickr.com/65535/49566323082_e1817988c2_c.jpg)
-{% alert info %}
-{% endalert %}
-{% codeblock GreeterService.cs lang:csharp %}
-{% endcodeblock %}
+It is an efficient and easy way. Nevertheless, I am always balanced about tagging to produce an artifact. I think tagging should happen as the last step of your release process. Your release process might be something like this: provide a release candidate artifact to your QA team, they do the testing, and finally, approve it. Then, you would need to tag and produce yet another artifact. Then, would you ask them to test it again?
 
 # Conclusion
 
+In this post, we have seen how to build a container image using the .NET SDK without creating a Dockerfile. We also looked at how to configure the image name and tag. Then how to publish the image to a remote registry using publish profiles.
 
-TODO words on the news announced related to .NET 8
+There are more ways to configure your container image, which we might explore in a future post. For example, you can use the `ContainerLabel` property to add a metadata label to the container.
 
 I hope you enjoyed this post and learned something new that you want to try out. If you have any questions or comments, please leave them below. Thanks for reading!
 
 # Code
 <p></p>
-{% githubCard user:laurentkempe repo:dotfiles align:left %}
+{% githubCard user:laurentkempe repo:containerPlayground align:left %}
 
 # References
 
 * [dotnet publish](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-publish)
 * [.NET SDK Container Building Tools](https://github.com/dotnet/sdk-container-builds)
 * [OCI container](https://opencontainers.org/)
-* [Publish Profiles](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/visual-studio-publish-profiles?view=aspnetcore-6.0#publish-profiles) 
-
+* [Publish Profiles](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/visual-studio-publish-profiles?view=aspnetcore-6.0#publish-profiles)
