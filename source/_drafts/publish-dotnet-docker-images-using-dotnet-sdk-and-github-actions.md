@@ -160,6 +160,7 @@ My older blog posts on the subject
 
 Others
 
+- [.NET SDK Containers CI Pipeline Example](https://github.com/baronfel/sdk-container-demo)
 - [Discover .NET 7 SDK Containers - Support for Authentication and Cross ...](https://devblogs.microsoft.com/dotnet/updates-to-container-support-in-the-dotnet-sdk/)
 - [Containerize a .NET app with dotnet publish](https://learn.microsoft.com/en-us/dotnet/core/docker/publish-as-container?pivots=dotnet-7-0)
 - [GitHub Actions and .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/devops/github-actions-overview)
