@@ -1,29 +1,30 @@
 ---
 title: 'Publish .NET Docker images using .NET SDK and GitHub Actions'
-permalink: /2023/08/26/publish-dotnet-docker-images-using-dotnet-sdk-and-github-actions/
-date: 8/26/2023 10:49:21 AM
-disqusIdentifier: 20230826104921
+permalink: /2023/10/30/publish-dotnet-docker-images-using-dotnet-sdk-and-github-actions/
+date: 10/30/2023 13:52:08
+disqusIdentifier: 20231030015208
 coverSize: partial
 tags: [.NET SDK, Docker, GitHub, GitHub Actions, GitHub Container Registry]
 coverCaption: 'Moʻorea, Polynésie, France'
 coverImage: 'https://live.staticflickr.com/4376/36848966126_d20f2b3d6f_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4376/36848966126_36f1658c9e_q.jpg'
 ---
-My previous blog posts talked about built-in container support in the .NET SDK allowing you to create and publish Docker images for your .NET applications without writing any Dockerfile. I also showed how to use the Chiseled Ubuntu base images optimized for .NET and containers. We went through how to publish your Docker images using the .NET SDK to GitHub Packages / Container Registry.
+My previous blog posts talks about built-in container support in the .NET SDK. It allows you to create and publish Docker images for your .NET applications without writing any Dockerfile. I also showed how to use the Chiseled Ubuntu base images optimized for .NET and containers. We saw  how to publish your Docker images using the .NET SDK to GitHub Packages / Container Registry.
 
-Today, I want to show you how to publish your Docker images using the .NET SDK to GitHub Container Registry using GitHub Actions. This bring us to the next level of automation.
+Today, I want to show you how to publish your Docker images using the .NET SDK to GitHub Container Registry using GitHub Actions. It brings us to the next level of automation.
 <!-- more -->
 # Introduction
 
-GitHub Container Registry is a package hosting service that allows you to host your Docker images and other container images in one place. It is integrated with GitHub and GitHub Actions. You can use GitHub Actions to build and publish your Docker images to GitHub Container Registry. You can also use GitHub Actions to build and publish your Docker images to other container registries such as Docker Hub, Azure Container Registry, and Amazon Elastic Container Registry.
+GitHub Container Registry is a package hosting service that allows you to host your Docker images and other container images in one place. It integrates with GitHub and GitHub Actions. You can use GitHub Actions to build and publish your Docker images to GitHub Container Registry. You can also use GitHub Actions to build and publish your Docker images to other container registries such as Docker Hub, Azure Container Registry, and Amazon Elastic Container Registry.
 
 Combining GitHub Actions and the .NET SDK makes the whole experience easy and more consistent.
 
 # GitHub Packages / Container Registry publish profile
 
-The profile file is used to configure the .NET SDK container building tools. It is used to specify the base image, the target tags. The profile file is a XML file that is named after the publish profile. Later, the publish profile is specified using the **PublishProfile** property used in the GitHub Action.
+We configure the .NET SDK container building tools using a profile.
+It can specify the base image and the target tags. The profile file is a XML file named after the publish profile. Later, you select the publish profile using the **PublishProfile** property in the GitHub Action.
 
-As we want to publish our Docker images to GitHub Container Registry, we need to specify the **ContainerRegistry** property to **ghcr.io**. We also need to specify the **ContainerRepository** property to the name of the image we want to publish. The ContainerRepository needs to be set as a path using your GitHub username, `laurentkempe`, then / and the name of the image.
+As we want to publish our Docker images to GitHub Container Registry, we specify the **ContainerRegistry** property to **ghcr.io**. We also set the **ContainerRepository** property to the name of the image we want to publish. The ContainerRepository is configured as a path using your GitHub username, laurentkempe, then / and the image's name.
 
 ```xml github.pubxml
 <Project>
@@ -43,7 +44,7 @@ As we want to publish our Docker images to GitHub Container Registry, we need to
 
 # Publishing images using GitHub Actions
 
-To be able to publish your Docker images to GitHub Container Registry, you need to create a GitHub Actions workflow. A GitHub Actions workflow is a set of instructions that are executed when a specific event occurs. For example, you can create a workflow that is executed when a new tag is pushed to the repository. You can also create a workflow that is executed when a pull request is created or triggered manually.
+To be able to publish your Docker images to GitHub Container Registry, you need to create a GitHub Actions workflow. A GitHub Actions workflow is a set of instructions executed when a specific event occurs. For example, you can create a workflow executed when a new tag getting pushed to the repository. You can also create a workflow executed when a pull request get created or triggered manually.
 
 Here is an example of a GitHub action using the .NET SDK container building tools to publish a .NET project to GitHub Container Registry using a .NET publish profile:
 
@@ -103,11 +104,11 @@ Error: /home/runner/.dotnet/sdk/7.0.403/Containers/build/Microsoft.NET.Build.Con
 
 > Using the `GITHUB_TOKEN`, instead of a personal access token (classic) with the repo scope, increases the security of your repository as you don't need to use a long-lived personal access token that offers unnecessary access to the repository where your workflow is run. 
 
-To be able to publish from a GitHub Action to GitHub Container Registry using `GITHUB_TOKEN`, you need to ensure your package has access to your workflow. You must add the repository where the workflow is stored to your package. Then use the Role drop-down menu to select the write role.
+To be able to publish from a GitHub Action to GitHub Container Registry using `GITHUB_TOKEN`, you need to ensure your package has access to your workflow. You must add the repository where the workflow is stored to your package. Then, use the Role drop-down menu to select the write role.
 
 ![Manage Actions access](/images/ManageActionsAccess.png)
 
-Follow the following four steps from [the following page](https://docs.github.com/en/packages/managing-github-packages-using-github-actions-workflows/publishing-and-installing-a-package-with-github-actions#upgrading-a-workflow-that-accesses-a-registry-using-a-personal-access-token) to fix the issue.
+Follow the following four steps from [this page](https://docs.github.com/en/packages/managing-github-packages-using-github-actions-workflows/publishing-and-installing-a-package-with-github-actions#upgrading-a-workflow-that-accesses-a-registry-using-a-personal-access-token) to fix the issue.
 
 # Success
 
@@ -146,7 +147,7 @@ Finally, browse to http://localhost:8080/ to see the “Hello World!” message.
 
 # Conclusion
 
-In this blog post, we saw how to publish Docker images to GitHub Container Registry using GitHub Actions and the .NET SDK. We saw how to create a GitHub Actions workflow that is triggered when a git push is made on the main branch matching a path or can be triggered manually.
+In this blog post, we saw how to publish Docker images to GitHub Container Registry using GitHub Actions and the .NET SDK. We saw how to create a GitHub Actions workflow triggered when a git push is made on the main branch matching a path or can be triggered manually.
 
 I hope this helps. If you have any questions, please leave a comment.
 
@@ -169,3 +170,4 @@ Get the source code on GitHub [laurentkempe/containerPlayground/PublishGitHubAct
 
 <p></p>
 {% githubCard user:laurentkempe repo:containerPlayground align:left %}
+
