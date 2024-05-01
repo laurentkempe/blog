@@ -13,7 +13,7 @@ Microsoft recently unveiled Phi-3, the latest iteration of their Small Language 
 
 Excited to dive in? In this guide, I'll show you how to harness the power of Phi-3 and Ollama using C# and Semantic Kernel. I'll walk you through the process of creating a simple console application to get you started on your SLM journey.
 
-So, let's get coding and unlock the potential of Phi-3 and Ollama ony our machine!
+So, let's get coding and unlock the potential of Phi-3 and Ollama on your machine!
 <!-- more -->
 # Introduction
 
