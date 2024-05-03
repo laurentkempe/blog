@@ -194,6 +194,25 @@ tag_pagination: true
 # Comment systems
 # ---------------
 
+# Your giscus information
+giscus:
+    # Switch
+    enable: true
+    src: https://giscus.app/client.js
+    repo: laurentkempe/laurentkempe.github.io
+    repoId: MDEwOlJlcG9zaXRvcnk0ODAwMjQxMg==
+    category: Announcements
+    categoryId: DIC_kwDOAtx1bM4CfHq9
+    mapping: pathname
+    strict: 1
+    reactionsEnabled: 1
+    emitMetadata: 0
+    inputPosition: top
+    theme: light
+    loading: lazy
+    crossorigin: anonymous
+    lang: en
+
 # Your Disqus shortname
 disqus_shortname:
 # Your Gitment information
