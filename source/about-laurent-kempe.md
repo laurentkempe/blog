@@ -1,7 +1,9 @@
-layout: lkpage
+layout: page
 title: "About Laurent Kempé"
 permalink: "/about-laurent-kempe"
 updated: 5/30/2018 6:02:02 PM
+comments: false
+actions: false
 disqusIdentifier: 20180530060202
 alias:
  - /page/about-laurent-kempe.aspx/index.html
