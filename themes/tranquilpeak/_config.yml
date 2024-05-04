@@ -197,7 +197,7 @@ tag_pagination: true
 # Your giscus information
 giscus:
     # Switch
-    enable: true
+    enable: false
     src: https://giscus.app/client.js
     repo: laurentkempe/laurentkempe.github.io
     repoId: MDEwOlJlcG9zaXRvcnk0ODAwMjQxMg==
