@@ -189,6 +189,8 @@ image_gallery: true
 archive_pagination: true
 category_pagination: true
 tag_pagination: true
+# Pagination behavior of presentations page (false: pagination disabled, true: pagination enabled)
+presentation_pagination: true
 
 # ---------------
 # Comment systems
