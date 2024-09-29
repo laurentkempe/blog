@@ -21,7 +21,7 @@ Param(
 )
 
 ${function:install} = {
-    npm install hexo --save
+    npm install hexo@7.3.0 --save
     npm install
     npm audit fix
     Set-Location .\themes\tranquilpeak\
