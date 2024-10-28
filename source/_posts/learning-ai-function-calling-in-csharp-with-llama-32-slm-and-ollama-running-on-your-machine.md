@@ -1,8 +1,8 @@
 ---
 title: 'Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine'
-permalink: /2024/10/26/learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine/
-date: 10/26/2024 9:23:22 AM
-disqusIdentifier: 20241026092322
+permalink: /2024/10/28/learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine/
+date: 10/28/2024 17:22:35
+disqusIdentifier: 20241028052235
 coverSize: partial
 tags: [C#, AI, Ollama, LLM, SLM]
 coverCaption: 'Mona Vale, New South Wales, Australia'
@@ -394,12 +394,13 @@ private static (StringBuilder functionNamePatternMatching, StringBuilder functio
     
     for (var i = 0; i < functionNames.Count; i++)
     {
-        var separator = i < functionNames.Count - 1 ? "," : "";
-        var indentFunctionName = i < functionNames.Count - 1 ? "" : "             ";
-        var indentFunctionDetails = i < functionNames.Count - 1 ? "" : "        ";
-        var newLine = i < functionNames.Count - 1 ? "\n" : "";
+        var functionNamesIndex = functionNames.Count - 1;
+        var separator = i < functionNamesIndex ? "," : "";
+        var indentFunctionName = i < functionNamesIndex ? "" : "             ";
+        var indentFunctionDetails = i < functionNamesIndex ? "" : "        ";
+        var newLine = i < functionNamesIndex ? "\n" : "";
         functionNamePatternMatching.Append(
-            $"{indentFunctionName}\"{functionNames[i].name}\" => {functionNames[i].name}(function.FunctionParameters.City){separator}{newLine}");
+            $"{indentFunctionName}\"{functionNames[i].name}\" => {functionNames[i].name}(function.FunctionParameters.City){separator}{newLine}");  
         functionDetails.Append(
             $"{indentFunctionDetails}new(\"{functionNames[i].name}\", new FunctionParameters(\"city\"), \"{functionNames[i].description}\"){separator}{newLine}");  
     }
@@ -472,3 +473,4 @@ Get the source code on GitHub [laurentkempe/aiPlayground/OllamaToolConsoleApp](h
 
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
+
