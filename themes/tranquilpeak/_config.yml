@@ -65,6 +65,10 @@ sidebar:
         #    title: global.stack_overflow
         #    url: http://stackoverflow.com/users
         #    icon: fab fa-stack-overflow
+        bluesky:
+            title: global.bluesky
+            url: https://bsky.app/profile/laurentkempe.com
+            icon: fab fa-bluesky
         twitter:
             title: global.twitter
             url: https://twitter.com/laurentkempe

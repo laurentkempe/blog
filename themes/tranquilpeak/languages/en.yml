@@ -14,6 +14,7 @@ global:
     author_picture: "Author's picture"
     github: "GitHub"
     stack_overflow: "Stack Overflow"
+    bluesky: "Bluesky"
     twitter: "Twitter"
     facebook: "Facebook"
     flickr: "Flickr"
