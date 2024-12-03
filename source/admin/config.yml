@@ -1,0 +1,29 @@
+backend:
+  name: github
+  repo: laurentkempe/blog
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# These lines should *not* be indented
+media_folder: "source/images" # Media files will be stored in the repo under source/images
+public_folder: "images" # The src attribute for uploaded media will begin with images
+
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "source/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Disqus identifier", name: "disqusIdentifier", widget: "datetime", format: "YYYY" }
+      - { label: "Cover size", name: "coverSize", widget: "string", default: "partial" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Cover Caption", name: "coverCaption", widget: "string", default: ", France" }
+      - { label: "Cover image", name: "coverImage", widget: "string", default: "'https://live.staticflickr.com/65535/48736714892_a7c405d990_h.jpg'" }
+      - { label: "Thumbnail image", name: "thumbnailImage", widget: "string", default: "'https://live.staticflickr.com/65535/48736714892_5d8efce2bd_q.jpg'" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:MM:SS" }
+      - { label: "Body", name: "body", widget: "markdown" }
