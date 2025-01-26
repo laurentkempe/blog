@@ -1,13 +1,13 @@
 ---
-title: 'Leveraging Microsoft Extensions AI for Tool Calling in C#'
+title: 'Leveraging Microsoft.Extensions.AI for Tool Calling in C#'
 permalink: /2024/09/27/leveraging-microsoft-extensions-ai-for-tool-calling-in-csharp/
 date: 9/27/2024 10:51:12 PM
 disqusIdentifier: 20240927105112
 coverSize: partial
 tags: [AI, C#, LLM, Ollama, SLM]
 coverCaption: 'Liebvillers, France'
-coverImage: 'https://live.staticflickr.com/65535/54288571749_e3e0c64bdd_h.jpg'
-thumbnailImage: 'https://live.staticflickr.com/65535/54288571749_74007f9dca_q.jpg'
+coverImage: 'https://live.staticflickr.com/65535/54288342071_35f9e28bf5_h.jpg'
+thumbnailImage: 'https://live.staticflickr.com/65535/54288342071_75a4049e30_q.jpg'
 ---
 In the previous post "[Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine](https://laurentkempe.com/2024/10/28/learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine/)", we wrapped our head around the concept of tool calling and implemented a C# source generator enabling our functions to be called by Llama 3.2 SLM using Ollama. 
 
