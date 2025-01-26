@@ -1,6 +1,6 @@
 ---
-title: 'Tool calling using Ollama and Llama 3.2 SLM on your machine using C#'
-permalink: /2024/09/27/tool-calling-using-ollama-and-llama-32-slm-on-your-machine-using-csharp/
+title: 'Leveraging Microsoft Extensions AI for Tool Calling in C#'
+permalink: /2024/09/27/leveraging-microsoft-extensions-ai-for-tool-calling-in-csharp/
 date: 9/27/2024 10:51:12 PM
 disqusIdentifier: 20240927105112
 coverSize: partial
@@ -9,13 +9,13 @@ coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
 coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
 thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
 ---
+In the previous post "[Learning AI function calling in C# with Llama 3.2 SLM and Ollama running on your machine](https://laurentkempe.com/2024/10/28/learning-ai-function-calling-in-csharp-with-llama-32-slm-and-ollama-running-on-your-machine/)", we wrapped our head around the concept of tool calling and implemented a C# source generator enabling our functions to be called by Llama 3.2 SLM using Ollama. 
 
-Introduction about "Tool calling using Ollama and Llama 3.2 SLM on your machine using C#"
-
+In this post, we will explore how to use Microsoft Extensions AI for tool calling in a simple .NET CLI application. We will leverage the power of Ollama and Llama 3.2 SLM to call functions and interact with the AI model using C#.
 <!-- more -->
 # Introduction
 
-Tool calling in AI, often referred to as function calling, is a feature that allows AI models, particularly Large Language Models (LLMs), to perform tasks beyond simple text generation by invoking predefined functions. This capability significantly enhances the interaction between humans and AI applications, allowing for more complex and structured outputs.
+Tool calling in AI, often referred to as function calling, is a feature that allows AI models, particularly Language Models (LMs), to perform tasks beyond simple text generation by invoking predefined functions. This capability significantly enhances the interaction between humans and AI applications, allowing for more complex and structured outputs.
 
 In essence, tool calling enables an AI model to use external tools, such as APIs and functions, to respond to prompts with more than just text. For example, an AI could be prompted to retrieve the weather forecast for a specific location. Instead of generating a text-based guess, the model can invoke a function that interacts with a weather API to provide accurate, real-time data.
 
@@ -23,50 +23,159 @@ The process involves two main components: the function name and a structured set
 
 Tool calling is particularly useful for creating modular and scalable AI systems. It provides a way to structure outputs consistently, simplifies the interaction by embedding the concept directly into the model, and offers a secure method to prevent users from manipulating the model's output in unintended ways.
 
-The introduction of tool calling has opened up new possibilities for AI applications, making them more versatile and powerful tools in various industries.
+# Requirements
 
+* **Llama 3.2 SLM**, a model supporting function calling
+* **Ollama** to run the SLM and deal with the integration
+* A .NET CLI application using Microsoft.Extensions.AI
 
+# Setting Up Your Environment
 
-Continue with text displayed on the blog page
-![alt image](https://live.staticflickr.com/65535/49566323082_e1817988c2_c.jpg)
-{% alert info %}
-{% endalert %}
-{% codeblock GreeterService.cs lang:csharp %}
-{% endcodeblock %}
+To get started with AI function calling in C#, you need to
 
-```csharp	
-var ollama = new OllamaApiClient(new Uri("http://localhost:11434"));
+* Install [Ollama](https://www.ollama.com/) to run the SLM and handle the integration
+* Pull Llama 3.2 SLM model on your machine `ollama pull llama3.2:3b`
 
-var request = new ChatRequestBuilder()
-    .SetModel("llama3.2:3b")
-    .AddMessage("What is the weather like in Illzach, France?", "user")
-    .AddTool(
-        type: "function", 
-        functionName: "get_current_weather", 
-        functionDescription: "Get the current weather for a city", 
-        parameterType: "object", 
-        properties: new Dictionary<string, Properties> 
-        {
-            { "city", new Properties { Type = "string", Description = "The city to get the weather for" } }
-        },
-        required: ["city"])
-    .Build();
+# Creating a .NET CLI Application
 
-await foreach (var responseStream in ollama.Chat(request)) Console.Write(responseStream?.Message.Content ?? "");
-```
-
-Running this code will output the following:
+We create a simple .NET CLI application that interacts with the AI model using `Microsoft.Extensions.AI`. This library provides a unified set of AI building blocks for .NET applications, making it easy to integrate AI capabilities into your projects.
 
 ```powershell
-{"name":"get_current_weather","parameters": {"city": "Illzach, France"}}
+dotnet new console -n OllamaToolCallingMicrosoftExtensions
+cd OllamaToolCallingMicrosoftExtensions
+dotnet add package Microsoft.Extensions.AI
 ```
 
+# Implementing Tool Calling using Microsoft.Extensions.AI
+
+This is how simple it is to implement tool calling using `Microsoft.Extensions.AI` in a .NET CLI application. We define two functions, `GetCurrentTime` and `GetCurrentWeather`, and use them as tools in the chat client. The chat client is configured to use Ollama as the chat client and wraps the function invocation client with logging.
+
+```csharp
+using System.ComponentModel;
+using Microsoft.Extensions.AI;
+using Microsoft.Extensions.Logging;
+
+Console.WriteLine("Hello, Microsoft.Extensions.AI with Ollama & Tool calling!");
+var message = "What time is it in Illzach, France?";
+Console.WriteLine(message);
+
+using var factory = LoggerFactory.Create(builder => 
+    builder.AddConsole().SetMinimumLevel(LogLevel.Trace));
+
+// 👇🏼 Use Ollama as the chat client
+var ollamaChatClient = 
+    new OllamaChatClient(new Uri("http://localhost:11434/"), "llama3.2:3b");
+var client = new ChatClientBuilder(ollamaChatClient)
+    // 👇🏼 Add logging to the chat client, wrapping the function invocation client 
+    .UseLogging(factory)
+    // 👇🏼 Add function invocation to the chat client, wrapping the Ollama client
+    .UseFunctionInvocation()
+    .Build();
+
+var chatOptions = new ChatOptions
+{
+    // 👇🏼 Define tools that can be used by the chat client
+    Tools =
+    [
+        AIFunctionFactory.Create(GetCurrentTime),
+        AIFunctionFactory.Create(GetCurrentWeather)
+    ]
+};
+
+var response = await client.CompleteAsync(message, chatOptions);
+
+Console.Write(response);
+
+// 👇🏼 Define a time tool
+[Description("Get the current time for a city")]
+string GetCurrentTime(string city)
+{
+    return $"It is {DateTime.Now.Hour}:{DateTime.Now.Minute} in {city}.";
+}
+
+// 👇🏼 Define a weather tool
+[Description("Get the current weather for a city")]
+string GetCurrentWeather(string city)
+{
+    return $"The weather in {city} is sunny.";
+}
+```
+
+# Result
+
+Running the code will output the following:
+
+```powershell
+ ❯  dotnet run
+Hello, Microsoft.Extensions.AI with Ollama & Tool calling!
+What time is it in Illzach, France?
+trce: Microsoft.Extensions.AI.LoggingChatClient[805843669]
+      CompleteAsync invoked: [
+        {
+          "role": "user",
+          "contents": [
+            {
+              "$type": "text",
+              "text": "What time is it in Illzach, France?"
+            }
+          ]
+        }
+      ]. Options: {
+        "toolMode": {
+          "$type": "auto"
+        }
+      }. Metadata: {
+        "providerName": "ollama",
+        "providerUri": "http://localhost:11434/",
+        "modelId": "llama3.2:3b"
+      }.
+trce: Microsoft.Extensions.AI.LoggingChatClient[384896670]
+      CompleteAsync completed: {
+        "choices": [
+          {
+            "role": "assistant",
+            "contents": [
+              {
+                "$type": "text",
+                "text": "The current time in Illzach, France is 10:45."
+              }
+            ]
+          }
+        ],
+        "completionId": "2025-01-26T09:45:18.8271931Z",
+        "modelId": "llama3.2:3b",
+        "createdAt": "2025-01-26T09:45:18.8271931+00:00",
+        "finishReason": "stop",
+        "usage": {
+          "inputTokenCount": 368,
+          "outputTokenCount": 45,
+          "totalTokenCount": 413,
+          "additionalCounts": {
+            "load_duration": 42408700,
+            "total_duration": 805363100,
+            "prompt_eval_duration": 108000000,
+            "eval_duration": 652000000
+          }
+        }
+      }.
+The current time in Illzach, France is 10:45.
+```
+
+As we added the logging with trave level, we can see the trace of chat client's interactions with Ollama. The chat client sends the message "What time is it in Illzach, France?" to Ollama, which invokes the `GetCurrentTime` function and returns the current time in Illzach, France. The logging also provides additional information about the completion like token usage. I think it could be useful to see the function invocation in the trace.
+
 # Conclusion
-TODO
-<p></p>
-{% githubCard user:laurentkempe repo:dotfiles align:left %}
+
+We explored how to leverage `Microsoft.Extensions.AI` for tool calling in a .NET CLI application using Ollama and Llama 3.2 SLM. We demonstrated the setup process, created a simple application, and implemented tool calling to interact with AI models. By integrating these technologies, developers can enhance their applications with advanced AI capabilities, enabling more complex and structured interactions. This approach provides a robust framework for building modular AI systems.
 
 # References
 
+- [Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
+- [Unified AI building blocks for .NET using Microsoft.Extensions.AI](https://learn.microsoft.com/en-us/dotnet/ai/ai-extensions)
+- [Microsoft.Extensions.AI nuget](https://www.nuget.org/packages/Microsoft.Extensions.AI/9.0.1-preview.1.24570.5#readme-body-tab)
 - [Ollama Tool support](https://www.ollama.com/blog/tool-support)
 - [Llama 3.2 SLM](https://ollama.com)
+
+Get the source code on GitHub [laurentkempe/aiPlayground/OllamaToolCallingMicrosoftExtensions](https://github.com/laurentkempe/aiPlayground/tree/main/OllamaToolCallingMicrosoftExtensions).
+
+<p></p>
+{% githubCard user:laurentkempe repo:aiPlayground align:left %}
