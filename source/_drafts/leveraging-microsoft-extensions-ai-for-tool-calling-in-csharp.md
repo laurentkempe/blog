@@ -161,7 +161,7 @@ trce: Microsoft.Extensions.AI.LoggingChatClient[384896670]
 The current time in Illzach, France is 10:45.
 ```
 
-As we added the logging with trave level, we can see the trace of chat client's interactions with Ollama. The chat client sends the message "What time is it in Illzach, France?" to Ollama, which invokes the `GetCurrentTime` function and returns the current time in Illzach, France. The logging also provides additional information about the completion like token usage. I think it could be useful to see the function invocation in the trace.
+As we added the logging with trace level, we can see the trace of chat client's interactions with Ollama. The chat client sends the message "What time is it in Illzach, France?" to Ollama, which invokes the `GetCurrentTime` function and returns the current time in Illzach, France. The logging also provides additional information about the completion like token usage. I think it could be useful to see the function invocation in the trace.
 
 # Conclusion
 
