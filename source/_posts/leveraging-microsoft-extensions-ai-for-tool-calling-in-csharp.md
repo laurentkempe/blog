@@ -1,8 +1,8 @@
 ---
 title: 'Leveraging Microsoft.Extensions.AI for Tool Calling in C#'
-permalink: /2024/09/27/leveraging-microsoft-extensions-ai-for-tool-calling-in-csharp/
-date: 9/27/2024 10:51:12 PM
-disqusIdentifier: 20240927105112
+permalink: /2025/01/27/leveraging-microsoftextensionsai-for-tool-calling-in-csharp/
+date: 01/27/2025 13:32:02
+disqusIdentifier: 20250127013202
 coverSize: partial
 tags: [AI, C#, LLM, Ollama, SLM]
 coverCaption: 'Liebvillers, France'
@@ -179,3 +179,4 @@ Get the source code on GitHub [laurentkempe/aiPlayground/OllamaToolCallingMicros
 
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
+
