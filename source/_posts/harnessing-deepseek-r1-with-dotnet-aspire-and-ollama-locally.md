@@ -1,5 +1,5 @@
 ---
-title: 'Harnessing DeepSeek-R1 with .NET Aspire and Ollama locally'
+title: 'Harnessing DeepSeek-R1 distilled model with .NET Aspire and Ollama locally'
 permalink: /2025/02/01/harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally/
 date: 02/01/2025 12:30:53
 disqusIdentifier: 20250201123053
