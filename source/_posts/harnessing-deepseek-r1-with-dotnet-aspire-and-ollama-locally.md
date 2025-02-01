@@ -1,8 +1,8 @@
 ---
 title: 'Harnessing DeepSeek-R1 with .NET Aspire and Ollama locally'
-permalink: /2025/01/28/harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally/
-date: 1/28/2025 9:11:14 AM
-disqusIdentifier: 20250128091114
+permalink: /2025/02/01/harnessing-deepseek-r1-with-dotnet-aspire-and-ollama-locally/
+date: 02/01/2025 12:30:53
+disqusIdentifier: 20250201123053
 coverSize: partial
 tags: [AI, C#, LLM, Ollama, LLM, SLM]
 coverCaption: 'Liebvillers, France'
@@ -221,3 +221,4 @@ By integrating DeepSeek-R1 with .NET Aspire and Ollama, developers can leverage 
 Get the source code on GitHub [laurentkempe/aiPlayground/DeepSeekOllamaAspire](https://github.com/laurentkempe/aiPlayground/tree/main/DeepSeekOllamaAspire)
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
+
