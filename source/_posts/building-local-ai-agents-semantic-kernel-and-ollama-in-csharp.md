@@ -102,6 +102,8 @@ Stay tuned for upcoming posts where we'll explore more advanced features and imp
 * [Phi-4 SLM](https://www.ollama.com/library/phi4)
 * [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/?tabs=Csharp)
 
+Get the source code on GitHub [laurentkempe/aiPlayground/SKOllamaAgent](https://github.com/laurentkempe/aiPlayground/tree/main/SKOllamaAgent)
+
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
 
