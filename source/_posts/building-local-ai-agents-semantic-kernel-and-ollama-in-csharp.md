@@ -1,8 +1,8 @@
 ---
 title: 'Building Local AI Agents: Semantic Kernel and Ollama in C#'
 permalink: /2025/03/01/building-local-ai-agents-semantic-kernel-and-ollama-in-csharp/
-date: 3/1/2025 12:47:20 PM
-disqusIdentifier: 20250301124720
+date: 03/01/2025 15:08:16
+disqusIdentifier: 20250301030816
 coverSize: partial
 tags: [AI, C#, LLM, Ollama, Semantic Kernel, SLM]
 coverCaption: 'Liebvillers, France'
@@ -104,3 +104,4 @@ Stay tuned for upcoming posts where we'll explore more advanced features and imp
 
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
+
