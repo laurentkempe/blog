@@ -1,6 +1,6 @@
 ---
 title: 'Building Local AI Agents: Semantic Kernel and Ollama in C#'
-permalink: /2025/03/01/semantic-kernel-agents-using-ollama-and-csharp/
+permalink: /2025/03/01/building-local-ai-agents-semantic-kernel-and-ollama-in-csharp/
 date: 3/1/2025 12:47:20 PM
 disqusIdentifier: 20250301124720
 coverSize: partial
