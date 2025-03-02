@@ -1,8 +1,8 @@
 ---
 title: 'Building Local AI Agents: Semantic Kernel Agent with Functions in C# using Ollama'
 permalink: /2025/03/02/building-local-ai-agents-semantic-kernel-agent-with-functions-in-csharp-using-ollama/
-date: 3/2/2025 10:20:26 AM
-disqusIdentifier: 20250302102026
+date: 03/02/2025 11:19:46
+disqusIdentifier: 20250302111946
 coverSize: partial
 tags: [AI, C#, LLM, Ollama, SLM, Semantic Kernel]
 coverCaption: 'Liebvillers, France'
@@ -101,3 +101,4 @@ In the next post, we will continue to explore the capabilities of Semantic Kerne
 Get the source code on GitHub [laurentkempe/aiPlayground/SKOllamaAgentWithFunction](https://github.com/laurentkempe/aiPlayground/tree/main/SKOllamaAgentWithFunction)
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
+
