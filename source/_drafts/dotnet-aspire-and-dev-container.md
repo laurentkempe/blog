@@ -9,7 +9,7 @@ coverCaption: 'Moʻorea, Polynésie, France'
 coverImage: 'https://live.staticflickr.com/4437/36202255394_ad1672c496_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4437/36202255394_5fbaed9148_q.jpg'
 ---
-.NET Aspire 9.1 was just released on February 25th, 2025. It comes with great new dashboard features, and there is more! One feature, I am particularly interested in is the ability to use Dev Containers.
+.NET Aspire 9.1 was just released on February 25th, 2025. It comes with great new dashboard features, and there is more! One feature I am particularly interested in is the ability to use Dev Containers.
 
 In this post, I will show you how to use the new .NET Aspire 9.1 with a Dev Container and JetBrains Rider. You could also use Visual Studio Code.
 <!-- more -->
@@ -35,7 +35,7 @@ Note that you don't need to have .NET or .NET Aspire 9.1 installed on your machi
 
 Dev containers are defined using a `devcontainer.json` file. This file defines the development container and is placed in a `.devcontainer` folder in your project. 
 
-Create a folder for your project, and inside create another folder named `.devcontainer`. Inside the `.devcontainer` folder, create a `devcontainer.json` file. Then edit `devcontainer.json` file and copy paster the following:
+Create a folder for your project, and inside create another folder named `.devcontainer`. Inside the `.devcontainer` folder, create a `devcontainer.json` file. Then edit the `devcontainer.json` file and copy-paste the following:
 
 ```json .devcontainer/devcontainer.json
 {
@@ -113,7 +113,7 @@ and you will be connected to it. You can now start developing in your container.
 
 ![JetBrains Gateway Dev Container connected](/images/2025/dotnet-aspire_jetbrains-rider-connected-container.png)
 
-As the .NET Aspire templates are installed, you can create a new project using Rider or from the terminal. If you already have a .NET Aspire project in your repository, then you could run it directly. Nuget packages would be restored, and development certificate is trusted 😏
+As the .NET Aspire templates are installed, you can create a new project using Rider or from the terminal. If you already have a .NET Aspire project in your repository, then you could run it directly. NuGet packages would be restored, and development certificate is trusted 😏
 
 ![Rider New Solution](/images/2025/dotnet-aspire_jetbrains-rider-new-solution.png)
 
@@ -125,7 +125,7 @@ Now, you can benefit from all the features of Rider and .NET Aspire 9.1. For exa
 
 ![Rider .NET Aspire Run Configuration](/images/2025/dotnet-aspire_jetbrains-rider-run-configuration.png)
 
-This will start the application and open the browser to the URL of the Web project. Then Rider, will ask you the permission to open the following URL:
+This will start the application and open the browser to the URL of the Web project. Then Rider will ask you for permission to open the following URL:
 
 ![Rider .NET Aspire Open Following Url](/images/2025/dotnet-aspire_jetbrains-rider-open-following-url.png)
 
@@ -133,7 +133,7 @@ You can always see which ports are mapped from your dev container to your host m
 
 ![Rider Dev Container Ports](/images/2025/dotnet-aspire_jetbrains-rider-ports.png)
 
-Another nice feature is the **Services** tab which give you some of the functionalities of .NET Aspire Dashboard directly in Rider.
+Another nice feature is the **Services** tab which gives you some of the functionalities of .NET Aspire Dashboard directly in Rider.
 
 ![Rider Dev Container Ports](/images/2025/dotnet-aspire_jetbrains-rider-services.png)
 
@@ -141,10 +141,10 @@ For sure, you can start your AppHost in Debug, set breakpoints, and debug your a
 
 ![Rider Dev Container Debugging](/images/2025/dotnet-aspire_jetbrains-rider-debugging.png)
 
-Truely, amazing! 🤩
+Truly amazing! 🤩
 
 {% alert warning %}
-We used the **From Local Project** option to create the Dev Container. We are using it for testing. When you are all set, you will prefer from **VCS Project** for performance reasons. In that case the source code would be cloned in the container and not mounted from the host. And this makes the development experience much faster.
+We used the **From Local Project** option to create the Dev Container. We are using it for testing. When you are all set, you will prefer **from VCS Project** for performance reasons. In that case, the source code would be cloned in the container and not mounted from the host. And this makes the development experience much faster.
 {% endalert %}
 
 # Conclusion
