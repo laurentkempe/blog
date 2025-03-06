@@ -156,13 +156,12 @@ In this post, I showed you how to use the new .NET Aspire 9.1 with a Dev Contain
 * [Development Containers](https://containers.dev/)
 * [Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 * [Dev Container overview](https://www.jetbrains.com/help/rider/Connect_to_DevContainer.html)
-* [Big News for .NET and Game Devs: Rider Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/dotnet/2024/10/16/rider-reveal-livestream-big-news-for-dotnet-and-game-devs/)
-* [dotnet/aspire-devcontainer](https://github.com/dotnet/aspire-devcontainer)
 * [Available Dev Container Features](https://containers.dev/features)
 * [Dev Container Lifecycle scripts](https://containers.dev/implementors/json_reference/#lifecycle-scripts)
+* [dotnet/aspire-devcontainer](https://github.com/dotnet/aspire-devcontainer)
 * [.NET Development Container Images](https://mcr.microsoft.com/en-us/artifact/mar/devcontainers/dotnet/about)
 * [JetBrains Rider and the .NET Aspire Plugin](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/)
-
+* [Big News for .NET and Game Devs: Rider Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/dotnet/2024/10/16/rider-reveal-livestream-big-news-for-dotnet-and-game-devs/)
 
 Get the source code on GitHub [laurentkempe/aspirePlayground/Aspire91DevContainer](https://github.com/laurentkempe/aspirePlayground/tree/main/Aspire91DevContainer)
 <p></p>
