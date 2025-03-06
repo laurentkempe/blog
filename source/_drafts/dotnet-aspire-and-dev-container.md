@@ -9,14 +9,14 @@ coverCaption: 'Moʻorea, Polynésie, France'
 coverImage: 'https://live.staticflickr.com/4437/36202255394_ad1672c496_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/4437/36202255394_5fbaed9148_q.jpg'
 ---
-.NET Aspire 9.1 was just released on February 25th, 2025. It comes with great new dashboard features, and there is more! One feature I am particularly interested in is the ability to use Dev Containers.
+.NET Aspire 9.1 was just released on February 25th, 2025. It comes with great new dashboard features, and there is more! One feature I am particularly interested in is the ability to use **Dev Containers**.
 
 In this post, I will show you how to use the new .NET Aspire 9.1 with a Dev Container and JetBrains Rider. You could also use Visual Studio Code.
 <!-- more -->
 
 # Introduction
 
-First, what are Dev Containers? Dev Containers are a way to **define a fully functional development environment in a container**. This allows you to have a **consistent development environment across your team**. It also allows you to have a development environment that is **isolated from your host machine**. It also means that you can host your development environment somewhere else, like in the cloud, and access it from anywhere.
+First, what are Dev Containers? Dev Containers are a way to **define a fully functional development environment in a container**. This allows you to have a **consistent development environment across your team**. It also allows you to have a development environment that is **isolated from your host machine**. This means that you can host your development environment somewhere else, like in the cloud, and access it from anywhere.
 
 # Prerequisites
 
@@ -29,7 +29,7 @@ Then you can use one of the following:
 * [Rider](https://www.jetbrains.com/rider/) or [Gateway](https://www.jetbrains.com/remote-development/gateway/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-Note that you don't need to have .NET or .NET Aspire 9.1 installed on your machine as this will be provided by the Dev Container 🤯
+Note that you don't need to have .NET or .NET Aspire 9.1 installed on your machine as these will be provided by the Dev Container 🤯
 
 # Getting Started
 
@@ -55,9 +55,9 @@ Create a folder for your project, and inside create another folder named `.devco
     // 👇🏼 Install .NET Aspire project templates, run inside the container 
     // immediately after it has started for the first time
 	"onCreateCommand": "dotnet new install Aspire.ProjectTemplates::9.1.0 --force",
-    // 👇🏼 Restore nugets, when the container is created
+    // 👇🏼 Restore NuGet packages when the container is created
 	"postCreateCommand": "dotnet restore",
-    // 👇🏼 Trusting the development certificates, run each time the
+    // 👇🏼 Trust the development certificates, run each time the
     // container is successfully started
     "postStartCommand": "dotnet dev-certs https --trust",
     "customizations": {
@@ -89,19 +89,19 @@ The `postCreateCommand` section defines the command that is run once when the co
 
 The `postStartCommand` section defines the command that is run each time the container starts. In this case, we are trusting the development certificates. 
 
-Finally, the `customizations` section defines the customizations that are applied to the container. In this case, we are installing the C# extension for Visual Studio Code, and the GitHub Copilot extensions.
+Finally, the `customizations` section defines the customizations that are applied to the container. In this case, we are installing the C# extension for Visual Studio Code and the GitHub Copilot extensions.
 
 # Using the Dev Container in Rider or Gateway
 
 {% alert warning %}
-For this blog post, I used Rider 2025.1 EAP 7, which is the Early Access Program version. It seems to fix an issue I had with `onCreateCommand`. On previous versions, the .NET Aspire templates were not installed.
+For this blog post, I used Rider 2025.1 EAP 7, which is the Early Access Program version. It seems to fix an issue I had with `onCreateCommand`. In previous versions, the .NET Aspire templates were not installed.
 {% endalert %}
 
 Start Rider or JetBrains Gateway, select Remote Development / Dev Containers, then click on **New Dev Container** and open your project. 
 
 ![JetBrains Rider New Dev Container](/images/2025/dotnet-aspire_jetbrains-rider-new-devcontainer.png)
 
-Select **From Local Project** then **Rider** and the path of your devcontainer.json file and click on the **Build Container and Continue** button.
+Select **From Local Project**, then **Rider** and the path of your devcontainer.json file, and click on the **Build Container and Continue** button.
 
 ![JetBrains Gateway New Dev Container from local project](/images/2025/dotnet-aspire_jetbrains-rider-dev-containers.png)
 
@@ -113,7 +113,7 @@ and you will be connected to it. You can now start developing in your container.
 
 ![JetBrains Gateway Dev Container connected](/images/2025/dotnet-aspire_jetbrains-rider-connected-container.png)
 
-As the .NET Aspire templates are installed, you can create a new project using Rider or from the terminal. If you already have a .NET Aspire project in your repository, then you could run it directly. NuGet packages would be restored, and development certificate is trusted 😏
+As the .NET Aspire templates are installed, you can create a new project using Rider or from the terminal. If you already have a .NET Aspire project in your repository, then you could run it directly. NuGet packages would be restored, and the development certificate is trusted 😏
 
 ![Rider New Solution](/images/2025/dotnet-aspire_jetbrains-rider-new-solution.png)
 
