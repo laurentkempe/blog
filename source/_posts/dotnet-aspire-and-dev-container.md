@@ -1,8 +1,8 @@
 ---
 title: '.NET Aspire and Dev Container'
-permalink: /2025/03/05/dotnet-aspire-and-dev-container/
-date: 3/5/2025 1:36:19 PM
-disqusIdentifier: 20250305013619
+permalink: /2025/03/06/dotnet-aspire-and-dev-container/
+date: 03/06/2025 22:59:39
+disqusIdentifier: 20250306105939
 coverSize: partial
 tags: [.NET Aspire, Dev Container, Docker, Rider]
 coverCaption: 'Moʻorea, Polynésie, France'
@@ -166,3 +166,4 @@ In this post, I showed you how to use the new .NET Aspire 9.1 with a Dev Contain
 Get the source code on GitHub [laurentkempe/aspirePlayground/Aspire91DevContainer](https://github.com/laurentkempe/aspirePlayground/tree/main/Aspire91DevContainer)
 <p></p>
 {% githubCard user:laurentkempe repo:aspirePlayground align:left %}
+
