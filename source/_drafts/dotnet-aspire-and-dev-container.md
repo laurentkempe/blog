@@ -4,14 +4,14 @@ permalink: /2025/03/05/dotnet-aspire-and-dev-container/
 date: 3/5/2025 1:36:19 PM
 disqusIdentifier: 20250305013619
 coverSize: partial
-tags: [.NET Aspire, Dev Container, Docker]
-coverCaption: 'LO Ferré, Petite Anse, Martinique, France'
-coverImage: 'https://c7.staticflickr.com/9/8689/16775792438_e45283970c_h.jpg'
-thumbnailImage: 'https://c7.staticflickr.com/9/8689/16775792438_8366ee5732_q.jpg'
+tags: [.NET Aspire, Dev Container, Docker, Rider]
+coverCaption: 'Moʻorea, Polynésie, France'
+coverImage: 'https://live.staticflickr.com/4437/36202255394_ad1672c496_h.jpg'
+thumbnailImage: 'https://live.staticflickr.com/4437/36202255394_5fbaed9148_q.jpg'
 ---
 .NET Aspire 9.1 was just released on February 25th, 2025. It comes with great new dashboard features, and there is more! One feature, I am particularly interested in is the ability to use Dev Containers.
 
-In this post, I will show you how to use the new .NET Aspire 9.1 with a Dev Container.
+In this post, I will show you how to use the new .NET Aspire 9.1 with a Dev Container and JetBrains Rider. You could also use Visual Studio Code.
 <!-- more -->
 
 # Introduction
@@ -24,20 +24,18 @@ To follow this post, you need to have the following installed on your machine:
 
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
-Then you can one of the following IDEs:
+Then you can use one of the following:
 
-* [Visual Studio Code](https://code.visualstudio.com/)
 * [Rider](https://www.jetbrains.com/rider/) or [Gateway](https://www.jetbrains.com/remote-development/gateway/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 Note that you don't need to have .NET or .NET Aspire 9.1 installed on your machine as this will be provided by the Dev Container 🤯
 
-{% alert info %}
-Rider Is Now Free for Non-Commercial Use! See the References section for more information.
-{% endalert %}
-
 # Getting Started
 
-Dev containers are defined using a `devcontainer.json` file. This file defines the development container and is placed in a `.devcontainer` folder in your project. The `devcontainer.json` file can define the following:
+Dev containers are defined using a `devcontainer.json` file. This file defines the development container and is placed in a `.devcontainer` folder in your project. 
+
+Create a folder for your project, and inside create another folder named `.devcontainer`. Inside the `.devcontainer` folder, create a `devcontainer.json` file. Then edit `devcontainer.json` file and copy paster the following:
 
 ```json .devcontainer/devcontainer.json
 {
@@ -48,13 +46,12 @@ Dev containers are defined using a `devcontainer.json` file. This file defines t
         "ghcr.io/devcontainers/features/docker-in-docker:2": {},
         "ghcr.io/devcontainers/features/powershell:1": {},
     },
-
+    // 👇🏼 This is not supported by Rider but it is supported by VS Code 
     "hostRequirements": {
         "cpus": 8,
         "memory": "32gb",
         "storage": "64gb"
     },
-
     // 👇🏼 Install .NET Aspire project templates, run inside the container 
     // immediately after it has started for the first time
 	"onCreateCommand": "dotnet new install Aspire.ProjectTemplates::9.1.0 --force",
@@ -64,6 +61,13 @@ Dev containers are defined using a `devcontainer.json` file. This file defines t
     // container is successfully started
     "postStartCommand": "dotnet dev-certs https --trust",
     "customizations": {
+        // 👇🏼 Settings and Plugins for Rider
+        "jetbrains": {
+            "settings": {
+            }
+            , "plugins" : [
+            ],
+        },
     "vscode": {
             "extensions": [
                 "ms-dotnettools.csdevkit",
@@ -75,7 +79,7 @@ Dev containers are defined using a `devcontainer.json` file. This file defines t
 }
 ```
 
-The `features` section defines the features that are installed in the container. In this case, we are installing Docker in Docker and PowerShell.
+The `features` section defines the features that are installed in the container. In this case, we are installing **Docker in Docker** and **PowerShell**.
 
 The `hostRequirements` section defines the requirements for the host machine. 
 
@@ -88,6 +92,10 @@ The `postStartCommand` section defines the command that is run each time the con
 Finally, the `customizations` section defines the customizations that are applied to the container. In this case, we are installing the C# extension for Visual Studio Code, and the GitHub Copilot extensions.
 
 # Using the Dev Container in Rider or Gateway
+
+{% alert warning %}
+For this blog post, I used Rider 2025.1 EAP 7, which is the Early Access Program version. It seems to fix an issue I had with `onCreateCommand`. On previous versions, the .NET Aspire templates were not installed.
+{% endalert %}
 
 Start Rider or JetBrains Gateway, select Remote Development / Dev Containers, then click on **New Dev Container** and open your project. 
 
@@ -105,24 +113,43 @@ and you will be connected to it. You can now start developing in your container.
 
 ![JetBrains Gateway Dev Container connected](/images/2025/dotnet-aspire_jetbrains-rider-connected-container.png)
 
+As the .NET Aspire templates are installed, you can create a new project using Rider or from the terminal. If you already have a .NET Aspire project in your repository, then you could run it directly. Nuget packages would be restored, and development certificate is trusted 😏
+
+![Rider New Solution](/images/2025/dotnet-aspire_jetbrains-rider-new-solution.png)
+
+A new window will open with the new solution created. You can close the other one.
+
+![Rider New Solution Created](/images/2025/dotnet-aspire_jetbrains-rider-new-solution-created.png)
+
+Now, you can benefit from all the features of Rider and .NET Aspire 9.1. For example, you can use the .NET Aspire run configuration to start your .NET Aspire application, which will start the AppHost, then the ApiService and the Web.
+
+![Rider .NET Aspire Run Configuration](/images/2025/dotnet-aspire_jetbrains-rider-run-configuration.png)
+
+This will start the application and open the browser to the URL of the Web project. Then Rider, will ask you the permission to open the following URL:
+
+![Rider .NET Aspire Open Following Url](/images/2025/dotnet-aspire_jetbrains-rider-open-following-url.png)
+
+You can always see which ports are mapped from your dev container to your host machine by clicking on the **Ports** tab in the **Remote Explorer**.
+
+![Rider Dev Container Ports](/images/2025/dotnet-aspire_jetbrains-rider-ports.png)
+
+Another nice feature is the **Services** tab which give you some of the functionalities of .NET Aspire Dashboard directly in Rider.
+
+![Rider Dev Container Ports](/images/2025/dotnet-aspire_jetbrains-rider-services.png)
+
+For sure, you can start your AppHost in Debug, set breakpoints, and debug your application.
+
+![Rider Dev Container Debugging](/images/2025/dotnet-aspire_jetbrains-rider-debugging.png)
+
+Truely, amazing! 🤩
+
 {% alert warning %}
-We used the **From Local Project** option to create the Dev Container. We are using it for testing. When you are all set, you will prefer from **VCS Project** for performance reasons. In that case the source code would be cloned in the container and not mounted from the host.
+We used the **From Local Project** option to create the Dev Container. We are using it for testing. When you are all set, you will prefer from **VCS Project** for performance reasons. In that case the source code would be cloned in the container and not mounted from the host. And this makes the development experience much faster.
 {% endalert %}
-
-# Using the Dev Container in Visual Studio Code
-
-To use the Dev Container, you need to open your project in Visual Studio Code or Rider. Then you need to open the Command Palette and run the `Remote-Containers: Reopen in Container` command. This will open your project in the Dev Container.
-
-Continue with text displayed on the blog page
-![alt image](https://live.staticflickr.com/65535/49566323082_e1817988c2_c.jpg)
-{% alert info %}
-{% endalert %}
-{% codeblock GreeterService.cs lang:csharp %}
-{% endcodeblock %}
 
 # Conclusion
 
-In this post, I showed you how to use the new .NET Aspire 9.1 with a Dev Container. This allows you to have a consistent development environment across your team and have a development environment that is isolated from your host machine. It also means that you can host your development environment somewhere else, like in the cloud, and access it from anywhere.
+In this post, I showed you how to use the new .NET Aspire 9.1 with a Dev Container from JetBrains Rider. This allows you to have a consistent development environment across your team and have a development environment that is isolated from your host machine. It also means that you can host your development environment somewhere else, like in the cloud, and access it from anywhere.
 
 # References
 
@@ -134,6 +161,9 @@ In this post, I showed you how to use the new .NET Aspire 9.1 with a Dev Contain
 * [Available Dev Container Features](https://containers.dev/features)
 * [Dev Container Lifecycle scripts](https://containers.dev/implementors/json_reference/#lifecycle-scripts)
 * [.NET Development Container Images](https://mcr.microsoft.com/en-us/artifact/mar/devcontainers/dotnet/about)
+* [JetBrains Rider and the .NET Aspire Plugin](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/)
 
+
+Get the source code on GitHub [laurentkempe/aspirePlayground/Aspire91DevContainer](https://github.com/laurentkempe/aspirePlayground/tree/main/Aspire91DevContainer)
 <p></p>
 {% githubCard user:laurentkempe repo:aspirePlayground align:left %}
