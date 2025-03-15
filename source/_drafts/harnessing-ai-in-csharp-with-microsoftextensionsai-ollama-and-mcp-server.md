@@ -9,24 +9,24 @@ coverCaption: 'Les Vosges, France'
 coverImage: 'https://live.staticflickr.com/5210/5297920398_199c438d4c_h.jpg'
 thumbnailImage: 'https://live.staticflickr.com/5210/5297920398_431f7d7b27_q.jpg'
 ---
-In the previous post "[Leveraging Microsoft.Extensions.AI for Tool Calling in C#](https://laurentkempe.com/2025/01/27/leveraging-microsoftextensionsai-for-tool-calling-in-csharp/)" we explored how to create our own tools which could be called to enhance the capabilities of Large Language Models (LLM). We saw how by integrating these technologies, developers can enhance their applications with advanced AI capabilities, enabling more complex interactions.
+In the previous post "[Leveraging Microsoft.Extensions.AI for Tool Calling in C#](https://laurentkempe.com/2025/01/27/leveraging-microsoftextensionsai-for-tool-calling-in-csharp/)", we explored how to create custom tools that enhance the capabilities of Large Language Models (LLMs). We demonstrated how integrating these technologies enables developers to build applications with advanced AI capabilities, facilitating more complex interactions.
 
-In this post, we will go further and see how to use **Model Context Protocol (MCP)** servers to exploit Tools and AI models in C# applications. We continue to use Ollama to use local AI models.
+In this post, we'll take a step further and explore how to leverage **Model Context Protocol (MCP)** servers to utilize external Tools and AI models in C# applications. We'll continue using Ollama to run local AI models.
 <!-- more -->
 
 # Introduction
 
-The future of AI lies not just in powerful models, but in their ability to seamlessly interact with the data that drives our world. **Model Context Protocol (MCP)**, a groundbreaking open standard designed to bridge the gap between AI systems and the diverse data sources they rely on. Launched by Anthropic, MCP simplifies the challenge of integrating AI with content repositories, business tools, and development environments. By replacing fragmented, custom integrations with a universal protocol, MCP empowers developers to create secure, scalable, and context-aware AI applications.
+The future of AI extends beyond powerful models to their seamless interaction with the data that drives our world. **Model Context Protocol (MCP)** is a groundbreaking open standard designed to bridge the gap between AI systems and diverse data sources. Developed by Anthropic, MCP simplifies the integration of AI with content repositories, business tools, and development environments. By replacing fragmented, custom integrations with a universal protocol, MCP empowers developers to create secure, scalable, and context-aware AI applications.
 
 # Requirements
 
 * **Llama 3.2 SLM**, a model supporting function calling
-* **Ollama** to run the SLM and deal with the integration
+* **Ollama** to run the SLM and handle the integration
 * A .NET CLI application using **Microsoft.Extensions.AI** and **McpDotNet.Extensions.AI**
 
 # Create a .NET Console Application
 
-We create a simple .NET CLI application that interacts with the AI model using `Microsoft.Extensions.AI`. This library provides a unified set of AI building blocks for .NET applications, making it easy to integrate AI capabilities into your projects. We extend those capabilities by using `McpDotNet.Extensions.AI` to provide some tools via a **Model Context Protocol (MCP) server**.
+We'll create a simple .NET CLI application that interacts with the AI model using `Microsoft.Extensions.AI`. This library provides a unified set of AI building blocks for .NET applications, making it easy to incorporate AI capabilities into your projects. We'll extend these capabilities using `McpDotNet.Extensions.AI` to provide tools via a **Model Context Protocol (MCP) server**.
 
 ```powershell
 dotnet new console -n OllamaMCPServerMicrosoftExtensions
@@ -37,9 +37,9 @@ dotnet add package McpDotNet.Extensions.AI
 
 # Implementation using Microsoft.Extensions.AI & McpDotNet.Extensions.AI
 
-We create a simple console application leveraging `Microsoft.Extensions.AI` to interact with an llama3.2 AI model running locally using Ollama. Then we extend the capabilities of the chat client using `McpDotNet.Extensions.AI` to provide the tools which are hosted outside of our application by a MCP server.
+Our console application leverages `Microsoft.Extensions.AI` to interact with a Llama 3.2 AI model running locally via Ollama. We then enhance the chat client's capabilities using `McpDotNet.Extensions.AI` to incorporate tools hosted outside our application by an MCP server.
 
-To continue with our previous post examples we will use a **Time MCP Server** which is a simple Docker container. The container is started and stopped when we run the application.
+Continuing from our previous examples, we'll use a **Time MCP Server** packaged as a simple Docker container. This container automatically starts and stops when our application runs.
 
 ```csharp
 Console.WriteLine("Hello, Microsoft.Extensions.AI with Ollama & MCP Server !");
@@ -80,7 +80,7 @@ IList<ChatMessage> messages =
 [
     new(ChatRole.System, """
                          You are a helpful assistant delivering time in one sentence
-                         in a short format, like 'It is 10:08 in Paris, France.
+                         in a short format, like 'It is 10:08 in Paris, France.'
                          """),
     new(ChatRole.User, message)
 ];
@@ -96,7 +96,7 @@ Console.WriteLine(response);
 
 # Running the Application
 
-To run the application, we simply `dotnet run` it. The application will start the **Time MCP Server** Docker container, interact with the AI model, and return the current time in Illzach, France.
+To run the application, simply execute `dotnet run`. The application starts the **Time MCP Server** Docker container, interacts with the AI model, and returns the current time in Illzach, France.
 
 ```powershell
 > dotnet run
@@ -109,7 +109,7 @@ trce: Microsoft.Extensions.AI.LoggingChatClient[805843669]
           "contents": [
             {
               "$type": "text",
-              "text": "You are a helpful assistant delivering time in one sentence\r\nin a short format, like 'It is 10:08 in Paris, France."
+              "text": "You are a helpful assistant delivering time in one sentence\r\nin a short format, like 'It is 10:08 in Paris, France.'"
             }
           ]
         },
@@ -182,9 +182,9 @@ trce: Microsoft.Extensions.AI.LoggingChatClient[384896670]
 The current time in Illzach, France (CET) is 12:51 PM.
 ```
 
-We can see from the trace logs that the application interacts with the AI model, gets a `functionCall` answer from the assistant. `Microsoft.Extensions.AI` client calls the MCP server and gets a `functionResult` from the tool and finally the assistant gives the answer to the user based on the function call result.
+The trace logs reveal how the application interacts with the AI model: first, it receives a `functionCall` response from the assistant, then the `Microsoft.Extensions.AI` client calls the MCP server and receives a `functionResult` from the tool. Finally, the assistant formulates an answer for the user based on the function call result.
 
-We can also inspect the logs on the **Time MCP Server** Docker container to see the interaction with the application.
+We can also examine the logs from the **Time MCP Server** Docker container to observe the interaction with our application:
 
 ```powershell
 2025-03-15 11:01:11
@@ -215,7 +215,7 @@ We can also inspect the logs on the **Time MCP Server** Docker container to see 
     "tools": [
       {
         "name": "get_current_time",
-        "description": "Get current time in a specific timezones",
+        "description": "Get current time in a specific timezone",
         "inputSchema": {
           "type": "object",
           "properties": {
@@ -275,13 +275,13 @@ We can also inspect the logs on the **Time MCP Server** Docker container to see 
 }
 ```
 
-We can see that the connection is established, the tools are listed, and the function call is made to get the current time. Note that this log is from a previous run of the application, so the time is different.
+These logs show the connection being established, tools being listed, and a function call being made to retrieve the current time. Note that this log comes from a previous run of the application, so the time differs from our main example.
 
 # Conclusion
 
-In conclusion, the Model Context Protocol (MCP) represents a transformative leap forward for AI integrations. By offering a standardized, unified method for connecting AI agents to tools and data sources, MCP simplifies development, enhances flexibility, and enables real-time, context-rich interactions. Its dynamic discovery capabilities and two-way communication set it apart from traditional APIs, paving the way for smarter, more responsive AI systems.
+The Model Context Protocol (MCP) represents a transformative advancement for AI integrations. By providing a standardized, unified approach for connecting AI agents to tools and data sources, MCP simplifies development, enhances flexibility, and enables real-time, context-rich interactions. Its dynamic discovery capabilities and bidirectional communication distinguish it from traditional APIs, creating a foundation for more intelligent, responsive AI systems.
 
-The future of AI looks brighter than ever, with MCP driving seamless integrations and empowering intelligent solutions across a myriad of use cases. It's an exciting time for AI enthusiasts and professionals alike, as we stand on the brink of a new era of connectivity and possibility! 🚀
+The future of AI has never looked brighter, with MCP driving seamless integrations and powering intelligent solutions across numerous use cases. It's truly an exciting time for AI enthusiasts and professionals as we embark on a new era of connectivity and possibility! 🚀
 
 
 # References
