@@ -1,8 +1,8 @@
 ---
 title: 'Harnessing AI in C# with Microsoft.Extensions.AI, Ollama, and MCP Server'
 permalink: /2025/03/15/harnessing-ai-in-csharp-with-microsoftextensionsai-ollama-and-mcp-server/
-date: 3/15/2025 12:09:22 PM
-disqusIdentifier: 20250315120922
+date: 03/15/2025 15:36:00
+disqusIdentifier: 20250315033600
 coverSize: partial
 tags: [AI, C#, MCP, SLM, Ollama]
 coverCaption: 'Les Vosges, France'
@@ -298,3 +298,4 @@ Get the source code on GitHub [laurentkempe/aiPlayground/OllamaMCPServerMicrosof
 
 <p></p>
 {% githubCard user:laurentkempe repo:aiPlayground align:left %}
+
