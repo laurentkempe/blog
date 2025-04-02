@@ -1,4 +1,6 @@
-# My blog
+# My OLD blog
+
+The new blog is on [laurentkempe/myblog](https://github.com/laurentkempe/myblog)
 
 [Laurent Kempé - One of the Tech Head Brothers](https://laurentkempe.com/)
 
